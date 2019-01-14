@@ -1,0 +1,9929 @@
+[
+  {
+    "externalid": "15",
+    "id": "15",
+    "team": "team0015",
+    "password": [
+      "BTXGWERA",
+      "NQGFXBST"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "**",
+      "**"
+    ],
+    "location": "A01",
+    "schoolName": [
+      "北京化工大学",
+      "Beijing University of Chemical Technology"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.16",
+    "members": [
+      "Ethan(Liu Quanda)",
+      "Deli Yu(Yu Deli)",
+      "Weijie Zhao(Zhao Weijie)"
+    ]
+  },
+  {
+    "externalid": "1",
+    "id": "1",
+    "team": "team0001",
+    "password": [
+      "ZODQMXWE",
+      "YSTHKOJR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "每天起床第一句先给自己打个气",
+      "ABTU"
+    ],
+    "location": "A02",
+    "schoolName": [
+      "阿坝师范学院",
+      "Aba Teachers College"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.39",
+    "members": [
+      "夏巍(xia wei)",
+      "徐磊(xu lei)",
+      "xu xin(xu xin)"
+    ]
+  },
+  {
+    "externalid": "34",
+    "id": "34",
+    "team": "team0034",
+    "password": [
+      "NEZMDFKG",
+      "RAQKLEMH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "教练去哪儿",
+      "Triple Killed"
+    ],
+    "location": "A03",
+    "schoolName": [
+      "常州大学",
+      "Changzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.29",
+    "members": [
+      "Chongzhuo Yang(Yang Chongzhuo)",
+      "Bai Junqing(Bai Junqing)",
+      "王涛(Wang Tao)"
+    ]
+  },
+  {
+    "externalid": "40",
+    "id": "40",
+    "team": "team0040",
+    "password": [
+      "HVIEYUNZ",
+      "OLNRXQGA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "One Minute Lost",
+      "One Minute Lost"
+    ],
+    "location": "A04",
+    "schoolName": [
+      "大连理工大学",
+      "Dalian University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.31",
+    "members": [
+      "Chen Huo(Huo Chen)",
+      "Jiaqing Lv(Lv Jiaqing)",
+      "Yicheng Liu(Liu Yicheng)"
+    ]
+  },
+  {
+    "externalid": "51",
+    "id": "51",
+    "team": "team0051",
+    "password": [
+      "TAGWIPCM",
+      "UOZFJYDX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "谜",
+      "NEU_Enigma"
+    ],
+    "location": "A07",
+    "schoolName": [
+      "东北大学",
+      "Northeastern University (China)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.67",
+    "members": [
+      "杜志聪(Du Zhicong)",
+      "茅晓璐(Mao Xiaolu)",
+      "陈明(Chen Ming)"
+    ]
+  },
+  {
+    "externalid": "58",
+    "id": "58",
+    "team": "team0058",
+    "password": [
+      "BNTPDZME",
+      "SITKOEAZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小白兔白了又白白了又白",
+      "the coooooooooolest rabbit"
+    ],
+    "location": "A08",
+    "schoolName": [
+      "东北林业大学",
+      "Northeast Forestry University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.2",
+    "members": [
+      "NULL(Song Jianyu)",
+      "Guanhua Mu(Mu Guanhua)",
+      "Yunming Zhang(Zhang Yunming)"
+    ]
+  },
+  {
+    "externalid": "61",
+    "id": "61",
+    "team": "team0061",
+    "password": [
+      "KOZDGXES",
+      "RWOXGCIV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "绯色月下",
+      "Lunatic Moonlight"
+    ],
+    "location": "A09",
+    "schoolName": [
+      "东北师范大学",
+      "Northeast Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.82",
+    "members": [
+      "陈敏锐(Minrui Chen)",
+      "王长虎(Wang Changhu)",
+      "王储(wang chu)"
+    ]
+  },
+  {
+    "externalid": "68",
+    "id": "68",
+    "team": "team0068",
+    "password": [
+      "KVMTPDBN",
+      "EKFDGTLP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "大哥哥我很好",
+      "no response"
+    ],
+    "location": "A10",
+    "schoolName": [
+      "福建工程学院",
+      "Fujian University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.3",
+    "members": [
+      "郑海康(zheng haikang)",
+      "陈玮琳(Chen weilin)",
+      "林中力(lin zhongli)"
+    ]
+  },
+  {
+    "externalid": "71",
+    "id": "71",
+    "team": "team0071",
+    "password": [
+      "STGAVYQK",
+      "DOJFCUAT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小小",
+      "xiao xiao"
+    ],
+    "location": "A11",
+    "schoolName": [
+      "福建师范大学",
+      "Fujian Normal University"
+    ],
+    "mark": "girl",
+    "ip": "192.168.3.33",
+    "members": [
+      "黄筱芸(Huang Xiaoyun)",
+      "郑秋美(Zheng Qiumei)",
+      "朱慧娟(Zhu Huijuan)"
+    ]
+  },
+  {
+    "externalid": "85",
+    "id": "85",
+    "team": "team0085",
+    "password": [
+      "FBYPHOJZ",
+      "DHVPWZAI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这是一个不会起名字的水队",
+      "A Water H2O"
+    ],
+    "location": "A12",
+    "schoolName": [
+      "贵州大学",
+      "Guizhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.48",
+    "members": [
+      "骆家颖(Luo Jiaying)",
+      "杨雨婷(yang yuting)",
+      "田言(Tian Yan)"
+    ]
+  },
+  {
+    "externalid": "101",
+    "id": "101",
+    "team": "team0101",
+    "password": [
+      "UXEDVMQN",
+      "OCVDINSX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "哈理工2队",
+      "Hrbust2"
+    ],
+    "location": "A13",
+    "schoolName": [
+      "哈尔滨理工大学",
+      "Harbin University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.93",
+    "members": [
+      "赵少花(Zhao Shaohua)",
+      "高尚(Gao Shang)",
+      "刘明辉(Liu Minghui)"
+    ]
+  },
+  {
+    "externalid": "141",
+    "id": "141",
+    "team": "team0141",
+    "password": [
+      "UGXYCIRL",
+      "RAOEGMWS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "紫米面包",
+      "Zimi"
+    ],
+    "location": "A14",
+    "schoolName": [
+      "江南大学",
+      "JiangNan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.66",
+    "members": [
+      "朱雨南(Zhu Yunan)",
+      "陈朝潮(Chen Zhaochao)",
+      "王烟波(Wang Yanbo)"
+    ]
+  },
+  {
+    "externalid": "276",
+    "id": "276",
+    "team": "team0276",
+    "password": [
+      "ERJQWKIB",
+      "NMWJEOQF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "迭代器",
+      "Iterator"
+    ],
+    "location": "A15",
+    "schoolName": [
+      "西北农林科技大学",
+      "Northwest A&F University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.6",
+    "members": [
+      "Silin Ren(Ren Silin)",
+      "钟逸伟(Zhong Yiwei)",
+      "凌宇(Ling Yu)"
+    ]
+  },
+  {
+    "externalid": "151",
+    "id": "151",
+    "team": "team0151",
+    "password": [
+      "HDQISXGU",
+      "NPLWHIVG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "星星之火",
+      "Sparks of fire"
+    ],
+    "location": "A16",
+    "schoolName": [
+      "鲁东大学",
+      "Ludong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.50",
+    "members": [
+      "王彬(Wang Bin)",
+      "刘妍(Liu Yan)",
+      "赵京龙(Zhao Jinglong)"
+    ]
+  },
+  {
+    "externalid": "161",
+    "id": "161",
+    "team": "team0161",
+    "password": [
+      "NOISGXME",
+      "SJCIYZBA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "白鸟",
+      "Biznaguita"
+    ],
+    "location": "A17",
+    "schoolName": [
+      "南京工业大学",
+      "Nanjing Tech University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.64",
+    "members": [
+      "li zhaokun(li zhaokun)",
+      "Yuxian Lv(Lv Yuxian)",
+      "Zhang Haoyu(Zhang Haoyu)"
+    ]
+  },
+  {
+    "externalid": "136",
+    "id": "136",
+    "team": "team0136",
+    "password": [
+      "IRLTYFXE",
+      "TQXBUDSZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "起个队名吧",
+      "Unnamed-1"
+    ],
+    "location": "A18",
+    "schoolName": [
+      "华中科技大学",
+      "Huazhong University of Science & Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.51",
+    "members": [
+      "廖凌云(Liao Lingyun)",
+      "李真(Li Zhen)",
+      "王宇轩(Wang Yuxuan)"
+    ]
+  },
+  {
+    "externalid": "353",
+    "id": "353",
+    "team": "team0353",
+    "password": [
+      "ZTVNIADQ",
+      "RLYBOHIN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "江浙闽",
+      "HK Coder"
+    ],
+    "location": "A19",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.37",
+    "members": [
+      "汪文锋(WenFeng Wang)",
+      "刘佳伟(Liu Jiawei)",
+      "杨铭基(Yang Mingji)"
+    ]
+  },
+  {
+    "externalid": "308",
+    "id": "308",
+    "team": "team0308",
+    "password": [
+      "KPLJOAUM",
+      "EFWOSHQX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Helianthus",
+      "Helianthus"
+    ],
+    "location": "A20",
+    "schoolName": [
+      "浙江大学",
+      "Zhejiang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.57",
+    "members": [
+      "李广林(Li Guanglin)",
+      "吕耀维(Lyu Yaowei)",
+      "李彦奎(Li Yankui)"
+    ]
+  },
+  {
+    "externalid": "88",
+    "id": "88",
+    "team": "team0088",
+    "password": [
+      "OENSPRCL",
+      "LHWJYXPK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "梦想探险家",
+      "Dream Explorers"
+    ],
+    "location": "A21",
+    "schoolName": [
+      "贵州工程应用技术学院",
+      "Guizhou University of Engineering Science"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.85",
+    "members": [
+      "龚顺花(Gong Shunhua)",
+      "张健华(Zhang JianHua)",
+      "袁应(Yuan Ying)"
+    ]
+  },
+  {
+    "externalid": "96",
+    "id": "96",
+    "team": "team0096",
+    "password": [
+      "HJGMTVEW",
+      "YKQSTIAE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "米库米库",
+      "mikumiku"
+    ],
+    "location": "A22",
+    "schoolName": [
+      "哈尔滨工程大学",
+      "Harbin Engineering University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.92",
+    "members": [
+      "Xinghua Ma(Ma Xinghua)"
+    ]
+  },
+  {
+    "externalid": "104",
+    "id": "104",
+    "team": "team0104",
+    "password": [
+      "DFUCWVIH",
+      "ODNWFUPG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "湖畔青年",
+      "HZIEE_New"
+    ],
+    "location": "A23",
+    "schoolName": [
+      "杭州电子科技大学信息工程学院",
+      "Information Engineering College of Hangzhou Dianzi University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.32",
+    "members": [
+      "陈康(Chen Kang)",
+      "阮琳峰(Ruan Linfeng)",
+      "朱佳斌(Zhu Jiabin)"
+    ]
+  },
+  {
+    "externalid": "107",
+    "id": "107",
+    "team": "team0107",
+    "password": [
+      "IXAQHDUO",
+      "ENUSORTH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小猪佩齐",
+      "penta kill"
+    ],
+    "location": "A24",
+    "schoolName": [
+      "河海大学",
+      "Hohai University"
+    ],
+    "mark": "girl",
+    "ip": "192.168.3.78",
+    "members": [
+      "Xiaoke Wang(Wang Xiaoke)",
+      "Jiali Yuan(Yuan Jiali)",
+      "Shengyu Sun(Sun Shengyu)"
+    ]
+  },
+  {
+    "externalid": "157",
+    "id": "157",
+    "team": "team0157",
+    "password": [
+      "TPLGRCZA",
+      "MEXDWNTH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Calabash!",
+      "Calabash!"
+    ],
+    "location": "A25",
+    "schoolName": [
+      "南京大学",
+      "Nanjing University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.88",
+    "members": [
+      "王淳扬(Wang Chunyang)",
+      "王冬杨(Wang dongyang)",
+      "陈劭源(Chen Shaoyuan)"
+    ]
+  },
+  {
+    "externalid": "45",
+    "id": "45",
+    "team": "team0045",
+    "password": [
+      "JIKUPSZM",
+      "CKXAQLPR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "UESTC_摸鱼",
+      "UESTC_moyu"
+    ],
+    "location": "A26",
+    "schoolName": [
+      "电子科技大学",
+      "University of Electronic Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.26",
+    "members": [
+      "Zitong Li(Li Zitong)",
+      "Xin Liu(Liu Xin)",
+      "Ouwen Jin(Jin Ouwen)"
+    ]
+  },
+  {
+    "externalid": "111",
+    "id": "111",
+    "team": "team0111",
+    "password": [
+      "IDLGFYJA",
+      "GDIYXHSQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "菜鸡三人行",
+      "Four Angry Men"
+    ],
+    "location": "A27",
+    "schoolName": [
+      "河南大学",
+      "Henan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.47",
+    "members": [
+      "赵一博(Zhao Yibo)",
+      "Yiguang Li(Li Yiguang)",
+      "XiaoLong Li(Li Xiaolong)"
+    ]
+  },
+  {
+    "externalid": "251",
+    "id": "251",
+    "team": "team0251",
+    "password": [
+      "EDBFTCYK",
+      "YHOLDRPX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Chaos",
+      "Chaos"
+    ],
+    "location": "A28",
+    "schoolName": [
+      "西安交通大学",
+      "Xi'an Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.79",
+    "members": [
+      "Qi Zhi(Qi Zhi)",
+      "jiong yang(Yang Jiong)",
+      "Haotian Zhen(Zhen Haotian)"
+    ]
+  },
+  {
+    "externalid": "112",
+    "id": "112",
+    "team": "team0112",
+    "password": [
+      "OCDWTUNE",
+      "PHCAYTBX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "The Avengers",
+      "The Avengers"
+    ],
+    "location": "A29",
+    "schoolName": [
+      "河南理工大学",
+      "Henan Polytechnic University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.87",
+    "members": [
+      "Hongjie Tao(Tao Hongjie)",
+      "Zhao Meng(Zhao Meng)",
+      "Shangwei Wang(Wang Shangwei)"
+    ]
+  },
+  {
+    "externalid": "115",
+    "id": "115",
+    "team": "team0115",
+    "password": [
+      "TMXGAFIU",
+      "NVEYDLFW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "复仇者",
+      "Revengers"
+    ],
+    "location": "A30",
+    "schoolName": [
+      "湖北工业大学",
+      "Hubei University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.52",
+    "members": [
+      "ChaoQiang Ma(Ma ChaoQiang)",
+      "liping Zhang(Zhang liping)",
+      "ziwen Liu(Liu ziwen)"
+    ]
+  },
+  {
+    "externalid": "119",
+    "id": "119",
+    "team": "team0119",
+    "password": [
+      "VMDKESBQ",
+      "TRCINLWD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "疾风不打铁队",
+      "The blast does not hit the iron team"
+    ],
+    "location": "A31",
+    "schoolName": [
+      "湖南工业大学",
+      "Hunan University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.19",
+    "members": [
+      "zhenfan wang(Wang Zhenfan)",
+      "tao xia(xia tao)",
+      "shuang yang(yang shuang)"
+    ]
+  },
+  {
+    "externalid": "289",
+    "id": "289",
+    "team": "team0289",
+    "password": [
+      "HARLDJNT",
+      "LHXWDOBT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Beat Yiquan",
+      "Beat Yiquan"
+    ],
+    "location": "A32",
+    "schoolName": [
+      "香港科技大学",
+      "Hong Kong University of Science and Technology"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.89",
+    "members": [
+      "Chi Hoi YIP(YIP Chi Hoi)",
+      "Sheng Zhou(Zhou Sheng)",
+      "王天赐(WANG Tianci)"
+    ]
+  },
+  {
+    "externalid": "344",
+    "id": "344",
+    "team": "team0344",
+    "password": [
+      "UDKMRPIL",
+      "EHOKBYDC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中科大十六队",
+      "USTC_16"
+    ],
+    "location": "A33",
+    "schoolName": [
+      "中国科学技术大学",
+      "University of Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.14",
+    "members": [
+      "李子旸(Li Ziyang)",
+      "马凯(Ma Kai)",
+      "曾明亮(Zeng Mingliang)"
+    ]
+  },
+  {
+    "externalid": "177",
+    "id": "177",
+    "team": "team0177",
+    "password": [
+      "RMUWZNFA",
+      "JMVEFPTB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "他们来了",
+      "They are"
+    ],
+    "location": "A34",
+    "schoolName": [
+      "宁波大学",
+      "Ningbo University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.97",
+    "members": [
+      "Yao Chen(Chen Yao)",
+      "chen hao(hao chen)",
+      "Zhe He(He Zhe)"
+    ]
+  },
+  {
+    "externalid": "211",
+    "id": "211",
+    "team": "team0211",
+    "password": [
+      "AIPNLGTM",
+      "YHQMARSB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "无人艇",
+      "Unmanned ship"
+    ],
+    "location": "A35",
+    "schoolName": [
+      "上海大学",
+      "Shanghai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.60",
+    "members": [
+      "刘程远(Liu Chengyuan)",
+      "何煜铭(He Yuming)",
+      "管文杰(Guan Wenjie)"
+    ]
+  },
+  {
+    "externalid": "186",
+    "id": "186",
+    "team": "team0186",
+    "password": [
+      "ZUBXEARM",
+      "JIFRCKLP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "冠军杜老师没跑",
+      "Champion dls did not run"
+    ],
+    "location": "A36",
+    "schoolName": [
+      "清华大学",
+      "Tsinghua University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.121",
+    "members": [
+      "任之洲(Ren Zhizhou)",
+      "金策(Jin Ce)",
+      "邹逍遥(Zou Xiaoyao)"
+    ]
+  },
+  {
+    "externalid": "215",
+    "id": "215",
+    "team": "team0215",
+    "password": [
+      "TPAJFYSH",
+      "GOXZIWCR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "人类智慧",
+      "Manual/Intelligence"
+    ],
+    "location": "A37",
+    "schoolName": [
+      "上海交通大学",
+      "Shanghai Jiao Tong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.4",
+    "members": [
+      "Xiaohan Mao(Mao Xiaohan)",
+      "Zhongtang Luo(Luo Zhongtang)",
+      "Enze Sun(Sun Enze)"
+    ]
+  },
+  {
+    "externalid": "29",
+    "id": "29",
+    "team": "team0029",
+    "password": [
+      "GWMSDRUA",
+      "TMGHPAOQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "阿訇念经，嘤嘤嘤嘤",
+      "Akhund read the Koran, (ying){4}"
+    ],
+    "location": "A38",
+    "schoolName": [
+      "北京邮电大学",
+      "Beijing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.21",
+    "members": [
+      "于珺泽(Yu Junze)",
+      "房庆凯(Fang Qingkai)",
+      "褚逸豪(Chu Yihao)"
+    ]
+  },
+  {
+    "externalid": "368",
+    "id": "368",
+    "team": "team0368",
+    "password": [
+      "XNIUGOPE",
+      "KANBXYZG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中山大学_气球一元一个",
+      "SYSU_Balloon"
+    ],
+    "location": "A39",
+    "schoolName": [
+      "中山大学",
+      "Zhongshan (Sun Yat-sen) University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.62",
+    "members": [
+      "王凯祺(Wang Kaiqi)",
+      "范俭豪(Fan Jianhao)",
+      "黄镇(Huang Zhen)"
+    ]
+  },
+  {
+    "externalid": "20",
+    "id": "20",
+    "team": "team0020",
+    "password": [
+      "XQWHUGDL",
+      "NSURDOZJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小欧爱吃酱肘子",
+      "1e9+7"
+    ],
+    "location": "A40",
+    "schoolName": [
+      "北京理工大学",
+      "Beijing Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.10",
+    "members": [
+      "Sirui Mu(Mu Sirui)",
+      "Yao Zhao(Zhao Yao)",
+      "刘晨(Liu Chen)"
+    ]
+  },
+  {
+    "externalid": "337",
+    "id": "337",
+    "team": "team0337",
+    "password": [
+      "DJZWPGMV",
+      "FABHTJVS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "只有签到题能",
+      "Tourists"
+    ],
+    "location": "A41",
+    "schoolName": [
+      "中国传媒大学",
+      "Communication University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.98",
+    "members": [
+      "李金戈(Li Jinge)",
+      "王睿灏(wang ruihao)",
+      "韦怡(Wei Yi)"
+    ]
+  },
+  {
+    "externalid": "342",
+    "id": "342",
+    "team": "team0342",
+    "password": [
+      "XREBISMJ",
+      "HVIAOSXP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "微阳",
+      "Sunrise"
+    ],
+    "location": "A42",
+    "schoolName": [
+      "中国海洋大学",
+      "Ocean University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.38",
+    "members": [
+      "Zunlong Chen(Chen Zunlong)",
+      "Yuheng Su(Su Yuheng)",
+      "Zheyong Xie(Xie Zheyong)"
+    ]
+  },
+  {
+    "externalid": "349",
+    "id": "349",
+    "team": "team0349",
+    "password": [
+      "PKMVSYCW",
+      "GQYDPRUH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "嘤捶死停",
+      "interesting"
+    ],
+    "location": "B01",
+    "schoolName": [
+      "中国矿业大学",
+      "China University of Mining and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.40",
+    "members": [
+      "GaoYang(Gao Yang)",
+      "Hanshi Wang(Wang Hanshi)",
+      "Menglin li(Li Menglin)"
+    ]
+  },
+  {
+    "externalid": "359",
+    "id": "359",
+    "team": "team0359",
+    "password": [
+      "CLJWMHQP",
+      "INKPGLTD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "ALPC_For_Love",
+      "ALPC_For_Love"
+    ],
+    "location": "B02",
+    "schoolName": [
+      "中国人民解放军国防科技大学",
+      "National University of Defense Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.68",
+    "members": [
+      "Liu Chengjing(Chengjing Liu)",
+      "Liu Suyuan(Suyuan Liu)",
+      "Chunxi Guo(Guo Chunxi)"
+    ]
+  },
+  {
+    "externalid": "373",
+    "id": "373",
+    "team": "team0373",
+    "password": [
+      "PWOUXRFY",
+      "VTONKUSP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "凌重龙皇异次元",
+      "splash"
+    ],
+    "location": "B03",
+    "schoolName": [
+      "重庆大学",
+      "Chongqing University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.50",
+    "members": [
+      "凌玉华(Ling Yuhua)",
+      "任鸿翔(Ren Hongxiang)",
+      "陈畅与(Chen Changyu)"
+    ]
+  },
+  {
+    "externalid": "377",
+    "id": "377",
+    "team": "team0377",
+    "password": [
+      "AMNBHWSZ",
+      "QFSZNWTY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "高新一中一队",
+      "gxyz_team1"
+    ],
+    "location": "B04",
+    "schoolName": [
+      "高新一中",
+      "Xi’an Gaoxin No.1 High School"
+    ],
+    "mark": "star",
+    "ip": "192.168.4.52",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "362",
+    "id": "362",
+    "team": "team0362",
+    "password": [
+      "CISOVZKX",
+      "MAPHVGJQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我为祖国献石油",
+      "Fumino is number one"
+    ],
+    "location": "B05",
+    "schoolName": [
+      "中国石油大学（北京）",
+      "China University of Petroleum, Beijing"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.29",
+    "members": [
+      "Haoyuan Li(Li Haoyuan)",
+      "BOFENG LV(LV BOFENG)",
+      "冯云豪(Feng Yunhao)"
+    ]
+  },
+  {
+    "externalid": "56",
+    "id": "56",
+    "team": "team0056",
+    "password": [
+      "QTXHALVD",
+      "SHQJZOGR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我RE，我快乐",
+      "happy_with_RE"
+    ],
+    "location": "B06",
+    "schoolName": [
+      "东北大学秦皇岛分校",
+      "Northeastern University at Qinhuangdao"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.20",
+    "members": [
+      "吴嘉梁(Wu Jialiang)",
+      "金轶凡(Jin Yifan)",
+      "毛润(Run Mao)"
+    ]
+  },
+  {
+    "externalid": "94",
+    "id": "94",
+    "team": "team0094",
+    "password": [
+      "MDJBFSAC",
+      "XOSZYTKM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "灬言梦小队灬",
+      "MTsakuraTM"
+    ],
+    "location": "B07",
+    "schoolName": [
+      "贵州师范学院",
+      "Guizhou Education University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.96",
+    "members": [
+      "熊亚丽(xyl xyl)",
+      "韩大乔(daqiao Han)",
+      "xiao benbing(benbing xiao)"
+    ]
+  },
+  {
+    "externalid": "113",
+    "id": "113",
+    "team": "team0113",
+    "password": [
+      "JADPVKFW",
+      "CBHOIAGY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "The Last Supper",
+      "The Last Supper"
+    ],
+    "location": "B08",
+    "schoolName": [
+      "河南理工大学",
+      "Henan Polytechnic University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.41",
+    "members": [
+      "Zhanshi Li(Li Zhanshi)",
+      "Zui Luo(Luo Zui)",
+      "Dapeng Sang(Sang Dapeng)"
+    ]
+  },
+  {
+    "externalid": "109",
+    "id": "109",
+    "team": "team0109",
+    "password": [
+      "LBIUZPTK",
+      "VDASXPYO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "铁匠铺",
+      "we don't AC anymore"
+    ],
+    "location": "B09",
+    "schoolName": [
+      "河海大学",
+      "Hohai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.54",
+    "members": [
+      "Xiaohan Yan(Yan Xiaohan)",
+      "Fan Yunxiang(Fan Yunxiang)",
+      "Tang Mingjie(Tang Mingjie)"
+    ]
+  },
+  {
+    "externalid": "53",
+    "id": "53",
+    "team": "team0053",
+    "password": [
+      "FNRBZQUI",
+      "HEMJFOTL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "辉耀",
+      "NEU_Radiance"
+    ],
+    "location": "B10",
+    "schoolName": [
+      "东北大学",
+      "Northeastern University (China)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.10",
+    "members": [
+      "印飞(Yin Fei)",
+      "陈子健(Chen Zijian)",
+      "毕继泽(Bi Jize)"
+    ]
+  },
+  {
+    "externalid": "59",
+    "id": "59",
+    "team": "team0059",
+    "password": [
+      "NCGBHWSR",
+      "TYGONPAX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "有备而来",
+      "youbeierlai"
+    ],
+    "location": "B11",
+    "schoolName": [
+      "东北林业大学",
+      "Northeast Forestry University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.47",
+    "members": [
+      "zhu haoyun(haoyun zhu)",
+      "jiangtao zhang(zhang jiangtao)",
+      "Qi zehua(zehua Qi)"
+    ]
+  },
+  {
+    "externalid": "86",
+    "id": "86",
+    "team": "team0086",
+    "password": [
+      "LCOTHGVF",
+      "IDALTUJM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "华哥哥带我们飞",
+      "hggdwmf"
+    ],
+    "location": "B12",
+    "schoolName": [
+      "贵州大学",
+      "Guizhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.36",
+    "members": [
+      "马润华(ma runhua)",
+      "吴聪(wu cong)",
+      "苏启文(su qi wen)"
+    ]
+  },
+  {
+    "externalid": "91",
+    "id": "91",
+    "team": "team0091",
+    "password": [
+      "UPAONWKH",
+      "IFRZTJWM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Gznu2",
+      "Gznu2"
+    ],
+    "location": "B13",
+    "schoolName": [
+      "贵州师范大学",
+      "Guizhou Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.6",
+    "members": [
+      "zhang fan(zhang fan)",
+      "wang tong(Wang Tong)",
+      "Peng Da(Peng Da)"
+    ]
+  },
+  {
+    "externalid": "102",
+    "id": "102",
+    "team": "team0102",
+    "password": [
+      "XMCDQREV",
+      "YCZQHXWI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "憧憬无限",
+      "Take Me To Infinity"
+    ],
+    "location": "B14",
+    "schoolName": [
+      "哈尔滨理工大学",
+      "Harbin University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.90",
+    "members": [
+      "于博(Yu Bo)",
+      "Jian Li(Li Jian)",
+      "Yu Zhang(Zhang Yu)"
+    ]
+  },
+  {
+    "externalid": "105",
+    "id": "105",
+    "team": "team0105",
+    "password": [
+      "UYEXBKVO",
+      "OSQUKVFM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "bi u",
+      "biu"
+    ],
+    "location": "B15",
+    "schoolName": [
+      "杭州师范大学",
+      "Hangzhou Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.70",
+    "members": [
+      "吕张凯(LYU Zhangkai)",
+      "高笑芸(Gao Xiaoyun)",
+      "褚真真(chu zhenzhen)"
+    ]
+  },
+  {
+    "externalid": "118",
+    "id": "118",
+    "team": "team0118",
+    "password": [
+      "ZUOWCDXT",
+      "ZVPXKLEA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "岳麓幻想物语",
+      "Yuelu Fancy"
+    ],
+    "location": "B16",
+    "schoolName": [
+      "湖南大学",
+      "Hunan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.60",
+    "members": [
+      "张旭(Zhang Xu)",
+      "程泽群(Zequn Cheng)",
+      "王文斌(Wenbin Wang)"
+    ]
+  },
+  {
+    "externalid": "132",
+    "id": "132",
+    "team": "team0132",
+    "password": [
+      "HZJXDMVA",
+      "KAXOQSDG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "没人想队名",
+      "SCAU_noname"
+    ],
+    "location": "B17",
+    "schoolName": [
+      "华南农业大学",
+      "South China Agricultural University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.27",
+    "members": [
+      "陈宇森(Chen Yusen)",
+      "许志豪(Xu Zhihao)",
+      "王楚荣(Wang Churong)"
+    ]
+  },
+  {
+    "externalid": "46",
+    "id": "46",
+    "team": "team0046",
+    "password": [
+      "YNWIZLOX",
+      "IEHDYOUV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "UESTC_绵中三轮车",
+      "UESTC_MzTricycle"
+    ],
+    "location": "B18",
+    "schoolName": [
+      "电子科技大学",
+      "University of Electronic Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.89",
+    "members": [
+      "Jinping Lei(Lei Jinping)",
+      "Xuandeng Fu(Fu Xuandeng)",
+      "zhou bofan(Zhou Bofan)"
+    ]
+  },
+  {
+    "externalid": "273",
+    "id": "273",
+    "team": "team0273",
+    "password": [
+      "HXVNIDMP",
+      "QITLCVOR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "水个牌子",
+      "NPU_water_a_medal"
+    ],
+    "location": "B19",
+    "schoolName": [
+      "西北工业大学",
+      "Northwestern Polytechnical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.92",
+    "members": [
+      "Yijie Liu(Liu Yijie)",
+      "Shuaijun Hang(Hang Shuaijun)",
+      "Shengtao Wen(Wen Shengtao)"
+    ]
+  },
+  {
+    "externalid": "123",
+    "id": "123",
+    "team": "team0123",
+    "password": [
+      "IJGOVSRP",
+      "BRZDYTKG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Everest",
+      "Everest"
+    ],
+    "location": "B20",
+    "schoolName": [
+      "华东交通大学",
+      "East China Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.22",
+    "members": [
+      "LiHuangyao(Li Huangyao)",
+      "李立新(li lixin)",
+      "黄勇(Huang Yong)"
+    ]
+  },
+  {
+    "externalid": "137",
+    "id": "137",
+    "team": "team0137",
+    "password": [
+      "ARTHDNUK",
+      "LEWDOYKI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "The 120th Anniversary Celebrates",
+      "The 120th Anniversary Celebrates"
+    ],
+    "location": "B21",
+    "schoolName": [
+      "华中农业大学",
+      "Huazhong Agricultural University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.58",
+    "members": [
+      "zhonglong lin(lin zhonglong)",
+      "Yuheng Jin(Jin Yuheng)",
+      "yekang zhan(zhan yekang)"
+    ]
+  },
+  {
+    "externalid": "144",
+    "id": "144",
+    "team": "team0144",
+    "password": [
+      "CYWSURIQ",
+      "LPMHGIQU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "氪金变强",
+      "JXNU"
+    ],
+    "location": "B22",
+    "schoolName": [
+      "江西师范大学",
+      "Jiangxi Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.82",
+    "members": [
+      "刘平生(liu pingsheng)",
+      "叶加博(Ye jiabo)",
+      "虞家龙(yu jialong)"
+    ]
+  },
+  {
+    "externalid": "149",
+    "id": "149",
+    "team": "team0149",
+    "password": [
+      "VHXUYNCE",
+      "YKNULJAV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "大漠苍狼2号战队",
+      "GrayWolf02"
+    ],
+    "location": "B23",
+    "schoolName": [
+      "兰州交通大学",
+      "Lanzhou Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.7",
+    "members": [
+      "梁锋(Liang Feng)",
+      "蒲虎(pu hu)",
+      "马小军(Ma Xiaojun)"
+    ]
+  },
+  {
+    "externalid": "154",
+    "id": "154",
+    "team": "team0154",
+    "password": [
+      "GFHCVAMX",
+      "LSHNVDXQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "南方科技大学_加法",
+      "SUSTech_Addition"
+    ],
+    "location": "B24",
+    "schoolName": [
+      "南方科技大学",
+      "Southern University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.61",
+    "members": [
+      "黄博(Huang Bo)",
+      "卫焱滨(Yanbin Wei)",
+      "李浩南(Li Haonan)"
+    ]
+  },
+  {
+    "externalid": "162",
+    "id": "162",
+    "team": "team0162",
+    "password": [
+      "DRAQFJUT",
+      "RTJPYHNK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "起于结束，终于开始",
+      "Lying On the Keyboard"
+    ],
+    "location": "B25",
+    "schoolName": [
+      "南京工业大学",
+      "Nanjing Tech University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.42",
+    "members": [
+      "chengjun he(he chengjun)",
+      "Li ShengMing(Li Sheng Ming)",
+      "Xin Xie(Xie Xin)"
+    ]
+  },
+  {
+    "externalid": "168",
+    "id": "168",
+    "team": "team0168",
+    "password": [
+      "XIERHOZF",
+      "ZSYBOAUG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "全体起立",
+      "All Rise"
+    ],
+    "location": "B26",
+    "schoolName": [
+      "南京晓庄学院",
+      "Nanjing Xiaozhuang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.69",
+    "members": [
+      "Mingyi Xue(Xue Mingyi)",
+      "Junjie Jiang(Jiang Junjie)",
+      "wei Wang(Wang wei)"
+    ]
+  },
+  {
+    "externalid": "176",
+    "id": "176",
+    "team": "team0176",
+    "password": [
+      "KBFCWEYR",
+      "TCBDYXGW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "稻花香里说丰年",
+      "Hear the sound of wa"
+    ],
+    "location": "B27",
+    "schoolName": [
+      "南阳师范学院",
+      "Nanyang Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.46",
+    "members": [
+      "王永忠(Wang Yongzhong)",
+      "丁亚磊(yalei ding)",
+      "Jia daihua(daihua Jia)"
+    ]
+  },
+  {
+    "externalid": "80",
+    "id": "80",
+    "team": "team0080",
+    "password": [
+      "GQHTCFVY",
+      "JUYHCESV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "夜幕灯塔",
+      "BEACON AT NIGHT"
+    ],
+    "location": "B28",
+    "schoolName": [
+      "广东工业大学",
+      "Guangdong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.14",
+    "members": [
+      "吴涤豪(Wu DiHao)",
+      "陈锦明(Chen Jinming)",
+      "叶健朗(Ye Jianlang)"
+    ]
+  },
+  {
+    "externalid": "179",
+    "id": "179",
+    "team": "team0179",
+    "password": [
+      "AMTBDPIQ",
+      "JIPZXTAR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "梦想之源",
+      "D&S"
+    ],
+    "location": "B29",
+    "schoolName": [
+      "宁夏大学",
+      "NingXia University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.53",
+    "members": [
+      "朱玉瑶(Zhu Yuyao)",
+      "杨光(Yang Guang)",
+      "李晓帆(xiaofan li)"
+    ]
+  },
+  {
+    "externalid": "167",
+    "id": "167",
+    "team": "team0167",
+    "password": [
+      "AWMTJYNO",
+      "PNWQCUEG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "不图不挂素质游戏",
+      "OEIS"
+    ],
+    "location": "B30",
+    "schoolName": [
+      "南京理工大学",
+      "Nanjing University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.93",
+    "members": [
+      "Tian Xin(Tian Xin)",
+      "Liwei Jin(Jin Liwei)",
+      "Jinghao Ma(Ma Jinghao)"
+    ]
+  },
+  {
+    "externalid": "184",
+    "id": "184",
+    "team": "team0184",
+    "password": [
+      "MJADCXUV",
+      "JZQOKDPR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "TLE没门",
+      "FightForMedal"
+    ],
+    "location": "B31",
+    "schoolName": [
+      "青海大学",
+      "Qinghai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.76",
+    "members": [
+      "夏子勋(Xia Zixun)",
+      "陈沿锦(Chen Yanjin)",
+      "凌龙(Ling Long)"
+    ]
+  },
+  {
+    "externalid": "191",
+    "id": "191",
+    "team": "team0191",
+    "password": [
+      "VAHIJFQX",
+      "MUNOYWDI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "猎户座",
+      "Orion"
+    ],
+    "location": "B32",
+    "schoolName": [
+      "山东财经大学",
+      "Shandong University of Finance and Economics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.94",
+    "members": [
+      "Liu xiaokang(Xiaokang Liu)",
+      "Niu mingxiao(mingxiao Niu)",
+      "ZHANG QIQIAN(QIQIAN ZHANG)"
+    ]
+  },
+  {
+    "externalid": "196",
+    "id": "196",
+    "team": "team0196",
+    "password": [
+      "PRMVZIHQ",
+      "XFHNCMJE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "咕咕咕",
+      "GU GU GU"
+    ],
+    "location": "B33",
+    "schoolName": [
+      "山东大学（威海）",
+      "Shandong University at Weihai"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.87",
+    "members": [
+      "赵舒啸(Zhao ShuXiao)",
+      "肖龙(Xiao Long)",
+      "秦逸然(Qin Yiran)"
+    ]
+  },
+  {
+    "externalid": "205",
+    "id": "205",
+    "team": "team0205",
+    "password": [
+      "ICAHQBZN",
+      "DSJZXPRO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "至诚至博",
+      "SUST_1"
+    ],
+    "location": "B34",
+    "schoolName": [
+      "陕西科技大学",
+      "Shaanxi University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.83",
+    "members": [
+      "曹静(Cao Jing)",
+      "林华伟(Lin Huawei)",
+      "刘虎林(Liu Hulin)"
+    ]
+  },
+  {
+    "externalid": "21",
+    "id": "21",
+    "team": "team0021",
+    "password": [
+      "FCPQZLUV",
+      "GYWBMCKX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "肥宅大哭.jpg",
+      "fatty newbie"
+    ],
+    "location": "B35",
+    "schoolName": [
+      "北京理工大学",
+      "Beijing Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.62",
+    "members": [
+      "龙水彬(Long Shuibin)",
+      "程苗苗(Cheng Miaomiao)",
+      "周赫斌(Zhou Hebin)"
+    ]
+  },
+  {
+    "externalid": "198",
+    "id": "198",
+    "team": "team0198",
+    "password": [
+      "HSEFTVZU",
+      "DQPHZLOV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "光明号",
+      "SKD62497 Akira"
+    ],
+    "location": "B36",
+    "schoolName": [
+      "山东科技大学",
+      "Shandong University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.8",
+    "members": [
+      "Peng Qiu(Qiu Peng)",
+      "梁天心(Liang Tianxin)",
+      "Xiangzheng Shangguan(Shangguan Xiangzheng)"
+    ]
+  },
+  {
+    "externalid": "125",
+    "id": "125",
+    "team": "team0125",
+    "password": [
+      "VFKHCTXZ",
+      "ARUHVWIM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "acm.ecnu.edu.cn",
+      "F0RE1GNERS"
+    ],
+    "location": "B37",
+    "schoolName": [
+      "华东师范大学",
+      "East China Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.88",
+    "members": [
+      "林方欣(Lin Fangxin)",
+      "张羽戈(Zhang Yuge)",
+      "周亦然(Zhou Yiran)"
+    ]
+  },
+  {
+    "externalid": "218",
+    "id": "218",
+    "team": "team0218",
+    "password": [
+      "FYOITHMZ",
+      "EWQTFHMO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "云之彼端·梦中降生",
+      "KUMONOMUKÔ_BIRTHBYSLEEP"
+    ],
+    "location": "B38",
+    "schoolName": [
+      "上海科技大学",
+      "ShanghaiTech University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.49",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "72",
+    "id": "72",
+    "team": "team0072",
+    "password": [
+      "XGNAJKVM",
+      "LZWMQHBV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "萌新",
+      "newbie"
+    ],
+    "location": "B39",
+    "schoolName": [
+      "福州大学",
+      "Fuzhou University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.16",
+    "members": [
+      "Fu Bin(Fu Bin)",
+      "Yuanyuan Wu(Wu Yuanyuan)",
+      "Zefeng Yin(Yin Zefeng)"
+    ]
+  },
+  {
+    "externalid": "354",
+    "id": "354",
+    "team": "team0354",
+    "password": [
+      "LIFVZBNO",
+      "QNTYJUPC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "心中没有B树",
+      "NO B-Trees in our Hearts"
+    ],
+    "location": "B40",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.26",
+    "members": [
+      "黄亦嵩(Huang Yisong)",
+      "查寒天(Zha Hantian)",
+      "陈昱硕(Chen Yushuo)"
+    ]
+  },
+  {
+    "externalid": "219",
+    "id": "219",
+    "team": "team0219",
+    "password": [
+      "NYZVBCSH",
+      "XNPZIDGB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Mr Zhou想吃红烧肉",
+      "Autistic automation machine"
+    ],
+    "location": "B41",
+    "schoolName": [
+      "上海理工大学",
+      "University of Shanghai for Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.43",
+    "members": [
+      "金轩城(Jin Xuancheng)",
+      "陆施涛(Lu Shitao)",
+      "任灏贇(Ren Haoyun)"
+    ]
+  },
+  {
+    "externalid": "220",
+    "id": "220",
+    "team": "team0220",
+    "password": [
+      "MFBAHJVW",
+      "ZVUHFKRJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "自闭小分队",
+      "Mr. Selfclose"
+    ],
+    "location": "B42",
+    "schoolName": [
+      "四川大学",
+      "Sichuan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.4",
+    "members": [
+      "Sisi wu(wu Sisi)",
+      "王令权(Wang Lingquan)",
+      "程鑫华(Cheng XinHua)"
+    ]
+  },
+  {
+    "externalid": "228",
+    "id": "228",
+    "team": "team0228",
+    "password": [
+      "AOTCQYRP",
+      "OJDBIVEA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "A云",
+      "ACloud"
+    ],
+    "location": "B43",
+    "schoolName": [
+      "太原理工大学",
+      "Taiyuan University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.59",
+    "members": [
+      "王仲亮(wang zhongliang)",
+      "秦逸轩(Qin Yixuan)",
+      "顾鹏(Gu Peng)"
+    ]
+  },
+  {
+    "externalid": "128",
+    "id": "128",
+    "team": "team0128",
+    "password": [
+      "QSZNRMPY",
+      "QHPDYLMA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "今天也要加油鸭",
+      "GoAheadDuck"
+    ],
+    "location": "B44",
+    "schoolName": [
+      "华南理工大学",
+      "South China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.39",
+    "members": [
+      "Kaihao Ma(Ma Kaihao)",
+      "Hu Shunhong(Hu Shunhong)",
+      "Shiju Lin(Lin Shiju)"
+    ]
+  },
+  {
+    "externalid": "232",
+    "id": "232",
+    "team": "team0232",
+    "password": [
+      "NUPIWMLC",
+      "UAHCVQME"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小奶狗",
+      "puppy"
+    ],
+    "location": "B45",
+    "schoolName": [
+      "天津大学仁爱学院",
+      "Renai College of Tianjin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.81",
+    "members": [
+      "Xuefu Zhang(Zhang Xuefu)",
+      "jiaxin xu(xu jiaxin)",
+      "shichao Li(Li shichao)"
+    ]
+  },
+  {
+    "externalid": "5",
+    "id": "5",
+    "team": "team0005",
+    "password": [
+      "HZMLOIRU",
+      "YTZICBMS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "c++11",
+      "c++11"
+    ],
+    "location": "B46",
+    "schoolName": [
+      "北京大学",
+      "Peking University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.57",
+    "members": [
+      "黄致焕(Huang Zhihuan)",
+      "黄臻祺(Huang Zhenqi)",
+      "孙奕灿(Sun Yican)"
+    ]
+  },
+  {
+    "externalid": "291",
+    "id": "291",
+    "team": "team0291",
+    "password": [
+      "JRGWITBL",
+      "FAVKRCTS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "誒射能特",
+      "ACellent"
+    ],
+    "location": "B47",
+    "schoolName": [
+      "香港中文大学",
+      "The Chinese University of Hong Kong"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.64",
+    "members": [
+      "Ho Ngan Hang(Ho Ngan Hang)",
+      "Yik Wai Pan(Yik Wai Pan)",
+      "Lik Hang Poon(Poon Lik Hang)"
+    ]
+  },
+  {
+    "externalid": "10",
+    "id": "10",
+    "team": "team0010",
+    "password": [
+      "BXZCEDLF",
+      "NSGWBJKE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小黄鸡咕咕咕",
+      "Ascender"
+    ],
+    "location": "B48",
+    "schoolName": [
+      "北京航空航天大学",
+      "Beihang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.23",
+    "members": [
+      "Daisheng Jin(Jin Daisheng)",
+      "Mingyuan Zhang(Zhang Mingyuan)",
+      "Bairun Wang(Wang Bairun)"
+    ]
+  },
+  {
+    "externalid": "252",
+    "id": "252",
+    "team": "team0252",
+    "password": [
+      "OWZEPCIK",
+      "JVMRZHCQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "csfnb",
+      "csfnb"
+    ],
+    "location": "C01",
+    "schoolName": [
+      "西安交通大学",
+      "Xi'an Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.1",
+    "members": [
+      "Shaofei Cai(Cai Shaofei)",
+      "Nanchen Li(Li Nanchen)",
+      "Zijie Zhang(Zhang Zijie)"
+    ]
+  },
+  {
+    "externalid": "110",
+    "id": "110",
+    "team": "team0110",
+    "password": [
+      "KMEGUTOJ",
+      "BUWJYEVQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "猪肘子我正在煮",
+      "zzzwzzz"
+    ],
+    "location": "C02",
+    "schoolName": [
+      "河海大学",
+      "Hohai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.46",
+    "members": [
+      "Wen Wang(Wang Wen)",
+      "Yong Zheng(Zheng Yong)",
+      "Shiwei Zhang(Zhang Shiwei)"
+    ]
+  },
+  {
+    "externalid": "6",
+    "id": "6",
+    "team": "team0006",
+    "password": [
+      "PQTYVNFA",
+      "NKEQBYSR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "FaFaTa",
+      "FaFaTa"
+    ],
+    "location": "C03",
+    "schoolName": [
+      "北京大学",
+      "Peking University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.53",
+    "members": [
+      "承君阳(Cheng Junyang)",
+      "倪星宇(Ni Xingyu)",
+      "吴耀轩(Wu YaoXuan)"
+    ]
+  },
+  {
+    "externalid": "114",
+    "id": "114",
+    "team": "team0114",
+    "password": [
+      "HFSYJAEC",
+      "YLWQAFBG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Try a Try,AC is OK",
+      "Try a Try,AC is OK"
+    ],
+    "location": "C04",
+    "schoolName": [
+      "河南理工大学",
+      "Henan Polytechnic University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.75",
+    "members": [
+      "Dingxing Sun(Sun Dingxing)",
+      "Yonghang Guo(Guo Yonghang)",
+      "Zhongyu Wang(Wang Zhongyu)"
+    ]
+  },
+  {
+    "externalid": "116",
+    "id": "116",
+    "team": "team0116",
+    "password": [
+      "SETCODQA",
+      "JTDMLQZE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "对对对",
+      "deideidei"
+    ],
+    "location": "C05",
+    "schoolName": [
+      "湖南大学",
+      "Hunan University"
+    ],
+    "mark": "girl",
+    "ip": "192.168.3.23",
+    "members": [
+      "李佳宁(Li Jianing)",
+      "Qingqing Luo(Luo Qingqing)",
+      "Dai Cuini(Cuini Dai)"
+    ]
+  },
+  {
+    "externalid": "120",
+    "id": "120",
+    "team": "team0120",
+    "password": [
+      "ANSJLIZD",
+      "XHTKCENY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "打CF不如打CF",
+      "CF is better than CF"
+    ],
+    "location": "C06",
+    "schoolName": [
+      "湖南师范大学",
+      "Hunan Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.94",
+    "members": [
+      "贺榕宽(He Rongkuan)",
+      "ZeJun Lu(Lu ZeJun)",
+      "贺禧(He Xi)"
+    ]
+  },
+  {
+    "externalid": "134",
+    "id": "134",
+    "team": "team0134",
+    "password": [
+      "YTGUBEZC",
+      "VKBMCLWP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我想吃羊肉泡馍biangbiang面肉夹馍凉皮臊子面胡辣汤粉蒸肉饸饹面",
+      "Eating Keyboard"
+    ],
+    "location": "C07",
+    "schoolName": [
+      "华中科技大学",
+      "Huazhong University of Science & Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.41",
+    "members": [
+      "Weiyu Chen(Chen Weiyu)",
+      "Minyan Wu(Wu Minyan)",
+      "Jiahui Zhang(Zhang Jiahui)"
+    ]
+  },
+  {
+    "externalid": "129",
+    "id": "129",
+    "team": "team0129",
+    "password": [
+      "FPQGARLT",
+      "BPVSZHCL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这是我们第四次来西安了",
+      "I have a classmate named Lanling"
+    ],
+    "location": "C08",
+    "schoolName": [
+      "华南理工大学",
+      "South China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.5",
+    "members": [
+      "朱国富(zhu guofu)",
+      "邢正颖(Xing Zhengying)",
+      "胡日扬(Hu Riyang)"
+    ]
+  },
+  {
+    "externalid": "139",
+    "id": "139",
+    "team": "team0139",
+    "password": [
+      "VPEYBIDO",
+      "PXNYSKCH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "黑框眼镜",
+      "Black-rimmed glasses"
+    ],
+    "location": "C09",
+    "schoolName": [
+      "吉林大学",
+      "Jilin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.9",
+    "members": [
+      "周植(Zhou Zhi)",
+      "Hu Zhang(Zhang Hu)",
+      "王登泰(Wang Dengtai)"
+    ]
+  },
+  {
+    "externalid": "143",
+    "id": "143",
+    "team": "team0143",
+    "password": [
+      "SFZADQVT",
+      "AQKYBWRF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "银色子弹",
+      "Silver Bullet"
+    ],
+    "location": "C10",
+    "schoolName": [
+      "江西理工大学",
+      "Jiangxi University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.55",
+    "members": [
+      "李志文(Li ZhiWen)",
+      "周虎(zhou hu)",
+      "占炼炼(zhan lianlian)"
+    ]
+  },
+  {
+    "externalid": "146",
+    "id": "146",
+    "team": "team0146",
+    "password": [
+      "GPOCFQNE",
+      "EBUAJTHV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "放弃四六级来打铁",
+      "Caratheodory"
+    ],
+    "location": "C11",
+    "schoolName": [
+      "兰州大学",
+      "LanZhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.83",
+    "members": [
+      "吴正曦(Wu Zhengxi)",
+      "刘乐逍(Liu Lexiao)",
+      "Chen Gao(Gao Chen)"
+    ]
+  },
+  {
+    "externalid": "150",
+    "id": "150",
+    "team": "team0150",
+    "password": [
+      "GEZXSANH",
+      "UVLZWPXD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "I/O复读机",
+      "LSNU_I/O Repeater"
+    ],
+    "location": "C12",
+    "schoolName": [
+      "乐山师范学院",
+      "Leshan Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.68",
+    "members": [
+      "罗凯文(Luo Kaiwen)",
+      "王涛(Wang Tao)",
+      "陈连宏(Chen Lianhong)"
+    ]
+  },
+  {
+    "externalid": "81",
+    "id": "81",
+    "team": "team0081",
+    "password": [
+      "BTLAVEKU",
+      "EWCQLYBO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "一切都是命运石之门的选择",
+      "Grooming"
+    ],
+    "location": "C13",
+    "schoolName": [
+      "广东工业大学",
+      "Guangdong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.30",
+    "members": [
+      "邱逸铭(Qiu Yiming)",
+      "葛俊辰(Ge Junchen)",
+      "刘庆崧(Liu Qingsong)"
+    ]
+  },
+  {
+    "externalid": "126",
+    "id": "126",
+    "team": "team0126",
+    "password": [
+      "IQJFVTDM",
+      "EAORFDWN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "魑魅魍魉魁魈魀鬾魆魋魊魌魐魓鬿",
+      "monsters"
+    ],
+    "location": "C14",
+    "schoolName": [
+      "华东师范大学",
+      "East China Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.86",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "153",
+    "id": "153",
+    "team": "team0153",
+    "password": [
+      "NEOXKTJI",
+      "XNAOJMTV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "NCHUSoftware_Dream",
+      "NCHUSoftware_Dream"
+    ],
+    "location": "C15",
+    "schoolName": [
+      "南昌航空大学",
+      "Nanchang Hangkong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.74",
+    "members": [
+      "章文贵(Zhang Wengui)",
+      "常国琳(Chang Guolin)",
+      "刘辅强(Liu Fuqiang)"
+    ]
+  },
+  {
+    "externalid": "77",
+    "id": "77",
+    "team": "team0077",
+    "password": [
+      "TDBJUPXN",
+      "NBFOPYZW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "祈求者",
+      "Invoker"
+    ],
+    "location": "C16",
+    "schoolName": [
+      "复旦大学",
+      "Fudan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.8",
+    "members": [
+      "吴明健(Wu Mingjian)",
+      "王轩宇(Wang Xuanyu)",
+      "高铭鸿(Gao Minghong)"
+    ]
+  },
+  {
+    "externalid": "156",
+    "id": "156",
+    "team": "team0156",
+    "password": [
+      "KOMCYRZA",
+      "MEJXFOUS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "南方科技大学_伦敦",
+      "SUSTech_London"
+    ],
+    "location": "C17",
+    "schoolName": [
+      "南方科技大学",
+      "Southern University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.76",
+    "members": [
+      "张文灏(Zhang Wenhao)",
+      "贺启旸(He Qi yang)",
+      "朱泓霖(Zhu Honglin)"
+    ]
+  },
+  {
+    "externalid": "163",
+    "id": "163",
+    "team": "team0163",
+    "password": [
+      "QGYZXKLD",
+      "GIXAOLRM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "赫拉克勒斯",
+      "Hercules"
+    ],
+    "location": "C18",
+    "schoolName": [
+      "南京航空航天大学",
+      "Nanjing University of Aeronautics and Astronautics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.71",
+    "members": [
+      "黄振(Zhen Huang)",
+      "黄聿超(Yuchao Huang)",
+      "王天行(Tianxing Wang)"
+    ]
+  },
+  {
+    "externalid": "365",
+    "id": "365",
+    "team": "team0365",
+    "password": [
+      "OWCUDNMQ",
+      "LIFHTGPQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "ABC_dog_bit_pig",
+      "ABC_dog_bit_pig"
+    ],
+    "location": "C19",
+    "schoolName": [
+      "中华大学",
+      "Chung Hua University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.24",
+    "members": [
+      "LIU SHEN-HSUAN(SHEN-HSUAN LIU)",
+      "XingWie Ho(Ho XingWie)",
+      "Lu ZhenHua(ZhenHua Lu)"
+    ]
+  },
+  {
+    "externalid": "173",
+    "id": "173",
+    "team": "team0173",
+    "password": [
+      "UVTAIWJF",
+      "ZDXPAFSJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "世界终焉",
+      "End World"
+    ],
+    "location": "C20",
+    "schoolName": [
+      "南开大学",
+      "Nankai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.49",
+    "members": [
+      "Peisong Wen(Wen Peisong)",
+      "Songyuan Sun(Sun Songyuan)",
+      "Shao Ruizhi(Shao Ruizhi)"
+    ]
+  },
+  {
+    "externalid": "169",
+    "id": "169",
+    "team": "team0169",
+    "password": [
+      "ORNSVFWQ",
+      "THMUNQYC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "拯救世界+",
+      "NJUPT_Goforworld+"
+    ],
+    "location": "C21",
+    "schoolName": [
+      "南京邮电大学",
+      "Nanjing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.96",
+    "members": [
+      "Wei Zhang(Zhang Wei)",
+      "ZhengyanLi(Li Zhengyan)",
+      "邹子昕(Zou Zixin)"
+    ]
+  },
+  {
+    "externalid": "178",
+    "id": "178",
+    "team": "team0178",
+    "password": [
+      "HASPERNZ",
+      "NWLGPIFD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我们来了",
+      "We are"
+    ],
+    "location": "C22",
+    "schoolName": [
+      "宁波大学",
+      "Ningbo University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.59",
+    "members": [
+      "Wenhao Li(Li Wenhao)",
+      "Jiaping Zhong(Zhong Jiaping)",
+      "Hongxu Li (Li Hongxu)"
+    ]
+  },
+  {
+    "externalid": "182",
+    "id": "182",
+    "team": "team0182",
+    "password": [
+      "QUCHOGJI",
+      "CMZGQIJF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "脱氧核糖核酸",
+      "DNA"
+    ],
+    "location": "C23",
+    "schoolName": [
+      "青岛大学",
+      "Qingdao University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.22",
+    "members": [
+      "李德健(Li Dejian)",
+      "孙雨田(Sun Yutian)",
+      "吴新雨(Wu Xinyu)"
+    ]
+  },
+  {
+    "externalid": "192",
+    "id": "192",
+    "team": "team0192",
+    "password": [
+      "WPIHBTAV",
+      "FDOVGYMR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "6.62607004×10^(-34)㎡kg/s",
+      "The new definition of kilogram is base on Planck constant"
+    ],
+    "location": "C24",
+    "schoolName": [
+      "山东财经大学",
+      "Shandong University of Finance and Economics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.25",
+    "members": [
+      "冯嘉俊(jiajun feng)",
+      "房乐鑫(Fang Lexin)",
+      "zhengxu jin(jin zhengxu)"
+    ]
+  },
+  {
+    "externalid": "73",
+    "id": "73",
+    "team": "team0073",
+    "password": [
+      "EHFACWZR",
+      "PQKHBAMT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "红高粱",
+      "RedSorghum"
+    ],
+    "location": "C25",
+    "schoolName": [
+      "福州大学",
+      "Fuzhou University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.58",
+    "members": [
+      "Yu Guan(Guan Yu)",
+      "Jinxin Hong(Hong Jinxin)",
+      "Jin Li(Li Jin)"
+    ]
+  },
+  {
+    "externalid": "11",
+    "id": "11",
+    "team": "team0011",
+    "password": [
+      "TVKNBEFI",
+      "HITVQEGK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "除了AC",
+      "Away With Correct"
+    ],
+    "location": "C26",
+    "schoolName": [
+      "北京航空航天大学",
+      "Beihang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.44",
+    "members": [
+      "彭毛小民(Peng Maoxiaomin)",
+      "郭镕昊(Guo Ronghao)",
+      "姜圣虎(Jiang Shenghu)"
+    ]
+  },
+  {
+    "externalid": "194",
+    "id": "194",
+    "team": "team0194",
+    "password": [
+      "LEWIQFVR",
+      "EUXTMOCA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "唯我心",
+      "Only my heart"
+    ],
+    "location": "C27",
+    "schoolName": [
+      "山东大学",
+      "Shandong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.69",
+    "members": [
+      "Haojun Hou(Hou Haojun)",
+      "Mincong Huang(Huang Mincong)",
+      "Xiuying Wei(Wei Xiuying)"
+    ]
+  },
+  {
+    "externalid": "355",
+    "id": "355",
+    "team": "team0355",
+    "password": [
+      "QFSOYTCV",
+      "ZORDLHPA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "已售罄",
+      "No Single Dogs"
+    ],
+    "location": "C28",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.80",
+    "members": [
+      "Junkai Liang(Liang Junkai)",
+      "NingXuan Feng(Feng NingXuan)",
+      "侯宇蓬(Hou Yupeng)"
+    ]
+  },
+  {
+    "externalid": "201",
+    "id": "201",
+    "team": "team0201",
+    "password": [
+      "MGHTSEIO",
+      "GPVXJOWR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "曲终人不散",
+      "Back in Black"
+    ],
+    "location": "C29",
+    "schoolName": [
+      "山东理工大学",
+      "Shandong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.27",
+    "members": [
+      "Cheng Xin(Cheng Xin)",
+      "Shengzhao Qin(Qin Shengzhao)",
+      "徐红博(Xu Hongbo)"
+    ]
+  },
+  {
+    "externalid": "206",
+    "id": "206",
+    "team": "team0206",
+    "password": [
+      "QLXUSTFJ",
+      "MVLCTAWS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "三创两迁",
+      "SUST_2"
+    ],
+    "location": "C30",
+    "schoolName": [
+      "陕西科技大学",
+      "Shaanxi University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.91",
+    "members": [
+      "杨洋(Yang Yang)",
+      "任浦嘉(Ren Pujia)",
+      "李智春(Li Zhichun)"
+    ]
+  },
+  {
+    "externalid": "292",
+    "id": "292",
+    "team": "team0292",
+    "password": [
+      "VNPZQMRB",
+      "CHQVLOSI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "玩能源",
+      "Play Energy"
+    ],
+    "location": "C31",
+    "schoolName": [
+      "香港中文大学",
+      "The Chinese University of Hong Kong"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.61",
+    "members": [
+      "Yik Chun Wong(Wong Yik Chun)",
+      "Chow Kwan Ting Jeremy(Chow Kwan Ting Jeremy)",
+      "Tsz Chun Wong(Wong Tsz Chun)"
+    ]
+  },
+  {
+    "externalid": "64",
+    "id": "64",
+    "team": "team0064",
+    "password": [
+      "JIVEYPBC",
+      "DUXZLHEW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "三只老狗",
+      "clw"
+    ],
+    "location": "C32",
+    "schoolName": [
+      "东南大学",
+      "Southeast University, China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.34",
+    "members": [
+      "陈启航(Chen Qihang)",
+      "王陶然(Wang Taoran)",
+      "李超磊(Li Chaolei)"
+    ]
+  },
+  {
+    "externalid": "209",
+    "id": "209",
+    "team": "team0209",
+    "password": [
+      "FWZUCIRO",
+      "HLNPEVCT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "地三鲜——土豆洋芋马铃薯",
+      "Tomato Or Potato"
+    ],
+    "location": "C33",
+    "schoolName": [
+      "陕西师范大学",
+      "Shaanxi Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.20",
+    "members": [
+      "谢可毅(Xie Keyi)",
+      "FengYi Jia(Jia FengYi)",
+      "Yubing Wei(Wei Yubing)"
+    ]
+  },
+  {
+    "externalid": "213",
+    "id": "213",
+    "team": "team0213",
+    "password": [
+      "XFTMGNCU",
+      "RSZWIUPT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "心动网络-匠心队",
+      "X.D.Network-Ingenuity"
+    ],
+    "location": "C34",
+    "schoolName": [
+      "上海大学",
+      "Shanghai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.81",
+    "members": [
+      "蔡盛梁(Cai Shengliang)",
+      "苗伟华(Miao Weihua)",
+      "黄坤(Huang Kun)"
+    ]
+  },
+  {
+    "externalid": "214",
+    "id": "214",
+    "team": "team0214",
+    "password": [
+      "YSHZIPVB",
+      "JPIBWENS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "穿越长城，走向世界",
+      "Crater Lake"
+    ],
+    "location": "C35",
+    "schoolName": [
+      "上海第二工业大学",
+      "Shanghai Polytechnic University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.43",
+    "members": [
+      "谈云林(Tan Yunlin)",
+      "石其伟(Shi Qiwei)",
+      "王诗玥(Wang Shiyue)"
+    ]
+  },
+  {
+    "externalid": "221",
+    "id": "221",
+    "team": "team0221",
+    "password": [
+      "VFJHGBMX",
+      "EGSDFXTL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "病名为菜",
+      "Mr. Weaky"
+    ],
+    "location": "C36",
+    "schoolName": [
+      "四川大学",
+      "Sichuan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.12",
+    "members": [
+      "Lang Qin(Qin Lang)",
+      "任子尧(Ren Ziyao)",
+      "Zihao Chen(Chen Zihao)"
+    ]
+  },
+  {
+    "externalid": "22",
+    "id": "22",
+    "team": "team0022",
+    "password": [
+      "GLHOZNFV",
+      "RAVPDZSL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "明明是我们先AC的",
+      "ming ming is us first ac"
+    ],
+    "location": "C37",
+    "schoolName": [
+      "北京理工大学",
+      "Beijing Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.72",
+    "members": [
+      "Yifan Zhou(Zhou Yifan)",
+      "Liu Yifan(Yifan Liu)"
+    ]
+  },
+  {
+    "externalid": "223",
+    "id": "223",
+    "team": "team0223",
+    "password": [
+      "NIOMLAQD",
+      "FGVSXACU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "四川师范大学一队",
+      "sicnu_team1"
+    ],
+    "location": "C38",
+    "schoolName": [
+      "四川师范大学",
+      "Sichuan Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.18",
+    "members": [
+      "李英彦(LI YINGYAN)",
+      "周香君(zhou xiangjun)",
+      "任力(Ren Li)"
+    ]
+  },
+  {
+    "externalid": "98",
+    "id": "98",
+    "team": "team0098",
+    "password": [
+      "GKQEJZUC",
+      "NPWRAMFL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "工程制图",
+      "Engineering Drawing"
+    ],
+    "location": "C39",
+    "schoolName": [
+      "哈尔滨工业大学",
+      "Harbin Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.70",
+    "members": [
+      "吴逸飞(Wu Yifei)",
+      "罗泽建(Luo Zejian)",
+      "王安杰(Wang Anjie)"
+    ]
+  },
+  {
+    "externalid": "224",
+    "id": "224",
+    "team": "team0224",
+    "password": [
+      "FLXEQSKB",
+      "CDAUQWZS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "键盘冒宝矿力",
+      "daring vanguard said the calculation"
+    ],
+    "location": "C40",
+    "schoolName": [
+      "苏州大学",
+      "Soochow University, China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.11",
+    "members": [
+      "诸葛子英(Zhuge Ziying)",
+      "王浩(Wang Hao)",
+      "李天镜(Li Tianjing)"
+    ]
+  },
+  {
+    "externalid": "226",
+    "id": "226",
+    "team": "team0226",
+    "password": [
+      "KQGYRNAC",
+      "IDHOPSMZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "梦里AC",
+      "AC in a dream"
+    ],
+    "location": "C41",
+    "schoolName": [
+      "台州学院",
+      "Taizhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.17",
+    "members": [
+      "王一凡(Wang Yifan)",
+      "Zexi Zhou(Zhou Zexi)",
+      "Zhao Chengwei(Zhao Chengwei)"
+    ]
+  },
+  {
+    "externalid": "229",
+    "id": "229",
+    "team": "team0229",
+    "password": [
+      "APGOWRUD",
+      "FNOLXDBR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "TJU_天之豪杰",
+      "TJU_jth"
+    ],
+    "location": "C42",
+    "schoolName": [
+      "天津大学",
+      "Tianjin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.126",
+    "members": [
+      "Tianhao Jia(Jia Tianhao)",
+      "Yingzhou Sun(Sun Yingzhou)",
+      "Yuan Tian(Tian Yuan)"
+    ]
+  },
+  {
+    "externalid": "158",
+    "id": "158",
+    "team": "team0158",
+    "password": [
+      "BHPORMKW",
+      "NCMBKTGZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我永远喜欢zsc",
+      "I love zsc forever"
+    ],
+    "location": "C43",
+    "schoolName": [
+      "南京大学",
+      "Nanjing University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.77",
+    "members": [
+      "高可攀(Gao Kepan)",
+      "李子扬(Li Ziyang)",
+      "姜允执(Jiang Yunzhi)"
+    ]
+  },
+  {
+    "externalid": "133",
+    "id": "133",
+    "team": "team0133",
+    "password": [
+      "FIHPUMTK",
+      "PGZCSWXD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "河底摸鱼",
+      "SCAU_Touch_Fish"
+    ],
+    "location": "C44",
+    "schoolName": [
+      "华南农业大学",
+      "South China Agricultural University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.40",
+    "members": [
+      "肖文洋(Xiao Wenyang)",
+      "黄柏贵(Huang Bogui)",
+      "谭志康(Tan Zhikang)"
+    ]
+  },
+  {
+    "externalid": "187",
+    "id": "187",
+    "team": "team0187",
+    "password": [
+      "BJZIFTME",
+      "PWMNOTUJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "邬老师粉丝群",
+      "Fans of wls"
+    ],
+    "location": "C45",
+    "schoolName": [
+      "清华大学",
+      "Tsinghua University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.15",
+    "members": [
+      "杨景钦(Yang Jingqin)",
+      "陈俊锟(Chen Junkun)",
+      "吕欣(Lv Xin)"
+    ]
+  },
+  {
+    "externalid": "235",
+    "id": "235",
+    "team": "team0235",
+    "password": [
+      "EMRNXHTP",
+      "LYHOXWRJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "荠蒻",
+      "Konjac of Tongji"
+    ],
+    "location": "C46",
+    "schoolName": [
+      "同济大学",
+      "Tongji University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.90",
+    "members": [
+      "任秋宇(Ren Qiuyu)",
+      "YITAO LIU(LIU YITAO)",
+      "欧阳小伟(Ouyang Xiaowei)"
+    ]
+  },
+  {
+    "externalid": "238",
+    "id": "238",
+    "team": "team0238",
+    "password": [
+      "ETOCZHPA",
+      "HIVNZWYX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "阿尔法队",
+      "WZU Alpha"
+    ],
+    "location": "C47",
+    "schoolName": [
+      "温州大学",
+      "Wenzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.36",
+    "members": [
+      "Tingbiao Zhong(Zhong Tingbiao)",
+      "李克炼(Li Kelian)",
+      "tingchao sun(Sun Tingchao)"
+    ]
+  },
+  {
+    "externalid": "245",
+    "id": "245",
+    "team": "team0245",
+    "password": [
+      "LOTEZRBM",
+      "OPWSFLZR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "代哥赋予我力量",
+      "Big brother carry us"
+    ],
+    "location": "C48",
+    "schoolName": [
+      "西安电子科技大学",
+      "Xidian University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.7",
+    "members": [
+      "孙可(sun ke)",
+      "简林圳(Jian linzhen)",
+      "万天纬(wan tianwei)"
+    ]
+  },
+  {
+    "externalid": "216",
+    "id": "216",
+    "team": "team0216",
+    "password": [
+      "OQAGTXCD",
+      "FODCTUQN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "NEW CODE!!",
+      "NEW CODE!!"
+    ],
+    "location": "C49",
+    "schoolName": [
+      "上海交通大学",
+      "Shanghai Jiao Tong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.73",
+    "members": [
+      "郭睿涵(Guo Ruihan)",
+      "孙司宇(Sun Siyu)",
+      "张芷萁(Zhang Zhiqi)"
+    ]
+  },
+  {
+    "externalid": "30",
+    "id": "30",
+    "team": "team0030",
+    "password": [
+      "DUATZGOB",
+      "TXHYVRDP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "房东的狗",
+      "Doll"
+    ],
+    "location": "C50",
+    "schoolName": [
+      "北京邮电大学",
+      "Beijing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.35",
+    "members": [
+      "杨铁智(Yang Tiezhi)",
+      "郑铎(Zheng Duo)",
+      "黄岳嘉(Yuejia Huang)"
+    ]
+  },
+  {
+    "externalid": "347",
+    "id": "347",
+    "team": "team0347",
+    "password": [
+      "MQLDRCEZ",
+      "PJAQBVTE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "自由之翼",
+      "Freedom"
+    ],
+    "location": "C51",
+    "schoolName": [
+      "中国科学院大学",
+      "University of Chinese Academy of Sciences"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.63",
+    "members": [
+      "郭涵章(Guo Hanzhang)",
+      "刘阳(Liu Yang)",
+      "蔡晓帆(Cai Xiaofan)"
+    ]
+  },
+  {
+    "externalid": "47",
+    "id": "47",
+    "team": "team0047",
+    "password": [
+      "YXBGVTDQ",
+      "TSIGAJPV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "UESTC_'or 1=1#",
+      "UESTC_'or 1=1#"
+    ],
+    "location": "C52",
+    "schoolName": [
+      "电子科技大学",
+      "University of Electronic Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.65",
+    "members": [
+      "Xudong Wu(Wu Xudong)",
+      "Jingtao Qian(Qian Jingtao)",
+      "Yitong Qin(Qin Yitong)"
+    ]
+  },
+  {
+    "externalid": "35",
+    "id": "35",
+    "team": "team0035",
+    "password": [
+      "QFNRCGXJ",
+      "QWEKSGNM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "喷火龙小队",
+      "ASAP"
+    ],
+    "location": "C53",
+    "schoolName": [
+      "成都东软学院",
+      "Chengdu Neusoft University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.42",
+    "members": [
+      "zhenglei du(du zhenglei)",
+      "ao song(song ao)",
+      "zhengyu zhou(zhou zhengyu)"
+    ]
+  },
+  {
+    "externalid": "283",
+    "id": "283",
+    "team": "team0283",
+    "password": [
+      "HVGIQUXM",
+      "KENIZBAW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "一个中心，两个基本点",
+      "One center,Two basic points"
+    ],
+    "location": "C54",
+    "schoolName": [
+      "西南民族大学",
+      "SouthWest Minzu University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.95",
+    "members": [
+      "An Jianqiao(An Jianqiao)",
+      "WangJinyu(Wang Jinyu)",
+      "Yan Jiahao(Yan Jiahao)"
+    ]
+  },
+  {
+    "externalid": "3",
+    "id": "3",
+    "team": "team0003",
+    "password": [
+      "DWQLATCR",
+      "XTBJSNCG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "香菇鸡",
+      "Mushroom Chicken"
+    ],
+    "location": "D01",
+    "schoolName": [
+      "安徽大学",
+      "Anhui University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.71",
+    "members": [
+      "汪敏瑞(Wang Minrui)",
+      "陈昱翔(Chen Yuxiang)",
+      "CHEN HUAN(Chen Huan)"
+    ]
+  },
+  {
+    "externalid": "4",
+    "id": "4",
+    "team": "team0004",
+    "password": [
+      "YDZBJKSI",
+      "HZYDEQRX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中文名请看英文名",
+      "please look at Chinese name"
+    ],
+    "location": "D02",
+    "schoolName": [
+      "北方工业大学",
+      "North China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.180",
+    "members": [
+      "李思佳(Annie Li)",
+      "Yao Sun(Sun Yao)",
+      "Tongjian Niu(Niu Tongjian)"
+    ]
+  },
+  {
+    "externalid": "2",
+    "id": "2",
+    "team": "team0002",
+    "password": [
+      "LKOVGYXN",
+      "WHYDFZEN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "题被做 就会WA",
+      "Hidden Star"
+    ],
+    "location": "D03",
+    "schoolName": [
+      "阿坝师范学院",
+      "Aba Teachers College"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.95",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "99",
+    "id": "99",
+    "team": "team0099",
+    "password": [
+      "WTLNOHMD",
+      "DLVIFMXU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "落日余晖",
+      "Sunset Glow"
+    ],
+    "location": "D04",
+    "schoolName": [
+      "哈尔滨工业大学",
+      "Harbin Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.84",
+    "members": [
+      "Haifeng Chen(Chen Haifeng)",
+      "Shun Yao(Yao Shun)",
+      "于金鹭(Yu Jinlu)"
+    ]
+  },
+  {
+    "externalid": "78",
+    "id": "78",
+    "team": "team0078",
+    "password": [
+      "BEZJDLGP",
+      "BDUIJKCS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "灵魂隔断",
+      "Sunder"
+    ],
+    "location": "D05",
+    "schoolName": [
+      "复旦大学",
+      "Fudan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.37",
+    "members": [
+      "周浩博(Zhou Haobo)",
+      "裘家浩(Qiu Jiahao)",
+      "杜逸闲(Du Yixian)"
+    ]
+  },
+  {
+    "externalid": "346",
+    "id": "346",
+    "team": "team0346",
+    "password": [
+      "OSPVLJEC",
+      "CFWTXLMY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "行为仿真",
+      "behavior simulation"
+    ],
+    "location": "D06",
+    "schoolName": [
+      "中国科学院大学",
+      "University of Chinese Academy of Sciences"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.34",
+    "members": [
+      "HanSheng Ren(Ren HanSheng)",
+      "Rongqing Wang(Wang Rongqing)",
+      "韩雨(Han Yu)"
+    ]
+  },
+  {
+    "externalid": "142",
+    "id": "142",
+    "team": "team0142",
+    "password": [
+      "JSFYLVRM",
+      "FEQYDBRJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这就是队名",
+      "Here is name"
+    ],
+    "location": "D07",
+    "schoolName": [
+      "江西财经大学",
+      "Jiangxi University of Finance and Economics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.12",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "16",
+    "id": "16",
+    "team": "team0016",
+    "password": [
+      "LKEAOMVJ",
+      "VGBNUOPZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "The meat without bun is more delicious",
+      "The meat without bun is more delicious"
+    ],
+    "location": "D08",
+    "schoolName": [
+      "北京化工大学",
+      "Beijing University of Chemical Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.19",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "369",
+    "id": "369",
+    "team": "team0369",
+    "password": [
+      "RZMECHQJ",
+      "FSNEMXIJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中山大学_午餐不见了",
+      "SYSU_Food* lunch=null;"
+    ],
+    "location": "D09",
+    "schoolName": [
+      "中山大学",
+      "Zhongshan (Sun Yat-sen) University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.45",
+    "members": [
+      "黄途亮(Huang Tuliang)",
+      "傅畅(Fu Chang)",
+      "刘瀚之(Liu Hanzhi)"
+    ]
+  },
+  {
+    "externalid": "164",
+    "id": "164",
+    "team": "team0164",
+    "password": [
+      "BNXGSIDF",
+      "CGKDPNRX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我的盐呢？",
+      "ILoveSaber"
+    ],
+    "location": "D10",
+    "schoolName": [
+      "南京航空航天大学",
+      "Nanjing University of Aeronautics and Astronautics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.15",
+    "members": [
+      "王韦淇(Weiqi Wang)",
+      "丁彦杰(Yanjie Ding)",
+      "吴家庆(Jiaqing Wu)"
+    ]
+  },
+  {
+    "externalid": "26",
+    "id": "26",
+    "team": "team0026",
+    "password": [
+      "QEUGMIFJ",
+      "WJKHULON"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "法老汇",
+      "Faraway"
+    ],
+    "location": "D11",
+    "schoolName": [
+      "北京师范大学",
+      "Beijing Normal University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.55",
+    "members": [
+      "郭河川(Guo Hechuan)",
+      "Jianyang Gao(Gao Jianyang)",
+      "Ke Sun(Sun Ke)"
+    ]
+  },
+  {
+    "externalid": "145",
+    "id": "145",
+    "team": "team0145",
+    "password": [
+      "YPJEKMVX",
+      "HGCPKERF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "KUT_Team",
+      "KUT_Team"
+    ],
+    "location": "D12",
+    "schoolName": [
+      "金策工业综合大学",
+      "KimChaek University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.91",
+    "members": [
+      "李国成(Ri GukSong)",
+      "文素民(Mun SoMin)",
+      "金成日(Kim SongIl)"
+    ]
+  },
+  {
+    "externalid": "170",
+    "id": "170",
+    "team": "team0170",
+    "password": [
+      "SBXKRFGI",
+      "TKLXYMQC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "沉迷打铁不能自拔",
+      "NJUPT_PlayForFe"
+    ],
+    "location": "D13",
+    "schoolName": [
+      "南京邮电大学",
+      "Nanjing University of Posts and Telecommunications"
+    ],
+    "mark": "girl",
+    "ip": "192.168.4.77",
+    "members": [
+      "Zhiying Ke(Ke Zhiying)",
+      "Shanni Wu(Wu Shanni)",
+      "Yijing Zhang(Zhang Yijing)"
+    ]
+  },
+  {
+    "externalid": "174",
+    "id": "174",
+    "team": "team0174",
+    "password": [
+      "FAXCPUKY",
+      "DUWMCONZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "八月",
+      "August"
+    ],
+    "location": "D14",
+    "schoolName": [
+      "南阳理工学院",
+      "Nanyang Institute of Technology"
+    ],
+    "mark": "girl",
+    "ip": "192.168.4.80",
+    "members": [
+      "张静琪(Zhang Jingqi)",
+      "李孟云(Li Mengyun)",
+      "杜璐瑜(Du Luyu)"
+    ]
+  },
+  {
+    "externalid": "180",
+    "id": "180",
+    "team": "team0180",
+    "password": [
+      "ETOVDYGL",
+      "RTEOPZYL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "宁夏大学ACM队",
+      "Skyspark"
+    ],
+    "location": "D15",
+    "schoolName": [
+      "宁夏大学",
+      "NingXia University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.3",
+    "members": [
+      "张啸天(Xiaotian Zhang)",
+      "王雄(Xiong Wang)",
+      "靳振伟(Zhenwei Jin)"
+    ]
+  },
+  {
+    "externalid": "74",
+    "id": "74",
+    "team": "team0074",
+    "password": [
+      "LYXBVWQT",
+      "ODCPRLZJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "复评机",
+      "Rejudge"
+    ],
+    "location": "D16",
+    "schoolName": [
+      "福州大学",
+      "Fuzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.35",
+    "members": [
+      "Huayi Liu(Liu Huayi)",
+      "Linyuan Che(Che Linyuan)",
+      "Yihang Wu(Wu Yihang)"
+    ]
+  },
+  {
+    "externalid": "183",
+    "id": "183",
+    "team": "team0183",
+    "password": [
+      "DQIZWHOS",
+      "LEVBMQOK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "本地对就对",
+      "Local OK is OK"
+    ],
+    "location": "D17",
+    "schoolName": [
+      "青岛大学",
+      "Qingdao University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.21",
+    "members": [
+      "yunzhe zhang(Zhang Yunzhe)",
+      "linfeng xu(Xu Linfeng)",
+      "Jiaye Xue(Xue Jiaye)"
+    ]
+  },
+  {
+    "externalid": "7",
+    "id": "7",
+    "team": "team0007",
+    "password": [
+      "WTLQMCAH",
+      "PSVTFCKR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "La Mala Hora",
+      "La Mala Hora"
+    ],
+    "location": "D18",
+    "schoolName": [
+      "北京大学",
+      "Peking University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.9",
+    "members": [
+      "冯哲(Feng Zhe)",
+      "叶珈宁(Ye Jianing)",
+      "任轩笛(Ren Xuandi)"
+    ]
+  },
+  {
+    "externalid": "193",
+    "id": "193",
+    "team": "team0193",
+    "password": [
+      "ICVQDWST",
+      "HSYEBXIW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "一上来就不行的青岛打铁王花式打铁",
+      "Ledo Ferrum"
+    ],
+    "location": "D19",
+    "schoolName": [
+      "山东大学",
+      "Shandong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.11",
+    "members": [
+      "俞旭铮(Yu Xuzheng)",
+      "Liu JingSheng(JingSheng Liu)",
+      "Chris Xiong(Xiong Lida)"
+    ]
+  },
+  {
+    "externalid": "207",
+    "id": "207",
+    "team": "team0207",
+    "password": [
+      "PFQZVDBO",
+      "ZNMPAVUW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我们想做队",
+      "emmmmmmmm"
+    ],
+    "location": "D20",
+    "schoolName": [
+      "陕西师范大学",
+      "Shaanxi Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.28",
+    "members": [
+      "贾晗誉(Jia Hanyu)",
+      "王治坤(Wang Zhikun)",
+      "赵旗(Zhao Qi)"
+    ]
+  },
+  {
+    "externalid": "210",
+    "id": "210",
+    "team": "team0210",
+    "password": [
+      "ARHFSPKG",
+      "XFASUOPB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我们想的都对",
+      "There's no wrong team"
+    ],
+    "location": "D21",
+    "schoolName": [
+      "上海大学",
+      "Shanghai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.51",
+    "members": [
+      "董昱(Dong Yu)",
+      "林世铨(Lin Shiquan)",
+      "罗哲焱(Luo Zheyan)"
+    ]
+  },
+  {
+    "externalid": "202",
+    "id": "202",
+    "team": "team0202",
+    "password": [
+      "ZLMISJVW",
+      "ICVMTDKL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "南风未起，念牌成疾",
+      "EL PSY CONGROO"
+    ],
+    "location": "D22",
+    "schoolName": [
+      "山东理工大学",
+      "Shandong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.44",
+    "members": [
+      "贾辉(Jia Hui)",
+      "Cheng Huang(Huang Cheng)",
+      "郑延亮(Zheng Yanliang)"
+    ]
+  },
+  {
+    "externalid": "159",
+    "id": "159",
+    "team": "team0159",
+    "password": [
+      "IPYVOMNT",
+      "TJKFOMBI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "llIlIIlIll",
+      "llIlIIlIll"
+    ],
+    "location": "D23",
+    "schoolName": [
+      "南京大学",
+      "Nanjing University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.2",
+    "members": [
+      "张浩南(Zhang HAONAN)",
+      "董杨静(Dong Yangjing)",
+      "裴一凡(Pei Yifan)"
+    ]
+  },
+  {
+    "externalid": "199",
+    "id": "199",
+    "team": "team0199",
+    "password": [
+      "GRHMBDYZ",
+      "BDFRUOAH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "夏延号",
+      "SKD70611 Cheyenne"
+    ],
+    "location": "D24",
+    "schoolName": [
+      "山东科技大学",
+      "Shandong University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.13",
+    "members": [
+      "王鑫(Wang Xin)",
+      "刘威成(Liu Weicheng)",
+      "于明瑞(Yu MingRui)"
+    ]
+  },
+  {
+    "externalid": "222",
+    "id": "222",
+    "team": "team0222",
+    "password": [
+      "GZFELPYB",
+      "CXODLPQW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "野花",
+      "Setaria"
+    ],
+    "location": "D25",
+    "schoolName": [
+      "四川大学",
+      "Sichuan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.98",
+    "members": [
+      "孙典圣(Sun Diansheng)",
+      "Rongyu Chen(Chen Rongyu)",
+      "Ji Ming cheng(Ji Mingcheng)"
+    ]
+  },
+  {
+    "externalid": "225",
+    "id": "225",
+    "team": "team0225",
+    "password": [
+      "UBENWZMY",
+      "EFDMJRQS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "昌昌，抱抱我",
+      "hug me, nai chang"
+    ],
+    "location": "D26",
+    "schoolName": [
+      "苏州大学",
+      "Soochow University, China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.17",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "65",
+    "id": "65",
+    "team": "team0065",
+    "password": [
+      "NBSQVALW",
+      "BPUHTSXJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "火箭少女707的wa掘机",
+      "rocket girls 707's wrong answer machine"
+    ],
+    "location": "D27",
+    "schoolName": [
+      "东南大学",
+      "Southeast University, China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.65",
+    "members": [
+      "刘朗麒(Liu Langqi)",
+      "肖炯辰(Xiao Jiongchen)",
+      "冉雨杭(Ran Yuhang)"
+    ]
+  },
+  {
+    "externalid": "227",
+    "id": "227",
+    "team": "team0227",
+    "password": [
+      "ODKUWSJI",
+      "FARJTKYO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "最大牛",
+      "maximum cow"
+    ],
+    "location": "D28",
+    "schoolName": [
+      "台州学院",
+      "Taizhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.5",
+    "members": [
+      "詹志龙(Zhan Zhilong)",
+      "陶源(Tao Yuan)",
+      "黄睿博(Huang Ruibo)"
+    ]
+  },
+  {
+    "externalid": "12",
+    "id": "12",
+    "team": "team0012",
+    "password": [
+      "DACGMXBT",
+      "MOWTUZVE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "梦中做自己",
+      "ForTheDream"
+    ],
+    "location": "D29",
+    "schoolName": [
+      "北京航空航天大学",
+      "Beihang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.38",
+    "members": [
+      "张少昂(Shaoang Zhang)",
+      "张凯杰(Kaijie Zhang)",
+      "沈中海(Shen Zhonghai)"
+    ]
+  },
+  {
+    "externalid": "230",
+    "id": "230",
+    "team": "team0230",
+    "password": [
+      "VBGOAYDX",
+      "OVSPKMBQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "TJU_OPENBAYES",
+      "TJU_OpenBayes"
+    ],
+    "location": "D30",
+    "schoolName": [
+      "天津大学",
+      "Tianjin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.24",
+    "members": [
+      "Qiao Feng(Feng Qiao)",
+      "Qihan Zhang(Zhang Qihan)",
+      "Fan Peng(Peng Fan)"
+    ]
+  },
+  {
+    "externalid": "233",
+    "id": "233",
+    "team": "team0233",
+    "password": [
+      "NWGEOPHA",
+      "ARQBMYNF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "皮卡丘的弟弟",
+      "Picacho's brother"
+    ],
+    "location": "D31",
+    "schoolName": [
+      "天津工业大学",
+      "Tianjin Polytechnic University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.66",
+    "members": [
+      "董京林(Dong Jinglin)",
+      "江敬恩(Jiang Jingen)",
+      "陈成(Chen Cheng)"
+    ]
+  },
+  {
+    "externalid": "236",
+    "id": "236",
+    "team": "team0236",
+    "password": [
+      "QAWFBORM",
+      "SPUNLCMT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我想到一个绝妙的队名，可惜这里空白太小写不下",
+      "SHX"
+    ],
+    "location": "D32",
+    "schoolName": [
+      "同济大学",
+      "Tongji University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.67",
+    "members": [
+      "叶茂尧(Ye Maoyao)",
+      "黄颖(Ying Huang)",
+      "Haolong Li(Li Haolong)"
+    ]
+  },
+  {
+    "externalid": "239",
+    "id": "239",
+    "team": "team0239",
+    "password": [
+      "TJICFYEN",
+      "BHXJTCGZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "贝塔队",
+      "WZU Beta"
+    ],
+    "location": "D33",
+    "schoolName": [
+      "温州大学",
+      "Wenzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.48",
+    "members": [
+      "Wenxuan Wang(Wang Wenxuan)",
+      "Xinyu wang(Wang Xinyu)",
+      "Chuanyan Dai(Dai Chuanyan)"
+    ]
+  },
+  {
+    "externalid": "241",
+    "id": "241",
+    "team": "team0241",
+    "password": [
+      "UFLAYKTR",
+      "VXZCNBQD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "233_Errors",
+      "233_Errors"
+    ],
+    "location": "D34",
+    "schoolName": [
+      "武汉科技大学",
+      "Wuhan University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.97",
+    "members": [
+      "胡皓文(haowen hu)",
+      "刘嘉麒(Liu Jiaqi)",
+      "张嘉豪(Zhang Jiahao)"
+    ]
+  },
+  {
+    "externalid": "33",
+    "id": "33",
+    "team": "team0033",
+    "password": [
+      "BVNRJACM",
+      "KECQGDXM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "暮色森林",
+      "The Twilight Forest"
+    ],
+    "location": "D35",
+    "schoolName": [
+      "北京邮电大学",
+      "Beijing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.25",
+    "members": [
+      "王亚宇(Wang Yayu)",
+      "郑文凯(Zheng Wenkai)",
+      "于天舒(Yu Tianshu)"
+    ]
+  },
+  {
+    "externalid": "246",
+    "id": "246",
+    "team": "team0246",
+    "password": [
+      "LDNPICER",
+      "VECZFOUY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "火辣鸡不会include",
+      "include"
+    ],
+    "location": "D36",
+    "schoolName": [
+      "西安电子科技大学",
+      "Xidian University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.79",
+    "members": [
+      "滕生宇(Teng Shengyu)",
+      "赵雪岩(xueyan zhao)",
+      "韩宏炜(Han Hongwei)"
+    ]
+  },
+  {
+    "externalid": "271",
+    "id": "271",
+    "team": "team0271",
+    "password": [
+      "GAIKUDWZ",
+      "PLEKYFIN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "黄沙百战穿金甲",
+      "NPU_QwQ"
+    ],
+    "location": "D37",
+    "schoolName": [
+      "西北工业大学",
+      "Northwestern Polytechnical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.63",
+    "members": [
+      "Enhao Gao(Gao Enhao)",
+      "Guanwen Peng(Peng Guanwen)",
+      "Yuwei Wang(Wang Yuwei)"
+    ]
+  },
+  {
+    "externalid": "23",
+    "id": "23",
+    "team": "team0023",
+    "password": [
+      "ZGNTLPRK",
+      "OHQUPJTB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "摸鱼肥宅",
+      "touching fish fat gamer"
+    ],
+    "location": "D38",
+    "schoolName": [
+      "北京理工大学",
+      "Beijing Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.56",
+    "members": [
+      "易翔宇(Yi Xiangyu)",
+      "李天翔(Li Tianxiang)",
+      "程文浩(Cheng Wenhao)"
+    ]
+  },
+  {
+    "externalid": "279",
+    "id": "279",
+    "team": "team0279",
+    "password": [
+      "KBQYAVCM",
+      "NPCVLSBZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这道是签到题",
+      "no regret voyage"
+    ],
+    "location": "D39",
+    "schoolName": [
+      "西南科技大学",
+      "Southwest University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.32",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "253",
+    "id": "253",
+    "team": "team0253",
+    "password": [
+      "UHBYDWJT",
+      "DZMJICFK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "打铁就女装",
+      "iron_equals_girl_dress"
+    ],
+    "location": "D40",
+    "schoolName": [
+      "西安交通大学",
+      "Xi'an Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.78",
+    "members": [
+      "Weipeng Jiang(Jiang Weipeng)",
+      "Miao Liu(Liu Miao)",
+      "Zeying Zhu(Zhu Zeying)"
+    ]
+  },
+  {
+    "externalid": "48",
+    "id": "48",
+    "team": "team0048",
+    "password": [
+      "TWVDSGUJ",
+      "WQSJYXTB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "UESTC_SET",
+      "UESTC_SET"
+    ],
+    "location": "D41",
+    "schoolName": [
+      "电子科技大学",
+      "University of Electronic Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.72",
+    "members": [
+      "Tianle Chen(Chen Tianle)",
+      "Hao Xie(Xie Hao)",
+      "Liang Zihui(Zihui Liang)"
+    ]
+  },
+  {
+    "externalid": "309",
+    "id": "309",
+    "team": "team0309",
+    "password": [
+      "SCTKNPJR",
+      "TEURVHLM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Legilimens",
+      "Legilimens"
+    ],
+    "location": "D42",
+    "schoolName": [
+      "浙江大学",
+      "Zhejiang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.74",
+    "members": [
+      "叶梓成(Ye Zicheng)",
+      "陈靖邦(Chen Jingbang)",
+      "刘明锐(Liu Mingrui)"
+    ]
+  },
+  {
+    "externalid": "256",
+    "id": "256",
+    "team": "team0256",
+    "password": [
+      "DNLUOZTM",
+      "ZTHEYDRL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "阿姆斯特朗·奥斯托洛夫斯基",
+      "Armstrong Ostrovsky"
+    ],
+    "location": "D43",
+    "schoolName": [
+      "西安科技大学",
+      "Xi'an University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.73",
+    "members": [
+      "王钦弘(Wang QinHong)",
+      "王井泽(Wang Jingze)",
+      "刘文祥(Liu WenXiang)"
+    ]
+  },
+  {
+    "externalid": "263",
+    "id": "263",
+    "team": "team0263",
+    "password": [
+      "OVMTIWUK",
+      "QBDITHVY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "水煮鸽子",
+      "Boiled pigeons"
+    ],
+    "location": "D44",
+    "schoolName": [
+      "西安邮电大学",
+      "Xi'an University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.30",
+    "members": [
+      "Siyuan Li(Li Siyuan)",
+      "Weiqi zhao(Zhao Weiqi)",
+      "刘敏(Liu Min)"
+    ]
+  },
+  {
+    "externalid": "294",
+    "id": "294",
+    "team": "team0294",
+    "password": [
+      "MXHYJNIW",
+      "WLFKOAUR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "完美谢幕",
+      "XTU_ Perfect Ending"
+    ],
+    "location": "D45",
+    "schoolName": [
+      "湘潭大学",
+      "Xiangtan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.31",
+    "members": [
+      "Zhuoceng Dai(Dai Zhuocen)",
+      "Shuwen Yang(Yang Shuwen)",
+      "Jing Qu(Qu Jing)"
+    ]
+  },
+  {
+    "externalid": "296",
+    "id": "296",
+    "team": "team0296",
+    "password": [
+      "GSNZITEA",
+      "EQKRDFGW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "去ECFinal？",
+      "ECFinal let's go ?"
+    ],
+    "location": "D46",
+    "schoolName": [
+      "新疆大学",
+      "Xinjiang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.33",
+    "members": [
+      "韩昊伸(han haoshen)",
+      "宋雨轩(Song Yuxuan)",
+      "haydar(tolhen haydar)"
+    ]
+  },
+  {
+    "externalid": "297",
+    "id": "297",
+    "team": "team0297",
+    "password": [
+      "KZRTSMFH",
+      "HZJKBOAT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "2zZ乙",
+      "a lot of snakes"
+    ],
+    "location": "D47",
+    "schoolName": [
+      "烟台大学",
+      "Yantai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.1",
+    "members": [
+      "孙鲁(Sun Lu)",
+      "李硕勋(Li Shuoxun)",
+      "肖毅欣(Xiao Yixin)"
+    ]
+  },
+  {
+    "externalid": "288",
+    "id": "288",
+    "team": "team0288",
+    "password": [
+      "ATENVDKF",
+      "XUHPVGEY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "髮際線+7",
+      "^^rising hairline^^"
+    ],
+    "location": "D48",
+    "schoolName": [
+      "香港大学",
+      "University of Hong Kong"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.75",
+    "members": [
+      "郭健曦(KWOK Kin Hei)",
+      "黄清纬(HUANG Qingwei)",
+      "許百楠(HUI Pak Nam)"
+    ]
+  },
+  {
+    "externalid": "298",
+    "id": "298",
+    "team": "team0298",
+    "password": [
+      "LRXJETCD",
+      "RTLSWKDG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "笑脸人",
+      "East palace"
+    ],
+    "location": "D49",
+    "schoolName": [
+      "长安大学",
+      "Chang'an University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.127",
+    "members": [
+      "方尧(Fang Yao)",
+      "柯一滨(Ke Yibin)",
+      "刘胜哲(Liu Shengzhe)"
+    ]
+  },
+  {
+    "externalid": "301",
+    "id": "301",
+    "team": "team0301",
+    "password": [
+      "FROPADMS",
+      "LTIWAXDC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小pig佩奇",
+      "It will be Spring"
+    ],
+    "location": "D50",
+    "schoolName": [
+      "长春工业大学",
+      "Changchun University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.102",
+    "members": [
+      "马昂扬(Ma Angyang)",
+      "任义(Ren Yi)",
+      "Juanjuan Miao(Miao Juanjuan)"
+    ]
+  },
+  {
+    "externalid": "302",
+    "id": "302",
+    "team": "team0302",
+    "password": [
+      "XINMYVGJ",
+      "FWDLANCI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "有情绪",
+      "We are angry"
+    ],
+    "location": "D51",
+    "schoolName": [
+      "长春理工大学",
+      "Changchun University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.142",
+    "members": [
+      "李泽鹏(Zepeng Li)",
+      "孟令书(Lingshu Meng)",
+      "陈昶文(Changwen Chen)"
+    ]
+  },
+  {
+    "externalid": "303",
+    "id": "303",
+    "team": "team0303",
+    "password": [
+      "WEAYSFNL",
+      "NUZPWGDO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "不作死就不会死",
+      "no submit no wrong"
+    ],
+    "location": "D52",
+    "schoolName": [
+      "长沙理工大学",
+      "Changsha University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.135",
+    "members": [
+      " Liangwei Li(Li Liangwei)",
+      "Hang Li(Li Hang)",
+      "Yan Zheng(Yan Zheng)"
+    ]
+  },
+  {
+    "externalid": "305",
+    "id": "305",
+    "team": "team0305",
+    "password": [
+      "RYQTPIFC",
+      "JCWSLIHY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "正能量的搬运工",
+      "The positive energy Porter"
+    ],
+    "location": "D53",
+    "schoolName": [
+      "长沙学院",
+      "Changsha University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.131",
+    "members": [
+      "周任远(Zhou Renyuan)",
+      "许斌斌(Xu BinBin)",
+      "段剑辉(Duan Jianhui)"
+    ]
+  },
+  {
+    "externalid": "188",
+    "id": "188",
+    "team": "team0188",
+    "password": [
+      "QYLVDURK",
+      "XUHNTMJG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中二之力",
+      "Power of Two"
+    ],
+    "location": "D54",
+    "schoolName": [
+      "清华大学",
+      "Tsinghua University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.118",
+    "members": [
+      "杜瑜皓(Du Yuhao)",
+      "徐明宽(Xu Mingkuan)",
+      "吴作凡(Wu Zuofan)"
+    ]
+  },
+  {
+    "externalid": "356",
+    "id": "356",
+    "team": "team0356",
+    "password": [
+      "JFHQBVRD",
+      "LJVIXOZW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "只有聪明的人才能看见我们的名字",
+      "only people who are clever enough can see our name?"
+    ],
+    "location": "D55",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "girl",
+    "ip": "192.168.4.141",
+    "members": [
+      "张若琦(Zhang Ruoqi)",
+      "Shuang Yang(Yang Shuang)",
+      "张灵溪(Zhang Lingxi)"
+    ]
+  },
+  {
+    "externalid": "130",
+    "id": "130",
+    "team": "team0130",
+    "password": [
+      "LIWGMBSJ",
+      "UNCGQTJS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "不也挺好的吗",
+      "Team382"
+    ],
+    "location": "D56",
+    "schoolName": [
+      "华南理工大学",
+      "South China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.116",
+    "members": [
+      "魏承东(Wei Chengdong)",
+      "傅少鹏(Fu Shaopeng)",
+      "黄仕嘉(Huang Shijia)"
+    ]
+  },
+  {
+    "externalid": "320",
+    "id": "320",
+    "team": "team0320",
+    "password": [
+      "RTWVDBGK",
+      "LNMWOFYH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "公理",
+      "Axiom"
+    ],
+    "location": "D57",
+    "schoolName": [
+      "浙江工业大学",
+      "Zhejiang University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.103",
+    "members": [
+      "钱滔(Qian Tao)",
+      "涂再立(Tu ZaiLi)",
+      "张水强(Zhang Shuiqiang)"
+    ]
+  },
+  {
+    "externalid": "217",
+    "id": "217",
+    "team": "team0217",
+    "password": [
+      "DLQECSAX",
+      "ABTJKMXQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "天码",
+      "Talancode"
+    ],
+    "location": "D58",
+    "schoolName": [
+      "上海交通大学",
+      "Shanghai Jiao Tong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.113",
+    "members": [
+      "杨尚霏(Yang Shangfei)",
+      "刘尔之(Liu Erzhi)",
+      "杨宗翰(Yang Zonghan)"
+    ]
+  },
+  {
+    "externalid": "82",
+    "id": "82",
+    "team": "team0082",
+    "password": [
+      "FKZGWJUC",
+      "FEVKJYTN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "二律背反",
+      "Steins_Gate"
+    ],
+    "location": "D59",
+    "schoolName": [
+      "广东工业大学",
+      "Guangdong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.125",
+    "members": [
+      "邓会业(Deng Huiye)",
+      "康泽楠(Kang Zenan)",
+      "刘浩瀚(Liu Haohan)"
+    ]
+  },
+  {
+    "externalid": "333",
+    "id": "333",
+    "team": "team0333",
+    "password": [
+      "SOMJYVDA",
+      "VNZJLFDU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "只是想要艾特你",
+      "Just want to @ you"
+    ],
+    "location": "D60",
+    "schoolName": [
+      "郑州大学",
+      "Zhengzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.146",
+    "members": [
+      "Zhongyuan Huang(Huang Zhongyuan)",
+      "Zhipeng Hu(Hu Zhipeng)",
+      "Yajie Zhang(Zhang Yajie)"
+    ]
+  },
+  {
+    "externalid": "8",
+    "id": "8",
+    "team": "team0008",
+    "password": [
+      "BOSYDTZU",
+      "YGQSOJNX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Miracle",
+      "Miracle"
+    ],
+    "location": "E01",
+    "schoolName": [
+      "北京大学",
+      "Peking University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.45",
+    "members": [
+      "侯锐泽(Hou Ruize)",
+      "周笑鸥(Zhou Xiaoou)",
+      "罗煜楚(Luo Yuchu)"
+    ]
+  },
+  {
+    "externalid": "27",
+    "id": "27",
+    "team": "team0027",
+    "password": [
+      "OXMLRPGJ",
+      "ICBWPLRG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "圆环之理",
+      "Yuruyuri"
+    ],
+    "location": "E02",
+    "schoolName": [
+      "北京师范大学",
+      "Beijing Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.28",
+    "members": [
+      "黄鸣宇(Huang Mingyu)",
+      "吴松原(Wu Songyuan)",
+      "吴剑荣(Jianrong Wu)"
+    ]
+  },
+  {
+    "externalid": "293",
+    "id": "293",
+    "team": "team0293",
+    "password": [
+      "YEPZWNVF",
+      "SWCTOVDI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "那將是血清",
+      "Que Sera Sera"
+    ],
+    "location": "E03",
+    "schoolName": [
+      "香港中文大学",
+      "The Chinese University of Hong Kong"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.3.103",
+    "members": [
+      "Askhat Zhalgasov(Zhalgasov Askhat)",
+      "Cheuk Man Li(Li Cheuk Man)",
+      "None(Bi Ke)"
+    ]
+  },
+  {
+    "externalid": "357",
+    "id": "357",
+    "team": "team0357",
+    "password": [
+      "PKCUWDMB",
+      "DJXEOLAW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "B题是个大水题",
+      "P90 Rush B"
+    ],
+    "location": "E04",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.122",
+    "members": [
+      "Puyun Hu(Hu Puyun)",
+      "黄浩睿(Huang Haorui)",
+      "丁海鹏(Ding Haipeng)"
+    ]
+  },
+  {
+    "externalid": "83",
+    "id": "83",
+    "team": "team0083",
+    "password": [
+      "YKTNADHV",
+      "ISTXEFRU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "茶大师",
+      "Team Aster"
+    ],
+    "location": "E05",
+    "schoolName": [
+      "广东工业大学",
+      "Guangdong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.102",
+    "members": [
+      "彭进华(Peng Jinhua)",
+      "张滨凯(Zhang Binkai)",
+      "陈彦霖(Chen Yanlin)"
+    ]
+  },
+  {
+    "externalid": "43",
+    "id": "43",
+    "team": "team0043",
+    "password": [
+      "ZYUFCBAN",
+      "FYMXWRCD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "青歌行",
+      "Qinggex"
+    ],
+    "location": "E06",
+    "schoolName": [
+      "大连理工大学",
+      "Dalian University of Technology"
+    ],
+    "mark": "star",
+    "ip": "192.168.3.137",
+    "members": [
+      "Hang Zhang(Zhang Hang)",
+      "Fei Yang(Yang Fei)",
+      "KAI GAO(Gao Kai)"
+    ]
+  },
+  {
+    "externalid": "321",
+    "id": "321",
+    "team": "team0321",
+    "password": [
+      "WXEFPOAY",
+      "IMPZVYJL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "眼大鸟",
+      "EyeBigBird"
+    ],
+    "location": "E07",
+    "schoolName": [
+      "浙江工业大学",
+      "Zhejiang University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.127",
+    "members": [
+      "Yiming Jiang(Jiang Yiming)",
+      "王孜杰(Wang Zijie)",
+      "黄坤(huang kun)"
+    ]
+  },
+  {
+    "externalid": "75",
+    "id": "75",
+    "team": "team0075",
+    "password": [
+      "AFJBWQGP",
+      "ROIHZFAP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "复读机",
+      "Replay"
+    ],
+    "location": "E08",
+    "schoolName": [
+      "福州大学",
+      "Fuzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.101",
+    "members": [
+      "Xuegui Zheng(Zheng Xuegui)",
+      "Jihong Luo(Luo Jihong)",
+      "Jinjie Chen(Chen Jinjie)"
+    ]
+  },
+  {
+    "externalid": "13",
+    "id": "13",
+    "team": "team0013",
+    "password": [
+      "CALSNUOY",
+      "VSAPWLFY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "趣味时光",
+      "Nonsense Time"
+    ],
+    "location": "E09",
+    "schoolName": [
+      "北京航空航天大学",
+      "Beihang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.105",
+    "members": [
+      "邓一兴(Deng Yixing)",
+      "钟梓皓(Zhong Zihao)",
+      "伍俊洁(Wu Junjie)"
+    ]
+  },
+  {
+    "externalid": "324",
+    "id": "324",
+    "team": "team0324",
+    "password": [
+      "DOEWPAQI",
+      "AUMQFBZX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "让我康康",
+      "Let Me See See"
+    ],
+    "location": "E10",
+    "schoolName": [
+      "浙江理工大学",
+      "Zhejiang SCI-TECH University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.119",
+    "members": [
+      "刘智慧(Liu Zhihui)",
+      "崔哲豪(Cui Zhehao)",
+      "刘刚杰(Liu Gangjie)"
+    ]
+  },
+  {
+    "externalid": "326",
+    "id": "326",
+    "team": "team0326",
+    "password": [
+      "XHKBZGNP",
+      "MANEXFLY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "爱吃馍馍",
+      "AiChiMomo"
+    ],
+    "location": "E11",
+    "schoolName": [
+      "浙江农林大学",
+      "Zhejiang A & F University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.136",
+    "members": [
+      "li ning(ning li)",
+      "TC LI(LI TC)",
+      "Xinjie Shen(Shen Xinjie)"
+    ]
+  },
+  {
+    "externalid": "329",
+    "id": "329",
+    "team": "team0329",
+    "password": [
+      "ZJOCRNVG",
+      "PZBLNTAC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "QvQ",
+      "QvQ"
+    ],
+    "location": "E12",
+    "schoolName": [
+      "浙江师范大学",
+      "Zhejiang Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.130",
+    "members": [
+      "林佳(Lin Jia)",
+      "Miaojin LI(LI Miaojin)",
+      "周鹗荐(Zhou Ejian)"
+    ]
+  },
+  {
+    "externalid": "240",
+    "id": "240",
+    "team": "team0240",
+    "password": [
+      "BZCUIHAP",
+      "ECGRWPAS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我能摸摸你的奖杯吗",
+      "CanITouchYourJiangBei?"
+    ],
+    "location": "E13",
+    "schoolName": [
+      "武汉大学",
+      "Wuhan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.111",
+    "members": [
+      "唐凯亮(Tang Kailiang)",
+      "于斯同(Yu Sitong)",
+      "刘沛良(Liu Peiliang)"
+    ]
+  },
+  {
+    "externalid": "334",
+    "id": "334",
+    "team": "team0334",
+    "password": [
+      "PVKQORJW",
+      "IGASHKED"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "香肠腊肉",
+      "Happy New Year~"
+    ],
+    "location": "E14",
+    "schoolName": [
+      "中北大学",
+      "North University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.143",
+    "members": [
+      "Jie Zhang(Zhang Jie)",
+      "Yongsheng Wang(Wang Yongsheng)",
+      " Kang Zhang(Zhang Kang)"
+    ]
+  },
+  {
+    "externalid": "339",
+    "id": "339",
+    "team": "team0339",
+    "password": [
+      "PBXEZRMC",
+      "SQKITERU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "地大武汉ACM-No.1",
+      "CUG-2018Final01"
+    ],
+    "location": "E15",
+    "schoolName": [
+      "中国地质大学（武汉）",
+      "China University of Geosciences (Wuhan)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.140",
+    "members": [
+      "朱抗(zhu kang)",
+      "陈峻林(Chen JunLin)",
+      "雷宇辰(Lei Yuchen)"
+    ]
+  },
+  {
+    "externalid": "299",
+    "id": "299",
+    "team": "team0299",
+    "password": [
+      "SABWZUQV",
+      "SDHGYTLZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "米瑞特之阻碍",
+      "qqwrwwv"
+    ],
+    "location": "E16",
+    "schoolName": [
+      "长安大学",
+      "Chang'an University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.116",
+    "members": [
+      "王瑀治(Wang Yuzhi)",
+      "李蔚青(Li Weiqing)",
+      "孙连鹏(Sun Lianpeng)"
+    ]
+  },
+  {
+    "externalid": "247",
+    "id": "247",
+    "team": "team0247",
+    "password": [
+      "FSNLMTRU",
+      "RWGHLEJT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "生鱼忧患死鱼安乐",
+      "sudo rm -rf /"
+    ],
+    "location": "E17",
+    "schoolName": [
+      "西安电子科技大学",
+      "Xidian University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.114",
+    "members": [
+      "代玉泉(Dai Yuquan)",
+      "王晓庆(Wang Xiaoqing)",
+      "汪浚逸 (Wang Junyi)"
+    ]
+  },
+  {
+    "externalid": "231",
+    "id": "231",
+    "team": "team0231",
+    "password": [
+      "ZVPLCAYM",
+      "QBMAXLTS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "TJU_人间不值得",
+      "TJU_The_world_is_not_worth_it"
+    ],
+    "location": "E18",
+    "schoolName": [
+      "天津大学",
+      "Tianjin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.134",
+    "members": [
+      "Xiefan Guo(Guo Xiefan)",
+      "yi meng(meng yi)",
+      "Zexiong Ma(Ma Zexiong)"
+    ]
+  },
+  {
+    "externalid": "189",
+    "id": "189",
+    "team": "team0189",
+    "password": [
+      "CEYMBPGR",
+      "LFYQCMPE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "观光团",
+      "sightseeing"
+    ],
+    "location": "E19",
+    "schoolName": [
+      "清华大学",
+      "Tsinghua University"
+    ],
+    "mark": "girl",
+    "ip": "192.168.3.124",
+    "members": [
+      "王蕴韵(Wang Yunyun)",
+      "李佳蔚(Li Jiawei)",
+      "张晨(Zhang Chen)"
+    ]
+  },
+  {
+    "externalid": "131",
+    "id": "131",
+    "team": "team0131",
+    "password": [
+      "SKZNFIMT",
+      "AQFCJLRD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我在极光单词已经背了98天了",
+      "Winter is Coming"
+    ],
+    "location": "E20",
+    "schoolName": [
+      "华南理工大学",
+      "South China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.146",
+    "members": [
+      "林洋洲(Lin Yangzhou)",
+      "王浩宇(Wang Haoyu)",
+      "杨凌云(Yang Lingyun)"
+    ]
+  },
+  {
+    "externalid": "254",
+    "id": "254",
+    "team": "team0254",
+    "password": [
+      "GHAIDONB",
+      "UEXGPFTV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "tfucju",
+      "tfucju"
+    ],
+    "location": "E21",
+    "schoolName": [
+      "西安交通大学",
+      "Xi'an Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.128",
+    "members": [
+      "Bohang Zhang(Zhang Bohang)",
+      "Yifan Liu(Liu Yifan)",
+      "Cong Ding(Ding Cong)"
+    ]
+  },
+  {
+    "externalid": "242",
+    "id": "242",
+    "team": "team0242",
+    "password": [
+      "ZLEJGVUS",
+      "KIJXMPLF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "WUST_Acmer",
+      "WUST_Acmer"
+    ],
+    "location": "E22",
+    "schoolName": [
+      "武汉科技大学",
+      "Wuhan University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.152",
+    "members": [
+      "丁攀(Ding Pan)",
+      "陈宇晗(Chen Yuhan)",
+      "王星(Wang Xing)"
+    ]
+  },
+  {
+    "externalid": "244",
+    "id": "244",
+    "team": "team0244",
+    "password": [
+      "TIKPOLQC",
+      "QCAXUFIY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我想静静",
+      "skrskrskr"
+    ],
+    "location": "E23",
+    "schoolName": [
+      "武汉商学院",
+      "Wuhan Business University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.139",
+    "members": [
+      "ju ke chu(chu ju ke)",
+      "shaoqian zhang(zhang shaoqian)",
+      "李开健(LI Likaijian)"
+    ]
+  },
+  {
+    "externalid": "250",
+    "id": "250",
+    "team": "team0250",
+    "password": [
+      "YSZQEXKU",
+      "BKDSQAPW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "N3RDS",
+      "N3RDS"
+    ],
+    "location": "E24",
+    "schoolName": [
+      "西安建筑科技大学",
+      "Xi'an University of Architecture and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.150",
+    "members": [
+      "bowen Deng(Deng bowen)",
+      "Johnny Ringo(Ringo Johnny)",
+      "孙柯强(sknight by)"
+    ]
+  },
+  {
+    "externalid": "237",
+    "id": "237",
+    "team": "team0237",
+    "password": [
+      "EFMNYWKD",
+      "KEFHNWGL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "荠菜",
+      "Vegetable of Tongji"
+    ],
+    "location": "E25",
+    "schoolName": [
+      "同济大学",
+      "Tongji University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.109",
+    "members": [
+      "温鑫(Wen Xin)",
+      "毕晓栋(Bi Xiaodong)",
+      "秦政睿(Qin Zhengrui)"
+    ]
+  },
+  {
+    "externalid": "350",
+    "id": "350",
+    "team": "team0350",
+    "password": [
+      "NZEPQVYD",
+      "EZSWJBUK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "my home is in mine",
+      "my home is in mine"
+    ],
+    "location": "E26",
+    "schoolName": [
+      "中国矿业大学",
+      "China University of Mining and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.117",
+    "members": [
+      "Jiaye Leng(Leng Jiaye)",
+      "Zhang Yubing(Yubing Zhang)",
+      "fan yijie(yijie fan)"
+    ]
+  },
+  {
+    "externalid": "360",
+    "id": "360",
+    "team": "team0360",
+    "password": [
+      "YTBKFGHW",
+      "UFWPCXDZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "ALPC_For_People",
+      "ALPC_For_People"
+    ],
+    "location": "E27",
+    "schoolName": [
+      "中国人民解放军国防科技大学",
+      "National University of Defense Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.148",
+    "members": [
+      "Pengyu Song(Song Pengyu)",
+      "Gongyu Xia(Gongyu Xia)",
+      "haozhong qiu(Qiu Haozhong)"
+    ]
+  },
+  {
+    "externalid": "160",
+    "id": "160",
+    "team": "team0160",
+    "password": [
+      "QZYBCVHN",
+      "XYUILFDJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "无响应",
+      "No Response"
+    ],
+    "location": "E28",
+    "schoolName": [
+      "南京大学",
+      "Nanjing University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.138",
+    "members": [
+      "宋子辰(SONG ZiChen)",
+      "张天陵(ZHANG Tianling)",
+      "王予曦(WANG Yuxi)"
+    ]
+  },
+  {
+    "externalid": "374",
+    "id": "374",
+    "team": "team0374",
+    "password": [
+      "URAKQHTI",
+      "SUOYXCVM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "欧锦神",
+      "CQUPT_OJS"
+    ],
+    "location": "E29",
+    "schoolName": [
+      "重庆邮电大学",
+      "Chongqing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.107",
+    "members": [
+      "jin lin(lin jin)",
+      "张子旋(Zhang Zixuan)",
+      "周佳程(Zhou JiaCheng)"
+    ]
+  },
+  {
+    "externalid": "379",
+    "id": "379",
+    "team": "team0379",
+    "password": [
+      "LQAIMXJY",
+      "RBVXZNFM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "西工大附中",
+      "XGDFZ"
+    ],
+    "location": "E30",
+    "schoolName": [
+      "西北工业大学附属中学",
+      "The Middle School Attached To Northwestern Polytechnical University"
+    ],
+    "mark": "star",
+    "ip": "192.168.3.106",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "378",
+    "id": "378",
+    "team": "team0378",
+    "password": [
+      "GCDWTSXH",
+      "XDFWQYRN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "哇呜～～超凶的",
+      "QAQ"
+    ],
+    "location": "E31",
+    "schoolName": [
+      "杭州学军中学",
+      "Nanjing University of Aeronautics and Astronautics"
+    ],
+    "mark": "star",
+    "ip": "192.168.3.120",
+    "members": [
+      "钟瑨霖(Jinlin Zhong)",
+      "沈凌翔(Shen Lingxiang)",
+      "Pu Liangxi(Liangxi Pu)"
+    ]
+  },
+  {
+    "externalid": "257",
+    "id": "257",
+    "team": "team0257",
+    "password": [
+      "JFXWKYCG",
+      "HNCGBJAK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "滑稽",
+      "freshmanPro"
+    ],
+    "location": "E32",
+    "schoolName": [
+      "西安科技大学",
+      "Xi'an University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.141",
+    "members": [
+      "田晨(Tian Chen)",
+      "陈宇翔(Chen YuXiang)",
+      "段正宇(Duan ZhengYu)"
+    ]
+  },
+  {
+    "externalid": "31",
+    "id": "31",
+    "team": "team0031",
+    "password": [
+      "PWFLYDEH",
+      "SFEJTMQL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "格雷科技",
+      "Gregtech"
+    ],
+    "location": "E33",
+    "schoolName": [
+      "北京邮电大学",
+      "Beijing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.147",
+    "members": [
+      "潘鹤翔(Pan HeXiang)",
+      "董冉(Dong Ran)",
+      "KaiChen Zhang(Zhang KaiChen)"
+    ]
+  },
+  {
+    "externalid": "259",
+    "id": "259",
+    "team": "team0259",
+    "password": [
+      "PAFOYDMB",
+      "KCOJBNUH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "只有一个单身狗",
+      "only one single dog"
+    ],
+    "location": "E34",
+    "schoolName": [
+      "西安理工大学",
+      "Xi'an University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.123",
+    "members": [
+      "田子琳(Tian Zilin)",
+      "郝正一(Hao Zhengyi)",
+      "童紫琛(tong zichen)"
+    ]
+  },
+  {
+    "externalid": "264",
+    "id": "264",
+    "team": "team0264",
+    "password": [
+      "NBJRKVTO",
+      "VOKEFRGM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "糖糖真好吃",
+      "I love Candy"
+    ],
+    "location": "E35",
+    "schoolName": [
+      "西安邮电大学",
+      "Xi'an University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.115",
+    "members": [
+      "张天泰(Zhang Tiantai)",
+      "杨晨磊(Yang Chenlei)",
+      "黄文丰(Huang Wenfeng)"
+    ]
+  },
+  {
+    "externalid": "267",
+    "id": "267",
+    "team": "team0267",
+    "password": [
+      "XKBJHOIW",
+      "VLEXSJCG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "带带鸡尾酒",
+      "carry cocktail"
+    ],
+    "location": "E36",
+    "schoolName": [
+      "西北大学",
+      "Northwest University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.151",
+    "members": [
+      "熊亚锟(Yakun Xiong)",
+      "梁皓然(liang haoran)",
+      "李萱(Li Xuan)"
+    ]
+  },
+  {
+    "externalid": "311",
+    "id": "311",
+    "team": "team0311",
+    "password": [
+      "MCGDPOEK",
+      "PUDJNXQT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "不看晕针",
+      "FineFineFine"
+    ],
+    "location": "E37",
+    "schoolName": [
+      "浙江大学城市学院",
+      "Zhejiang University City College"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.118",
+    "members": [
+      "周佳辉(Zhou Jiahui)",
+      "周德阳(Zhou Deyang)",
+      "吴成铭(Wu chengming)"
+    ]
+  },
+  {
+    "externalid": "314",
+    "id": "314",
+    "team": "team0314",
+    "password": [
+      "STVEUQBI",
+      "VPHBLRDF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "忒修斯之船",
+      "aveFunny"
+    ],
+    "location": "E38",
+    "schoolName": [
+      "浙江大学宁波理工学院",
+      "Ningbo Institute of Technology, ZJU"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.135",
+    "members": [
+      "叶森(Sen Ye)",
+      "颜蒙杰(Yan Mengjie)",
+      "陈一帆(Yifan Chen)"
+    ]
+  },
+  {
+    "externalid": "66",
+    "id": "66",
+    "team": "team0066",
+    "password": [
+      "YKRWLBIC",
+      "EFAJBWMQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "艾斯易悠",
+      "SEULowbee"
+    ],
+    "location": "E39",
+    "schoolName": [
+      "东南大学",
+      "Southeast University, China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.149",
+    "members": [
+      "韩数(Han Shu)",
+      "陈曦(Chen Xi)",
+      "张建东(Zhang Jiandong)"
+    ]
+  },
+  {
+    "externalid": "317",
+    "id": "317",
+    "team": "team0317",
+    "password": [
+      "SEUJVIFG",
+      "GWASPCOI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "浙江工商大学TJP学院",
+      "koi TJP"
+    ],
+    "location": "E40",
+    "schoolName": [
+      "浙江工商大学",
+      "Zhejiang Gongshang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.3.129",
+    "members": [
+      "Yuan Shui(Shui Yuan)",
+      "Chong Bao(Bao Chong)",
+      "yehao lu(lu yehao)"
+    ]
+  },
+  {
+    "externalid": "17",
+    "id": "17",
+    "team": "team0017",
+    "password": [
+      "XIJZGCLP",
+      "VGZUOERT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "猜歌群",
+      "GUESS SONGS"
+    ],
+    "location": "F01",
+    "schoolName": [
+      "北京交通大学",
+      "Beijing Jiaotong University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.143",
+    "members": [
+      "郑黎明(Zheng Liming)",
+      "何卫锋(He Weifeng)",
+      "王天舒(Wang Tianshu)"
+    ]
+  },
+  {
+    "externalid": "152",
+    "id": "152",
+    "team": "team0152",
+    "password": [
+      "EAIHSPUW",
+      "QUYDPACB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "捏你小肥脸",
+      "MNNU_ACM"
+    ],
+    "location": "F02",
+    "schoolName": [
+      "闽南师范大学",
+      "Minnan Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.107",
+    "members": [
+      "傅书浩(Fu Shuhao)",
+      "林欣(Lin Xin)",
+      "罗文涛(Luo Wentao)"
+    ]
+  },
+  {
+    "externalid": "310",
+    "id": "310",
+    "team": "team0310",
+    "password": [
+      "KVSZMCFX",
+      "ZGMVSCDL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Reconquista",
+      "Reconquista"
+    ],
+    "location": "F03",
+    "schoolName": [
+      "浙江大学",
+      "Zhejiang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.115",
+    "members": [
+      "颜姜哲(Yan Jiangzhe)",
+      "刘振威(Liu Zhenwei)",
+      "蒋仕彪 (Jiang Shibiao)"
+    ]
+  },
+  {
+    "externalid": "171",
+    "id": "171",
+    "team": "team0171",
+    "password": [
+      "WHLYVUXE",
+      "OAFZPQSL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "从零开始",
+      "NJUPT_Re:0"
+    ],
+    "location": "F04",
+    "schoolName": [
+      "南京邮电大学",
+      "Nanjing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.137",
+    "members": [
+      "li yaoyi(Li Yaoyi)",
+      "吴永琦(Wu Yongqi)",
+      "Dounan Sun(Sun Dounan)"
+    ]
+  },
+  {
+    "externalid": "32",
+    "id": "32",
+    "team": "team0032",
+    "password": [
+      "TDCSPFHA",
+      "ZRABHXYQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "辣个蓝人",
+      "NaN"
+    ],
+    "location": "F05",
+    "schoolName": [
+      "北京邮电大学",
+      "Beijing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.122",
+    "members": [
+      "金浩男(Jin Haonan)",
+      "路已人(Lu Yiren)",
+      "任羽辰(Ren Yuchen)"
+    ]
+  },
+  {
+    "externalid": "14",
+    "id": "14",
+    "team": "team0014",
+    "password": [
+      "INQPRMOU",
+      "WCMHTZVR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "比宇宙更远的地方",
+      "TooFarTooClose"
+    ],
+    "location": "F06",
+    "schoolName": [
+      "北京航空航天大学",
+      "Beihang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.134",
+    "members": [
+      "王嘉翼(Wang Jiayi)",
+      "杜昊(Du Hao)",
+      "赵立晨(Zhao Lichen)"
+    ]
+  },
+  {
+    "externalid": "248",
+    "id": "248",
+    "team": "team0248",
+    "password": [
+      "NDUWOEGT",
+      "TNSPBQUJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "时光飞逝",
+      "Time is fast"
+    ],
+    "location": "F07",
+    "schoolName": [
+      "西安电子科技大学",
+      "Xidian University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.144",
+    "members": [
+      "黄海同(Huang Haitong)",
+      "余天焕(Yu Tianhuan)",
+      "韦润民(runmin wei)"
+    ]
+  },
+  {
+    "externalid": "243",
+    "id": "243",
+    "team": "team0243",
+    "password": [
+      "UPWBJCEA",
+      "GUAZLOEQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "北风",
+      "Norw"
+    ],
+    "location": "F08",
+    "schoolName": [
+      "武汉理工大学",
+      "Wuhan University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.123",
+    "members": [
+      "刘晨寅(liu chenyin)",
+      "王熠弘(Wang Yihong)",
+      "李劲巍(jinwei li)"
+    ]
+  },
+  {
+    "externalid": "258",
+    "id": "258",
+    "team": "team0258",
+    "password": [
+      "SBDXLYTP",
+      "UXRVNPMC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我被打了，我是弟弟",
+      "I was beaten.I'm little brother"
+    ],
+    "location": "F09",
+    "schoolName": [
+      "西安科技大学",
+      "Xi'an University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.128",
+    "members": [
+      "陈航(Chen Hang)",
+      "余以春(Yu YiChun)",
+      "蔡宇飞(Cai YuFei)"
+    ]
+  },
+  {
+    "externalid": "41",
+    "id": "41",
+    "team": "team0041",
+    "password": [
+      "ULGMFQKS",
+      "PINXDKVQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "害羞幽灵",
+      "ShameGhost"
+    ],
+    "location": "F10",
+    "schoolName": [
+      "大连理工大学",
+      "Dalian University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.140",
+    "members": [
+      "薛昕磊(Xue Xinlei)",
+      "王镜潼(Wang Jingtong)",
+      "武根泽(Wu Genze)"
+    ]
+  },
+  {
+    "externalid": "165",
+    "id": "165",
+    "team": "team0165",
+    "password": [
+      "WJHUODXY",
+      "EDOSXGZM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "QAQ",
+      "QAQ"
+    ],
+    "location": "F11",
+    "schoolName": [
+      "南京航空航天大学",
+      "Nanjing University of Aeronautics and Astronautics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.138",
+    "members": [
+      "钟瑨霖(Jinlin Zhong)",
+      "沈凌翔(Shen Lingxiang)",
+      "Pu Liangxi(Liangxi Pu)"
+    ]
+  },
+  {
+    "externalid": "290",
+    "id": "290",
+    "team": "team0290",
+    "password": [
+      "TYBIAMSD",
+      "VHQJKWXS"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Rescue the Mushroom!",
+      "Rescue the Mushroom!"
+    ],
+    "location": "F12",
+    "schoolName": [
+      "香港科技大学",
+      "Hong Kong University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.121",
+    "members": [
+      "Junzhe XIA(XIA Junzhe)",
+      "PinHung LEE(LEE PinHung)",
+      "Cheng Tien-chun(Tien-chun Cheng)"
+    ]
+  },
+  {
+    "externalid": "260",
+    "id": "260",
+    "team": "team0260",
+    "password": [
+      "DYCEGRKP",
+      "RYWGOQET"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "红橙相伴",
+      "red orange company"
+    ],
+    "location": "F13",
+    "schoolName": [
+      "西安理工大学",
+      "Xi'an University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.120",
+    "members": [
+      "孔荣荣(Kong Rongrong)",
+      "王震(Wang zhen)",
+      "刘文洁(Liu Wenjie)"
+    ]
+  },
+  {
+    "externalid": "284",
+    "id": "284",
+    "team": "team0284",
+    "password": [
+      "IMPGSBOX",
+      "FHKMPTZU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Siry，准备好了吗",
+      "Siry R U Ready"
+    ],
+    "location": "F14",
+    "schoolName": [
+      "西南民族大学",
+      "SouthWest Minzu University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.133",
+    "members": [
+      "Siyu Ma(Ma Siyu)",
+      "Yue Gang(Yue Gang)",
+      "RealDAN(Du Anna)"
+    ]
+  },
+  {
+    "externalid": "49",
+    "id": "49",
+    "team": "team0049",
+    "password": [
+      "PNXCZSGD",
+      "USCIMJHX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "UESTC_Vici",
+      "UESTC_Vici"
+    ],
+    "location": "F15",
+    "schoolName": [
+      "电子科技大学",
+      "University of Electronic Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.124",
+    "members": [
+      "Chen Xin(Xin Chen)",
+      "chenrui liu(liu chenrui)",
+      "XingLin Pan(Pan XingLin)"
+    ]
+  },
+  {
+    "externalid": "127",
+    "id": "127",
+    "team": "team0127",
+    "password": [
+      "SQKBJZED",
+      "PKJXWYFB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "道生一，一生二，二生三，三生万物",
+      "One,Two,Three,AK"
+    ],
+    "location": "F16",
+    "schoolName": [
+      "华东师范大学",
+      "East China Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.110",
+    "members": [
+      "谢嘉东(Xie Jiadong)",
+      "陈梦云(Chen Mengyun)",
+      "竺旭亮(Zhu Xuliang)"
+    ]
+  },
+  {
+    "externalid": "345",
+    "id": "345",
+    "team": "team0345",
+    "password": [
+      "WJNXOQPH",
+      "DPZSWGTO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中科大八队",
+      "USTC_8"
+    ],
+    "location": "F17",
+    "schoolName": [
+      "中国科学技术大学",
+      "University of Science and Technology of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.139",
+    "members": [
+      "邓龙(Deng Long)",
+      "何纪言(He Jiyan)",
+      "赵宸(Chen Zhao)"
+    ]
+  },
+  {
+    "externalid": "79",
+    "id": "79",
+    "team": "team0079",
+    "password": [
+      "OEVAGPBR",
+      "TPLIOXZU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "最后的波纹",
+      "The Last Ripple"
+    ],
+    "location": "F18",
+    "schoolName": [
+      "复旦大学",
+      "Fudan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.117",
+    "members": [
+      "苏津岳(Su Jinyue)",
+      "温昕岳(Wen Xinyue)",
+      "周霖(Zhou Lin)"
+    ]
+  },
+  {
+    "externalid": "255",
+    "id": "255",
+    "team": "team0255",
+    "password": [
+      "KIEGVLHU",
+      "EALFNIRM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "西安滑稽坦克红太阳",
+      "XHT Red Sun"
+    ],
+    "location": "F19",
+    "schoolName": [
+      "西安交通大学",
+      "Xi'an Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.105",
+    "members": [
+      "刘瀚之(Liu Hanzhi)",
+      "Zhikun Wang(Wang Zhikun)",
+      "Yeyuan Chen(Chen Yeyuan)"
+    ]
+  },
+  {
+    "externalid": "275",
+    "id": "275",
+    "team": "team0275",
+    "password": [
+      "MEAPCKOT",
+      "VSARKCYL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "对不对对对对",
+      "duibuduiduiduidui"
+    ],
+    "location": "F20",
+    "schoolName": [
+      "西北农林科技大学",
+      "Northwest A&F University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.132",
+    "members": [
+      "Dongxu Xiang(Xiang Dongxu)",
+      "项文悦(xiang wenyue)",
+      "mengxue du(Du Mengxue)"
+    ]
+  },
+  {
+    "externalid": "286",
+    "id": "286",
+    "team": "team0286",
+    "password": [
+      "BKDQVSYI",
+      "IKJNLXRY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "性感程序员，在线过题",
+      "Sexy coder,online ac"
+    ],
+    "location": "F21",
+    "schoolName": [
+      "西南石油大学",
+      "Southwest Petroleum University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.179",
+    "members": [
+      "何涛(tao he)",
+      "燕泉霖(quanlin yan)",
+      "陈东(Dong Chen)"
+    ]
+  },
+  {
+    "externalid": "370",
+    "id": "370",
+    "team": "team0370",
+    "password": [
+      "EOZMNLCJ",
+      "PGEAWINX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中山大学_领航者",
+      "SYSU_navigator"
+    ],
+    "location": "F22",
+    "schoolName": [
+      "中山大学",
+      "Zhongshan (Sun Yat-sen) University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.101",
+    "members": [
+      "林一诺(Lin Yinuo)",
+      "邓明昱(Deng Mingyu)",
+      "李洋(li yang)"
+    ]
+  },
+  {
+    "externalid": "295",
+    "id": "295",
+    "team": "team0295",
+    "password": [
+      "DSYKEUPI",
+      "HXQVRCAK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "自由之翼",
+      "XTU_Wings of Liberty"
+    ],
+    "location": "F23",
+    "schoolName": [
+      "湘潭大学",
+      "Xiangtan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.126",
+    "members": [
+      "Zhou Bo(Zhou Bo)",
+      "Jun Chen(Chen Jun)",
+      "Shouxun Wang(Wang Shouxun)"
+    ]
+  },
+  {
+    "externalid": "300",
+    "id": "300",
+    "team": "team0300",
+    "password": [
+      "EIQPODCF",
+      "BQZTJHKU"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "嘤嘤嘤",
+      "ying ying ying"
+    ],
+    "location": "F24",
+    "schoolName": [
+      "长安大学",
+      "Chang'an University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.136",
+    "members": [
+      "韩耀东(Han Yaodong)",
+      "吴兴(Wu Xing)",
+      "张耕田(Zhang Gengtian)"
+    ]
+  },
+  {
+    "externalid": "307",
+    "id": "307",
+    "team": "team0307",
+    "password": [
+      "XJOUNZQB",
+      "CUAFBIQD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小鸡爱吃肯德基",
+      "The chicken loves KFC"
+    ],
+    "location": "F25",
+    "schoolName": [
+      "浙江财经大学",
+      "Zhejiang University of Finance and Economics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.104",
+    "members": [
+      "Jiaolv Wang(Wang Jiaolv)",
+      "Xiang Yu(Yu Xiang)",
+      "黄森林(Huang Senlin)"
+    ]
+  },
+  {
+    "externalid": "318",
+    "id": "318",
+    "team": "team0318",
+    "password": [
+      "SNZRKWDG",
+      "IZHUXWMO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "TJP工商大学",
+      "TJPGSU"
+    ],
+    "location": "F26",
+    "schoolName": [
+      "浙江工商大学",
+      "Zhejiang Gongshang University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.119",
+    "members": [
+      "Chengkai Lu(Lu Chengkai)",
+      "Jiapeng Tao(Tao Jiapeng)",
+      "wang chao(wang chao)"
+    ]
+  },
+  {
+    "externalid": "67",
+    "id": "67",
+    "team": "team0067",
+    "password": [
+      "EPSMOKTJ",
+      "JMGFENTL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "最小鸽",
+      "the lowest Gu"
+    ],
+    "location": "F27",
+    "schoolName": [
+      "东南大学",
+      "Southeast University, China"
+    ],
+    "mark": "post-post-graduate",
+    "ip": "192.168.4.111",
+    "members": [
+      "顾芯怡(Gu Xinyi)",
+      "余冠一(Yu Guanyi)",
+      "谈正(Tan Zheng)"
+    ]
+  },
+  {
+    "externalid": "322",
+    "id": "322",
+    "team": "team0322",
+    "password": [
+      "SNCEBJIR",
+      "BGTCMKHX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "欢迎报考浙江工业幼儿园",
+      "WelcomeToZJKT"
+    ],
+    "location": "F28",
+    "schoolName": [
+      "浙江工业大学",
+      "Zhejiang University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.130",
+    "members": [
+      "李昕虎(li xinhu)",
+      "李弘毅(Hongyi Li)",
+      "陶宇星(Tao Yuxing)"
+    ]
+  },
+  {
+    "externalid": "84",
+    "id": "84",
+    "team": "team0084",
+    "password": [
+      "MTNGJOBK",
+      "KJUMIAEC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "穷游中国",
+      "Travel_Poorly"
+    ],
+    "location": "F29",
+    "schoolName": [
+      "广东工业大学",
+      "Guangdong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.108",
+    "members": [
+      "杨富强(Yang Fuqiang)",
+      "林渲竺(Lin Xuanzhu)",
+      "唐铭锴(Tang Mingkai)"
+    ]
+  },
+  {
+    "externalid": "76",
+    "id": "76",
+    "team": "team0076",
+    "password": [
+      "ZACNHIFO",
+      "SAMCDKJX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我希望这是一个幸运数字",
+      "Team0338"
+    ],
+    "location": "F30",
+    "schoolName": [
+      "福州大学",
+      "Fuzhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.112",
+    "members": [
+      "Junlan Zheng(Zheng Junlan)",
+      "Sodaine(Liang Jielin)",
+      "Hongyi Cai(Cai Hongyi)"
+    ]
+  },
+  {
+    "externalid": "325",
+    "id": "325",
+    "team": "team0325",
+    "password": [
+      "AYTULCHG",
+      "VECQDRIA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "普通的队",
+      "ordinary team"
+    ],
+    "location": "F31",
+    "schoolName": [
+      "浙江理工大学",
+      "Zhejiang SCI-TECH University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.155",
+    "members": [
+      "王金辉(wang jinhui)",
+      "林苗镔(lin miaobin)",
+      "徐鑫彪(Xu Xinbiao)"
+    ]
+  },
+  {
+    "externalid": "335",
+    "id": "335",
+    "team": "team0335",
+    "password": [
+      "EOAZKIBF",
+      "JMNQKSUX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "铁牌的诱惑",
+      "Iron temptation"
+    ],
+    "location": "F32",
+    "schoolName": [
+      "中北大学",
+      "North University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.154",
+    "members": [
+      "Yang Xinyu(Yang Xinyu)",
+      "Wei Sun(Sun Wei)",
+      "Zixuan Li(Li Zixuan)"
+    ]
+  },
+  {
+    "externalid": "348",
+    "id": "348",
+    "team": "team0348",
+    "password": [
+      "USBPRHZJ",
+      "COQLUTIA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "嘤嘤嘤",
+      "yyy"
+    ],
+    "location": "F33",
+    "schoolName": [
+      "中国科学院大学",
+      "University of Chinese Academy of Sciences"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.4.168",
+    "members": [
+      "姚宇浩(Yao Yuhao)",
+      "Xiaoyu He(He Xiaoyu)",
+      "Runyu Lu(Lu Runyu)"
+    ]
+  },
+  {
+    "externalid": "24",
+    "id": "24",
+    "team": "team0024",
+    "password": [
+      "RCBOLYNZ",
+      "NBQZJTFW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "乖乖站好",
+      "You like that,hum?"
+    ],
+    "location": "F34",
+    "schoolName": [
+      "北京理工大学",
+      "Beijing Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.114",
+    "members": [
+      "Shen Yunhan(Yunhan Shen)",
+      "Hao Yin(Yin Hao)",
+      "徐子懋(Xu Zimao)"
+    ]
+  },
+  {
+    "externalid": "336",
+    "id": "336",
+    "team": "team0336",
+    "password": [
+      "GHVQDXIB",
+      "PIARWZQY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "模板搬运工",
+      "Template Porters"
+    ],
+    "location": "F35",
+    "schoolName": [
+      "中国传媒大学",
+      "Communication University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.145",
+    "members": [
+      "邓楚盟(Deng Chumeng)",
+      "夏业伟(Xia Yewei)",
+      "初国俊(Chu Guojun)"
+    ]
+  },
+  {
+    "externalid": "361",
+    "id": "361",
+    "team": "team0361",
+    "password": [
+      "EMSYCNAF",
+      "IEQBGUCJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "锟斤拷烫烫烫",
+      "Three stinkers"
+    ],
+    "location": "F36",
+    "schoolName": [
+      "中国人民解放军信息工程大学",
+      "Information Engineering University of the People's Liberation Army"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.129",
+    "members": [
+      "杨炅(Yang Jiong)",
+      "刘昊晖(Liu Haohui)",
+      "董煜(Dong Yu)"
+    ]
+  },
+  {
+    "externalid": "331",
+    "id": "331",
+    "team": "team0331",
+    "password": [
+      "PAIFMHCU",
+      "ZJPEAGHT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "诶？等等",
+      "ZCMU-EC1"
+    ],
+    "location": "F37",
+    "schoolName": [
+      "浙江中医药大学",
+      "Zhejiang Chinese Medical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.158",
+    "members": [
+      "陈志渠(chen zhiqu)",
+      "周期律(Zhou Qilv)",
+      "林初阜(Lin Chufu)"
+    ]
+  },
+  {
+    "externalid": "366",
+    "id": "366",
+    "team": "team0366",
+    "password": [
+      "IFOQSXRD",
+      "HFWSNGTA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "繁樱之冬",
+      "The winter of sakura"
+    ],
+    "location": "F38",
+    "schoolName": [
+      "中南大学",
+      "Central South University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.160",
+    "members": [
+      "刘峰玮(Liu Fengwei)",
+      "钱涛(Qian Tao)",
+      "周杰辉(Zhou Jiehui)"
+    ]
+  },
+  {
+    "externalid": "364",
+    "id": "364",
+    "team": "team0364",
+    "password": [
+      "WIZUFDCS",
+      "NALGIDQW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "拿衣服走人",
+      "Take the clothes go home"
+    ],
+    "location": "F39",
+    "schoolName": [
+      "中国石油大学胜利学院",
+      "Shengli College China University of Petroleum"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.159",
+    "members": [
+      "刘洋港(Liu Yanggang)",
+      "刘洋(Liu Yang)",
+      "杨亚如(Yang Yaru)"
+    ]
+  },
+  {
+    "externalid": "304",
+    "id": "304",
+    "team": "team0304",
+    "password": [
+      "BAXSHYOK",
+      "DRHWIQXE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "四斋蒸鹅心",
+      "Otaku ha kimoi"
+    ],
+    "location": "F40",
+    "schoolName": [
+      "长沙理工大学",
+      "Changsha University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.165",
+    "members": [
+      "Hao Zhang(Zhang Hao)",
+      "Jianbo Liu(Liu Jianbo)",
+      "Liu Leyao(Liu Leyao)"
+    ]
+  },
+  {
+    "externalid": "315",
+    "id": "315",
+    "team": "team0315",
+    "password": [
+      "KQLBAJPI",
+      "CSFVJYZW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "宁静致远",
+      "ningjingzhiyuan"
+    ],
+    "location": "F41",
+    "schoolName": [
+      "浙江大学宁波理工学院",
+      "Ningbo Institute of Technology, ZJU"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.152",
+    "members": [
+      "曹弘逸(Cao Hongyi)",
+      "林鑫淼(Lin Xinmiao)",
+      "Zhang Yifan(Yifan Zhang)"
+    ]
+  },
+  {
+    "externalid": "9",
+    "id": "9",
+    "team": "team0009",
+    "password": [
+      "AQUPRZYE",
+      "MPXRKWTL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "ORION_PIE",
+      "ORION_PIE"
+    ],
+    "location": "F42",
+    "schoolName": [
+      "北京大学",
+      "Peking University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.167",
+    "members": [
+      "刘俊豪(Liu Junhao)",
+      "杭心语(Hang Xinyu)",
+      "曾言(Zeng Yan)"
+    ]
+  },
+  {
+    "externalid": "330",
+    "id": "330",
+    "team": "team0330",
+    "password": [
+      "KAJTRVQL",
+      "KYUNCQSE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我们不是恶魔",
+      "we are not devil"
+    ],
+    "location": "F43",
+    "schoolName": [
+      "浙江师范大学",
+      "Zhejiang Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.153",
+    "members": [
+      "凌静(Ling Jing)",
+      "王超峰(Wang Chaofeng)",
+      "段忠杰(Duan Zhongjie)"
+    ]
+  },
+  {
+    "externalid": "312",
+    "id": "312",
+    "team": "team0312",
+    "password": [
+      "STXRCDQO",
+      "WSKXZQCL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "旅行八龟",
+      "Travel_Turtle"
+    ],
+    "location": "F44",
+    "schoolName": [
+      "浙江大学城市学院",
+      "Zhejiang University City College"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.157",
+    "members": [
+      "刘雨霏(Liu Yufei)",
+      "金忆琳(Jin Yilin)",
+      "骆一辉(Luo Yihui)"
+    ]
+  },
+  {
+    "externalid": "327",
+    "id": "327",
+    "team": "team0327",
+    "password": [
+      "JHPRXKVN",
+      "HGTZSVYM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "卖竹鼠三元一只十元三只",
+      "buy one get two"
+    ],
+    "location": "F45",
+    "schoolName": [
+      "浙江农林大学",
+      "Zhejiang A & F University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.164",
+    "members": [
+      "Bosheng Gu(Gu Bosheng)",
+      "Kai Yu(Yu Kai)",
+      "Hugh Locke(Huang Lei)"
+    ]
+  },
+  {
+    "externalid": "338",
+    "id": "338",
+    "team": "team0338",
+    "password": [
+      "YBVGDSCR",
+      "OVXGIZCR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "本地记者",
+      "Local Journalists"
+    ],
+    "location": "F46",
+    "schoolName": [
+      "中国地质大学（北京）",
+      "China University of Geosciences, Beijing"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.163",
+    "members": [
+      "徐翔(Xu Xiang)",
+      "郝进(Hao Jin)",
+      "陈世琛(Chen Shichen)"
+    ]
+  },
+  {
+    "externalid": "351",
+    "id": "351",
+    "team": "team0351",
+    "password": [
+      "EWFJVGZU",
+      "PLMRFCYH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "嘟嘟噜",
+      "Steins Gates"
+    ],
+    "location": "F47",
+    "schoolName": [
+      "中国矿业大学",
+      "China University of Mining and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.151",
+    "members": [
+      "Yu Jiang(Jiang Yu)",
+      "Junyu Chen(Chen Junyu)",
+      "Liwen Jiang(Jiang Liwen)"
+    ]
+  },
+  {
+    "externalid": "358",
+    "id": "358",
+    "team": "team0358",
+    "password": [
+      "OMBCDYXV",
+      "HKLFGXDY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "热传导",
+      "Thermal Conduction"
+    ],
+    "location": "F48",
+    "schoolName": [
+      "中国人民大学",
+      "Renmin University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.4.166",
+    "members": [
+      "Liu Jiongnan(Jiongnan Liu)",
+      "牛子牧(niu zimu)",
+      "Tianyi Tang(Tang Tianyi)"
+    ]
+  },
+  {
+    "externalid": "249",
+    "id": "249",
+    "team": "team0249",
+    "password": [
+      "JLFKQDWM",
+      "WUPZMHIV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "数一说的",
+      "whatever mathlover says is"
+    ],
+    "location": "G02",
+    "schoolName": [
+      "西安电子科技大学",
+      "Xidian University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.7.15",
+    "members": [
+      "席若尧(Xi Ruoyao)",
+      "刘森(Liu Sen)",
+      "李弘政(Li Hongzheng)"
+    ]
+  },
+  {
+    "externalid": "268",
+    "id": "268",
+    "team": "team0268",
+    "password": [
+      "FWKBERAL",
+      "AYBIORXK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "dqs看我飞",
+      "Dqs Ob FF Rush NE"
+    ],
+    "location": "G03",
+    "schoolName": [
+      "西北大学",
+      "Northwest University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.25",
+    "members": [
+      "董启生(Qisheng Dong)",
+      "范凡(Fan Fan)",
+      "刘宇豪(YuHao Liu)"
+    ]
+  },
+  {
+    "externalid": "261",
+    "id": "261",
+    "team": "team0261",
+    "password": [
+      "JSAHPNYW",
+      "NIRVYPOL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "梅尼耶",
+      "Good difficult"
+    ],
+    "location": "G04",
+    "schoolName": [
+      "西安欧亚学院",
+      "Xi'an Eurasia University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.97",
+    "members": [
+      "Dong hu(Dong hu)",
+      "王一宁(wang yining)",
+      "刘勇(Liu yong)"
+    ]
+  },
+  {
+    "externalid": "280",
+    "id": "280",
+    "team": "team0280",
+    "password": [
+      "RYLJVUAN",
+      "PJUWIHZX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "就当我们没来过",
+      "Pretend not to attend"
+    ],
+    "location": "G06",
+    "schoolName": [
+      "西南科技大学",
+      "Southwest University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.16",
+    "members": [
+      "张迁(Zhang Qian)",
+      "杨宋亮(Yang Songliang)",
+      "刘巍萍(liu weiping)"
+    ]
+  },
+  {
+    "externalid": "285",
+    "id": "285",
+    "team": "team0285",
+    "password": [
+      "VHQELPIM",
+      "HCGAEYOR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "线段树上线段果，线段树下你和我",
+      "what is my name?"
+    ],
+    "location": "G07",
+    "schoolName": [
+      "西南民族大学",
+      "SouthWest Minzu University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.1",
+    "members": [
+      "Jie Huang(Huang Jie)",
+      "Shichen Zhang(Zhang Shichen)",
+      "Tianwei Zhang(Zhang Tianwei)"
+    ]
+  },
+  {
+    "externalid": "277",
+    "id": "277",
+    "team": "team0277",
+    "password": [
+      "KGUNZQHP",
+      "EIMJONVC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "收割机",
+      "reaper"
+    ],
+    "location": "G08",
+    "schoolName": [
+      "西华师范大学",
+      "China West Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.32",
+    "members": [
+      "刘浩东(Haodong Liu)",
+      "赖敬柳(lai jingliu)",
+      "宋良华(Song LiangHua)"
+    ]
+  },
+  {
+    "externalid": "313",
+    "id": "313",
+    "team": "team0313",
+    "password": [
+      "FTHSZAVM",
+      "FBQHCKIE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "金色威兹班",
+      "Whizbang the Wonderful"
+    ],
+    "location": "G09",
+    "schoolName": [
+      "浙江大学城市学院",
+      "Zhejiang University City College"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.5",
+    "members": [
+      "陶汀(tao ting)",
+      "王文海(wang wenhai)",
+      "沈臻阳(Shen ZhenYang)"
+    ]
+  },
+  {
+    "externalid": "278",
+    "id": "278",
+    "team": "team0278",
+    "password": [
+      "SODTCKLY",
+      "MHLVUOGC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "暴力过题",
+      "for(int i=1;;i++)  Accepted++;"
+    ],
+    "location": "G10",
+    "schoolName": [
+      "西南交通大学峨眉校区",
+      "Southwest Jiaotong University - Emei"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.4",
+    "members": [
+      "王祺东(QiDong Wang)",
+      "刘鹏仪(Liu pengyi)",
+      "余宣庆(Yu Xuanqing)"
+    ]
+  },
+  {
+    "externalid": "287",
+    "id": "287",
+    "team": "team0287",
+    "password": [
+      "FIXNJUKL",
+      "HDTEUPBK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "难受队名被ban了",
+      "Where are my girlfriends"
+    ],
+    "location": "G11",
+    "schoolName": [
+      "西南石油大学",
+      "Southwest Petroleum University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.6",
+    "members": [
+      "江开宝(Jiang Kaibao)",
+      "陈兵(Chen Bing)",
+      "王俊鑫(Wang Junxin)"
+    ]
+  },
+  {
+    "externalid": "306",
+    "id": "306",
+    "team": "team0306",
+    "password": [
+      "GASZEBWV",
+      "SKUZMWHR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "天光",
+      "ray"
+    ],
+    "location": "G12",
+    "schoolName": [
+      "浙江财经大学",
+      "Zhejiang University of Finance and Economics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.81",
+    "members": [
+      "lvxiaohua(lv xiaohua)",
+      "Xu Xinru(Xu Xinru)",
+      "Ateee Ateee(Zhou Chongkai)"
+    ]
+  },
+  {
+    "externalid": "316",
+    "id": "316",
+    "team": "team0316",
+    "password": [
+      "BKTVXGFE",
+      "RQBTNXEK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "石筑之海",
+      "stone ocean"
+    ],
+    "location": "G13",
+    "schoolName": [
+      "浙江大学宁波理工学院",
+      "Ningbo Institute of Technology, ZJU"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.19",
+    "members": [
+      "张斌(zhang bin)",
+      "汪昊泽(Wang HaoZe)",
+      "潘肖磊(Pan Xiaolei)"
+    ]
+  },
+  {
+    "externalid": "319",
+    "id": "319",
+    "team": "team0319",
+    "password": [
+      "FOJSPMUY",
+      "BNOTYFGX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "浙江TJP大学",
+      "ZJTJPU"
+    ],
+    "location": "G14",
+    "schoolName": [
+      "浙江工商大学",
+      "Zhejiang Gongshang University"
+    ],
+    "mark": "girl",
+    "ip": "192.168.7.75",
+    "members": [
+      "Chaoran Huang(Huang chaoran)",
+      "Yuanyuan Wang(Wang Yuanyuan)",
+      "Sichen Xu(Xu Sichen)"
+    ]
+  },
+  {
+    "externalid": "323",
+    "id": "323",
+    "team": "team0323",
+    "password": [
+      "XGRZPTJM",
+      "ZUMIVXYA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "ZJUT4",
+      "zjut4"
+    ],
+    "location": "G15",
+    "schoolName": [
+      "浙江工业大学",
+      "Zhejiang University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.11",
+    "members": [
+      "杨鸿辉(Yang Honghui)",
+      "温圳(Wen Zhen)",
+      "张焓(Zhang Han)"
+    ]
+  },
+  {
+    "externalid": "328",
+    "id": "328",
+    "team": "team0328",
+    "password": [
+      "UGJSHQLV",
+      "OHMUJBIF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "铃羽世界第一软萌",
+      "Suzuha is cute!"
+    ],
+    "location": "G16",
+    "schoolName": [
+      "浙江农林大学",
+      "Zhejiang A & F University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.67",
+    "members": [
+      "Qingshan Liao(Liao Qingshan)",
+      "Yangkai Chen(Chen Yangkai)",
+      "Shangwei Ying(Ying Shangwei)"
+    ]
+  },
+  {
+    "externalid": "332",
+    "id": "332",
+    "team": "team0332",
+    "password": [
+      "BRWOICFE",
+      "JXSWTFIE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "伟神别黑我衣服",
+      "ZCMU-EC2"
+    ],
+    "location": "G17",
+    "schoolName": [
+      "浙江中医药大学",
+      "Zhejiang Chinese Medical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.72",
+    "members": [
+      "吴俊伟(junwei wu)",
+      "李佳辉(JiaHui Li)",
+      "韩敏杰(minjie Han)"
+    ]
+  },
+  {
+    "externalid": "340",
+    "id": "340",
+    "team": "team0340",
+    "password": [
+      "XWUZCERG",
+      "PTGFUMJA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "地大武汉ACM-No.2",
+      "CUG-2018Final02"
+    ],
+    "location": "G18",
+    "schoolName": [
+      "中国地质大学（武汉）",
+      "China University of Geosciences (Wuhan)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.64",
+    "members": [
+      "吕超(Lv Chao)",
+      "赵帅赫(Zhao Shuaihe)",
+      "蒋博韬(Jiang Botao)"
+    ]
+  },
+  {
+    "externalid": "343",
+    "id": "343",
+    "team": "team0343",
+    "password": [
+      "YKZSWDJL",
+      "EVMQYAXR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "鲸落",
+      "Whale Fall"
+    ],
+    "location": "G19",
+    "schoolName": [
+      "中国海洋大学",
+      "Ocean University of China"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.31",
+    "members": [
+      "Dun Zeng(Zeng Dun)",
+      "hanlin tang(tang hanlin)",
+      "YeYifan(Ye Yifan)"
+    ]
+  },
+  {
+    "externalid": "363",
+    "id": "363",
+    "team": "team0363",
+    "password": [
+      "SPHCMLFX",
+      "BTELNXQI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "终极之战",
+      "The ultimate battle"
+    ],
+    "location": "G20",
+    "schoolName": [
+      "中国石油大学（华东）",
+      "China University of Petroleum"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.30",
+    "members": [
+      "Qi Liu(Liu Qi)",
+      "Qingyuan Shui(Shui Qingyuan)",
+      "Zinan Xu(Xu Zinan)"
+    ]
+  },
+  {
+    "externalid": "352",
+    "id": "352",
+    "team": "team0352",
+    "password": [
+      "LKAWFDHO",
+      "CGDUYQKE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "WA WA FISH",
+      "WA WA FISH"
+    ],
+    "location": "G21",
+    "schoolName": [
+      "中国矿业大学",
+      "China University of Mining and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.20",
+    "members": [
+      "Lingde Meng(Meng Lingde)",
+      "Kang XuYing(Kang Xuying)",
+      "Feng bin(Feng Bin)"
+    ]
+  },
+  {
+    "externalid": "381",
+    "id": "381",
+    "team": "team0381",
+    "password": [
+      "MCNQXHIV",
+      "SCYKDWUP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "儿子这次我们能ac",
+      "wanafly1"
+    ],
+    "location": "G22",
+    "schoolName": [
+      "wanafly",
+      "wanafly"
+    ],
+    "mark": "star",
+    "ip": "192.168.7.21",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "367",
+    "id": "367",
+    "team": "team0367",
+    "password": [
+      "LKDAXRPZ",
+      "YNEMHRGX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "奉均衡之命",
+      "As balance dictates"
+    ],
+    "location": "G23",
+    "schoolName": [
+      "中南民族大学",
+      "South-Central University for Nationalities"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.51",
+    "members": [
+      "马乾隆(ma qianlong)",
+      "张佳(Zhang Jia)",
+      "Guanlin Yu(Yu Guanlin)"
+    ]
+  },
+  {
+    "externalid": "371",
+    "id": "371",
+    "team": "team0371",
+    "password": [
+      "GJERPBCI",
+      "GVQCTOUM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "The First Team of ZUT",
+      "The First Team of ZUT"
+    ],
+    "location": "G24",
+    "schoolName": [
+      "中原工学院",
+      "Zhongyuan University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.3",
+    "members": [
+      "王仕伟(Shiwei Wang)",
+      "jing chen(chen jing)",
+      "Zhenqi Zhang(Zhang Zhenqi)"
+    ]
+  },
+  {
+    "externalid": "372",
+    "id": "372",
+    "team": "team0372",
+    "password": [
+      "QUELTKPY",
+      "QERWKSDX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这题不是随便搞吗",
+      "easy problem"
+    ],
+    "location": "G25",
+    "schoolName": [
+      "重庆大学",
+      "Chongqing University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.85",
+    "members": [
+      "张博虓(ZHANG BOXIAO)",
+      "Xiaoyu Wang(Wang Xiaoyu)",
+      "徐茂凯(Xu Maokai)"
+    ]
+  },
+  {
+    "externalid": "375",
+    "id": "375",
+    "team": "team0375",
+    "password": [
+      "NGBMPTQY",
+      "UQPKHOVI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "快乐莽夫",
+      "happy mang"
+    ],
+    "location": "G26",
+    "schoolName": [
+      "重庆邮电大学",
+      "Chongqing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.61",
+    "members": [
+      "yifan gong(gong yifan)",
+      "廖宏昊(Liao HongHao)",
+      "陈松林(chen song lin)"
+    ]
+  },
+  {
+    "externalid": "380",
+    "id": "380",
+    "team": "team0380",
+    "password": [
+      "GFDKPJUB",
+      "JQLGFYUD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "图森破队",
+      "tusimple"
+    ],
+    "location": "G27",
+    "schoolName": [
+      "北京图森智途科技有限公司",
+      "TuSimple"
+    ],
+    "mark": "star",
+    "ip": "192.168.7.82",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "92",
+    "id": "92",
+    "team": "team0092",
+    "password": [
+      "DFIHRGUZ",
+      "UKXMYIQZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "FTW",
+      "For the win"
+    ],
+    "location": "G28",
+    "schoolName": [
+      "贵州师范学院",
+      "Guizhou Education University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.80",
+    "members": [
+      "何丰(He Feng)",
+      "王优悠(Youyou Wang)",
+      "胡切元(Hu Qieyuan)"
+    ]
+  },
+  {
+    "externalid": "269",
+    "id": "269",
+    "team": "team0269",
+    "password": [
+      "NZXYMTEJ",
+      "JYOXWMLT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "隐",
+      "ruorancarry"
+    ],
+    "location": "G29",
+    "schoolName": [
+      "西北大学",
+      "Northwest University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.14",
+    "members": [
+      "Hao Liu(Liu Hao)",
+      "李瑞星(Li Ruixing)",
+      "王天阳(Wang Tianyang)"
+    ]
+  },
+  {
+    "externalid": "208",
+    "id": "208",
+    "team": "team0208",
+    "password": [
+      "ICQZBRGF",
+      "GQVDAXZM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我想AC队",
+      "I just want AC"
+    ],
+    "location": "G30",
+    "schoolName": [
+      "陕西师范大学",
+      "Shaanxi Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.88",
+    "members": [
+      "许清林(xu qinglin)",
+      "Wenxin Wang(Wang Wenxin)",
+      "Guozheng Zhang(Zhang Guozheng)"
+    ]
+  },
+  {
+    "externalid": "265",
+    "id": "265",
+    "team": "team0265",
+    "password": [
+      "PHOIUGSF",
+      "QVHTGCSI"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "换手机屏一块两块两块一块",
+      "q:how much is the screen"
+    ],
+    "location": "G31",
+    "schoolName": [
+      "西安邮电大学",
+      "Xi'an University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.92",
+    "members": [
+      "唐阳(tang yang)",
+      "wang baotong(wang baotong)",
+      "金驰(Jin Chi)"
+    ]
+  },
+  {
+    "externalid": "203",
+    "id": "203",
+    "team": "team0203",
+    "password": [
+      "PSAGHCMT",
+      "PTCHODQF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "心如花木向阳而生",
+      "Face to the sun"
+    ],
+    "location": "G32",
+    "schoolName": [
+      "山东理工大学",
+      "Shandong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.84",
+    "members": [
+      "张明(Zhang ming)",
+      "YUNING QI(QI YUNING)",
+      "亓世恒(Qi Shiheng)"
+    ]
+  },
+  {
+    "externalid": "87",
+    "id": "87",
+    "team": "team0087",
+    "password": [
+      "LWNRJMKO",
+      "VRUTDHWY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "拿铁咖啡",
+      "lattle"
+    ],
+    "location": "G33",
+    "schoolName": [
+      "贵州大学",
+      "Guizhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.59",
+    "members": [
+      "李想(Li Xiang)",
+      "张翔玮(xiangwei zhang)",
+      "张欢鑫(Zhang HuanXin)"
+    ]
+  },
+  {
+    "externalid": "234",
+    "id": "234",
+    "team": "team0234",
+    "password": [
+      "GCDMAFUB",
+      "TULFIXOM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "thnu",
+      "thnu restart"
+    ],
+    "location": "G34",
+    "schoolName": [
+      "通化师范学院",
+      "Tong Hua Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.24",
+    "members": [
+      "Biao Jiang(Jiang Biao)",
+      "jinyu zhang(zhang jinyu)",
+      "ziqiang lin(lin ziqiang)"
+    ]
+  },
+  {
+    "externalid": "262",
+    "id": "262",
+    "team": "team0262",
+    "password": [
+      "EBNGMSCJ",
+      "OEBHIMUX"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "show me your WECHAT girl",
+      "reboot"
+    ],
+    "location": "G35",
+    "schoolName": [
+      "西安欧亚学院",
+      "Xi'an Eurasia University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.52",
+    "members": [
+      "Chen lei(Chen lei)",
+      "Zekun Mei(Mei Zekun)",
+      "Guan Kou(Kou Guan)"
+    ]
+  },
+  {
+    "externalid": "18",
+    "id": "18",
+    "team": "team0018",
+    "password": [
+      "DONEUFKJ",
+      "PDTCUGMB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "六百六十六",
+      "six six six"
+    ],
+    "location": "G36",
+    "schoolName": [
+      "北京交通大学",
+      "Beijing Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.70",
+    "members": [
+      "赵思达(Zhao Sida)",
+      "孙庆岩(SUN Qingyan)",
+      "王典(WANG Dian)"
+    ]
+  },
+  {
+    "externalid": "212",
+    "id": "212",
+    "team": "team0212",
+    "password": [
+      "MPHIZNJK",
+      "SYBGDIVM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "心动网络-潜心队",
+      "X.D.Network-Concentration"
+    ],
+    "location": "G37",
+    "schoolName": [
+      "上海大学",
+      "Shanghai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.39",
+    "members": [
+      "任悦(Ren Yue)",
+      "许立雄(lixiong xu)",
+      "俞硕文(Shuowen Yu)"
+    ]
+  },
+  {
+    "externalid": "25",
+    "id": "25",
+    "team": "team0025",
+    "password": [
+      "KPZXQSWH",
+      "QADTVFZB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "皮卡丘的皮在痒",
+      "Pikachu is tricking"
+    ],
+    "location": "G38",
+    "schoolName": [
+      "北京林业大学",
+      "Beijing Forestry University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.13",
+    "members": [
+      "许哲楠(Xu Zhenan)",
+      "徐川晴(Xu Chuanqing)",
+      "方雨晨(Fang Yuchen)"
+    ]
+  },
+  {
+    "externalid": "19",
+    "id": "19",
+    "team": "team0019",
+    "password": [
+      "OARWFBVM",
+      "AECUWVPL"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "思无邪",
+      "Polaris"
+    ],
+    "location": "G39",
+    "schoolName": [
+      "北京科技大学",
+      "University of Science and Technology Beijing"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.41",
+    "members": [
+      "Yuhui Sun(Sun Yuhui)",
+      "Hao Kun Zhang(Zhang Haokun)",
+      "Guoming Wu(Wu Guoming)"
+    ]
+  },
+  {
+    "externalid": "28",
+    "id": "28",
+    "team": "team0028",
+    "password": [
+      "SQXOKGUH",
+      "IUHNTXLQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "凉皮泡馍biangbiang面",
+      "Famous food of XiAn"
+    ],
+    "location": "G40",
+    "schoolName": [
+      "北京信息科技大学",
+      "Beijing Information Science and Technology University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.44",
+    "members": [
+      "Darring Zhang(Zhang Darring)",
+      "song kaiyuan(kaiyuan song)",
+      "Andy wu(Wu Andy)"
+    ]
+  },
+  {
+    "externalid": "54",
+    "id": "54",
+    "team": "team0054",
+    "password": [
+      "GNAVZSFI",
+      "DTQHBFKG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "测试账号",
+      "NEU_Test"
+    ],
+    "location": "G41",
+    "schoolName": [
+      "东北大学",
+      "Northeastern University (China)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.74",
+    "members": [
+      "陈久健(Chen Jiujian)",
+      "武嘉鑫(Wu Jiaxin)",
+      "李柏雨(Li Baiyu)"
+    ]
+  },
+  {
+    "externalid": "282",
+    "id": "282",
+    "team": "team0282",
+    "password": [
+      "CFDVIXMK",
+      "TQMCAZNE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "三只小猪哼哼哈嘿",
+      "floccinaucinihilipilification"
+    ],
+    "location": "G42",
+    "schoolName": [
+      "西南民族大学",
+      "SouthWest Minzu University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.35",
+    "members": [
+      "Tan rui(Tan Rui)",
+      "Yuting Yang(Yang Yuting)",
+      "Xianfeng Jiang(Jiang Xianfeng)"
+    ]
+  },
+  {
+    "externalid": "124",
+    "id": "124",
+    "team": "team0124",
+    "password": [
+      "XAWCFPZQ",
+      "JRDUQNXE"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "黑水舰队",
+      "blackwater team"
+    ],
+    "location": "G43",
+    "schoolName": [
+      "华东理工大学",
+      "East China University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.73",
+    "members": [
+      "Liyang Zhao(Zhao Liyang)",
+      "Xiao Li(Li Xiao)",
+      "Chiliang Yao(Yao Chiliang)"
+    ]
+  },
+  {
+    "externalid": "122",
+    "id": "122",
+    "team": "team0122",
+    "password": [
+      "YSJPZKXV",
+      "ILKNXYZG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "难受啊，小老弟",
+      "konnyaku has a little dream"
+    ],
+    "location": "G44",
+    "schoolName": [
+      "华北电力大学",
+      "North China Electric Power University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.47",
+    "members": [
+      "FuYou Deng(Deng FuYou)",
+      "Huang Yifeng(Yifeng Huang)",
+      "刘胜(Liu Sheng)"
+    ]
+  },
+  {
+    "externalid": "270",
+    "id": "270",
+    "team": "team0270",
+    "password": [
+      "OZNUYVKP",
+      "WIUGTOVR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "若风一指",
+      "NPU_Lion's_F_of_RuoFeng"
+    ],
+    "location": "G45",
+    "schoolName": [
+      "西北工业大学",
+      "Northwestern Polytechnical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.43",
+    "members": [
+      "YongChao Feng(Feng YongChao)",
+      "Xiaoyu Sui(Sui Xiaoyu)",
+      "Wenlin Zhang(Zhang Wenlin)"
+    ]
+  },
+  {
+    "externalid": "89",
+    "id": "89",
+    "team": "team0089",
+    "password": [
+      "HPBEMSQN",
+      "UAILYHED"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "树上的鸟儿成三",
+      "There are three birds in the tree"
+    ],
+    "location": "G46",
+    "schoolName": [
+      "贵州工程应用技术学院",
+      "Guizhou University of Engineering Science"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.95",
+    "members": [
+      "夏芳(Xia Fang)",
+      "陈凯(Chen Kai)",
+      "王似超(Wang Sichao)"
+    ]
+  },
+  {
+    "externalid": "38",
+    "id": "38",
+    "team": "team0038",
+    "password": [
+      "WRMDZPXJ",
+      "CKYDWMUB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "数独",
+      "+-*/%^"
+    ],
+    "location": "G47",
+    "schoolName": [
+      "成都理工大学",
+      "Chengdu University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.48",
+    "members": [
+      "李常亮(Changliang Li)",
+      "贾佳儒(Jia Jiaru)",
+      "郭志成(Guo Zhicheng)"
+    ]
+  },
+  {
+    "externalid": "121",
+    "id": "121",
+    "team": "team0121",
+    "password": [
+      "BKGCNMYZ",
+      "ABETDLRV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "HNUCM-Girls",
+      "HNUCM-Girls"
+    ],
+    "location": "G48",
+    "schoolName": [
+      "湖南中医药大学",
+      "Hunan University of Chinese Medicine"
+    ],
+    "mark": "girl",
+    "ip": "192.168.7.94",
+    "members": [
+      "黎杨(Li Yang)",
+      "曾荣丽(Zeng Rongli)",
+      "鲁荣明(Lu Rongming)"
+    ]
+  },
+  {
+    "externalid": "52",
+    "id": "52",
+    "team": "team0052",
+    "password": [
+      "ULVPYQIH",
+      "PIQREASG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "多喝热水",
+      "NEU_oyuononndekudasai"
+    ],
+    "location": "G49",
+    "schoolName": [
+      "东北大学",
+      "Northeastern University (China)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.23",
+    "members": [
+      "湛进(Zhan Jin)",
+      "王云杰(Wang Yunjie)",
+      "林鹤翔(Lin Hexiang)"
+    ]
+  },
+  {
+    "externalid": "57",
+    "id": "57",
+    "team": "team0057",
+    "password": [
+      "KNUOIMPX",
+      "VXMHPYKD"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "万一过了呢？",
+      "return wa;"
+    ],
+    "location": "G50",
+    "schoolName": [
+      "东北大学秦皇岛分校",
+      "Northeastern University at Qinhuangdao"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.79",
+    "members": [
+      "王小清(wang xiaoqing)",
+      "潘骏(Pan Jun)",
+      "何忠(He Zhong)"
+    ]
+  },
+  {
+    "externalid": "60",
+    "id": "60",
+    "team": "team0060",
+    "password": [
+      "XWOBJPKY",
+      "GAYECWDM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "有何贵干",
+      "youheguigan"
+    ],
+    "location": "G51",
+    "schoolName": [
+      "东北林业大学",
+      "Northeast Forestry University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.78",
+    "members": [
+      "ShengJie Yang(Yang ShengJie)",
+      "Yanlu Ge(Ge Yanlu)",
+      "rui Zhu(Zhu rui)"
+    ]
+  },
+  {
+    "externalid": "39",
+    "id": "39",
+    "team": "team0039",
+    "password": [
+      "PHKJTOYS",
+      "OZJFMDCY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "脸滚键盘",
+      "face on keyboard pong pong pong"
+    ],
+    "location": "G52",
+    "schoolName": [
+      "大连海事大学",
+      "Dalian Maritime University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.40",
+    "members": [
+      "Benyu Dong(Dong Benyu)",
+      "Yuhao Zhang(Zhang Yuhao)",
+      "Xue Chongxiang(Xue Chongxiang)"
+    ]
+  },
+  {
+    "externalid": "69",
+    "id": "69",
+    "team": "team0069",
+    "password": [
+      "SKVHBMZO",
+      "SGENDYTP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "小弟弟,你怎么回事",
+      "what's wrong with you,little brother"
+    ],
+    "location": "G53",
+    "schoolName": [
+      "福建工程学院",
+      "Fujian University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.10",
+    "members": [
+      "陈俊鸿(Chen Junhong)",
+      "兰家旺(Lan Jiawang)",
+      "许伟骐(Xu Weiqi)"
+    ]
+  },
+  {
+    "externalid": "62",
+    "id": "62",
+    "team": "team0062",
+    "password": [
+      "XYWJGMTO",
+      "AIEDWTFO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "新三线程",
+      "new Tri-Thread"
+    ],
+    "location": "G54",
+    "schoolName": [
+      "东北师范大学",
+      "Northeast Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.7",
+    "members": [
+      "樊友朋(Youpeng Fan)",
+      "许征航(Xu Zhenghang)",
+      "赵梦宇(Zhao Mengyu)"
+    ]
+  },
+  {
+    "externalid": "63",
+    "id": "63",
+    "team": "team0063",
+    "password": [
+      "LPFQYGEW",
+      "XFETSIKN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "东华之光",
+      "The light of Donghua"
+    ],
+    "location": "G55",
+    "schoolName": [
+      "东华理工大学",
+      "East China University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.89",
+    "members": [
+      "陶婷婷(Tao Tingting)",
+      "彭梓毓(Peng Ziyu)",
+      "樊雪婷(fan xueting fan)"
+    ]
+  },
+  {
+    "externalid": "166",
+    "id": "166",
+    "team": "team0166",
+    "password": [
+      "SVCDEKFA",
+      "NYLMVSWZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "还差得远呢",
+      "you still have lots to work on"
+    ],
+    "location": "G56",
+    "schoolName": [
+      "南京航空航天大学",
+      "Nanjing University of Aeronautics and Astronautics"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.38",
+    "members": [
+      "吕超杰(Lv Chaojie)",
+      "王浩泽(Haoze Wang)",
+      "尼博琳(Bolin Ni)"
+    ]
+  },
+  {
+    "externalid": "266",
+    "id": "266",
+    "team": "team0266",
+    "password": [
+      "HPJCEDYL",
+      "FWSOTRBG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "脱非入欧",
+      "try a try"
+    ],
+    "location": "G57",
+    "schoolName": [
+      "西安邮电大学",
+      "Xi'an University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.27",
+    "members": [
+      "牛淑敏(Niu Shumin)",
+      "孟圣哲(Meng Shengzhe)",
+      "刘嘉诚(Liu Jiacheng)"
+    ]
+  },
+  {
+    "externalid": "341",
+    "id": "341",
+    "team": "team0341",
+    "password": [
+      "ZLRSPQNH",
+      "WNJXVHSR"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "地大武汉ACM-No.3",
+      "CUG-2018Final03"
+    ],
+    "location": "G58",
+    "schoolName": [
+      "中国地质大学（武汉）",
+      "China University of Geosciences (Wuhan)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.46",
+    "members": [
+      "方恒(Fang Heng)",
+      "胡馨丹(Hu Xindan)",
+      "苗宜霖(Miao Yilin)"
+    ]
+  },
+  {
+    "externalid": "204",
+    "id": "204",
+    "team": "team0204",
+    "password": [
+      "AZGMWJQD",
+      "VTORGIQZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我卢某人真的没有开挂",
+      "Trails in the sky"
+    ],
+    "location": "G59",
+    "schoolName": [
+      "山东理工大学",
+      "Shandong University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.56",
+    "members": [
+      "Zhenqiang Sun(Sun Zhenqiang)",
+      "Li Dongqing(Li Dongqing)",
+      "Xuwei Li(Li Xuwei)"
+    ]
+  },
+  {
+    "externalid": "42",
+    "id": "42",
+    "team": "team0042",
+    "password": [
+      "UQOEZFWT",
+      "FLUSQZJK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "顶瓜瓜",
+      "Dingguagua"
+    ],
+    "location": "G60",
+    "schoolName": [
+      "大连理工大学",
+      "Dalian University of Technology"
+    ],
+    "mark": "star",
+    "ip": "192.168.7.57",
+    "members": [
+      "Xinyu Fu(Fu Xinyu)",
+      "Junxian Lin(Lin Junxian)",
+      "YIZHOU REN(REN YIZHOU)"
+    ]
+  },
+  {
+    "externalid": "200",
+    "id": "200",
+    "team": "team0200",
+    "password": [
+      "AOGHKTVN",
+      "GMSORQDV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "胜利号",
+      "SKD9754 Victory"
+    ],
+    "location": "G61",
+    "schoolName": [
+      "山东科技大学",
+      "Shandong University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.60",
+    "members": [
+      "隋金禧(Sui Jinxi)",
+      "渠家辉(Qu Jiahui)",
+      "范家铭(Fan Jiaming)"
+    ]
+  },
+  {
+    "externalid": "185",
+    "id": "185",
+    "team": "team0185",
+    "password": [
+      "HTVQYCZK",
+      "ELAVXODG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "WA我不相信",
+      "Qhu3Guns"
+    ],
+    "location": "G62",
+    "schoolName": [
+      "青海大学",
+      "Qinghai University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.7.149",
+    "members": [
+      "李文浩(Li Wenhao)",
+      "李家辉(Li Jiahui)",
+      "边浩东(Bian Haodong)"
+    ]
+  },
+  {
+    "externalid": "197",
+    "id": "197",
+    "team": "team0197",
+    "password": [
+      "OFSPZAHB",
+      "UFSATEGK"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "这场我躺定了",
+      "JZHnb!"
+    ],
+    "location": "G63",
+    "schoolName": [
+      "山东大学（威海）",
+      "Shandong University at Weihai"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.17",
+    "members": [
+      "姜兆慧(Jiang Zhaohui)",
+      "洪椿祥(Hong Chunxiang)",
+      "杨凡(Yang Fan)"
+    ]
+  },
+  {
+    "externalid": "36",
+    "id": "36",
+    "team": "team0036",
+    "password": [
+      "JXVROPHQ",
+      "NILHEPUJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "试一试，AC is ok",
+      "try a try , ac is ok"
+    ],
+    "location": "G64",
+    "schoolName": [
+      "成都东软学院",
+      "Chengdu Neusoft University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.86",
+    "members": [
+      "yunfei xing(xing yunfei)",
+      "Kun Yuan(Yuan Kun)",
+      "sheng zhou(zhou sheng)"
+    ]
+  },
+  {
+    "externalid": "147",
+    "id": "147",
+    "team": "team0147",
+    "password": [
+      "CGWKHPLT",
+      "ARQPCYUB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "咕咕咕",
+      "GuGuGu"
+    ],
+    "location": "G65",
+    "schoolName": [
+      "兰州大学",
+      "LanZhou University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.36",
+    "members": [
+      "鲍政衡(Bao Zhengheng)",
+      "陈宇亮(Chen Yuliang)",
+      "陈冠斌(Chen Guanbin)"
+    ]
+  },
+  {
+    "externalid": "155",
+    "id": "155",
+    "team": "team0155",
+    "password": [
+      "RVINMHZQ",
+      "QTPAOWZV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "南方科技大学_剑桥",
+      "SUSTech_Cambridge"
+    ],
+    "location": "G66",
+    "schoolName": [
+      "南方科技大学",
+      "Southern University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.29",
+    "members": [
+      "吴远航(Wu Yuanhang)",
+      "赵诣(Zhao Yi)",
+      "沈忱(Shen Chen)"
+    ]
+  },
+  {
+    "externalid": "50",
+    "id": "50",
+    "team": "team0050",
+    "password": [
+      "QJBMKOFZ",
+      "EAMJKNFO"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "时间限制加一秒",
+      "CDZSC_add oil"
+    ],
+    "location": "G67",
+    "schoolName": [
+      "电子科技大学中山学院",
+      "University of Electronic Science and Technology of China Zhongshan Institute"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.9",
+    "members": [
+      "Yuchen Tang(Tang Yuchen)",
+      "Yuming Fan(Fan Yuming)",
+      "Yi Li(Li Yi)"
+    ]
+  },
+  {
+    "externalid": "195",
+    "id": "195",
+    "team": "team0195",
+    "password": [
+      "UKVBZHPR",
+      "KMBEGOYZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "送风口严禁遮挡",
+      "shenmedongxi"
+    ],
+    "location": "G68",
+    "schoolName": [
+      "山东大学",
+      "Shandong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.50",
+    "members": [
+      "李熠炜(Li Yiwei)",
+      "刘世豪(Liu Shihao)",
+      "李双乐(Li Shuangle)"
+    ]
+  },
+  {
+    "externalid": "148",
+    "id": "148",
+    "team": "team0148",
+    "password": [
+      "OZCIKRMH",
+      "UFLSXHOG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "大漠苍狼1号战队",
+      "GrayWolf01"
+    ],
+    "location": "G69",
+    "schoolName": [
+      "兰州交通大学",
+      "Lanzhou Jiaotong University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.37",
+    "members": [
+      "李哲(Li Zhe)",
+      "蔺思凯(Lin Sikai)",
+      "张旭(Zhang Xu)"
+    ]
+  },
+  {
+    "externalid": "175",
+    "id": "175",
+    "team": "team0175",
+    "password": [
+      "KEHCGXJW",
+      "VRPFCNQH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Tigger and Piggy",
+      "Tigger and Piggy"
+    ],
+    "location": "G70",
+    "schoolName": [
+      "南阳理工学院",
+      "Nanyang Institute of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.18",
+    "members": [
+      "Pan Kun(Pan Kun)",
+      "Ming Zeng(Zeng Ming)",
+      "Songchao Zhang(Zhang Songchao)"
+    ]
+  },
+  {
+    "externalid": "190",
+    "id": "190",
+    "team": "team0190",
+    "password": [
+      "BATNWPQV",
+      "LNIGFBDP"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "三位一体",
+      "Trinity"
+    ],
+    "location": "G71",
+    "schoolName": [
+      "厦门大学",
+      "Xiamen University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.55",
+    "members": [
+      "Bingsen Wang(Wang Bingsen)",
+      "Yuanhang Li(Li Yuanhang)",
+      "Peiyi Hong(Hong Peiyi)"
+    ]
+  },
+  {
+    "externalid": "272",
+    "id": "272",
+    "team": "team0272",
+    "password": [
+      "QZHKPAJN",
+      "CRPWUXGA"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "松树上是松鼠",
+      "NPU_ssssss"
+    ],
+    "location": "G72",
+    "schoolName": [
+      "西北工业大学",
+      "Northwestern Polytechnical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.90",
+    "members": [
+      "Sizhe Li(Li Sizhe)",
+      "Jinpeng Song(Song Jinpeng)",
+      "Yansong Wang(Wang Yansong)"
+    ]
+  },
+  {
+    "externalid": "376",
+    "id": "376",
+    "team": "team0376",
+    "password": [
+      "ZDWMTAUE",
+      "VYQCBAKF"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "记忆被篡改了",
+      "Memories Off"
+    ],
+    "location": "G73",
+    "schoolName": [
+      "重庆邮电大学",
+      "Chongqing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.8",
+    "members": [
+      "Shuqing Guan(Guan Shuqing)",
+      "Qian Liu(Liu Qian)",
+      "Xingyu Zhou(Zhou Xingyu)"
+    ]
+  },
+  {
+    "externalid": "172",
+    "id": "172",
+    "team": "team0172",
+    "password": [
+      "FKYUWEAN",
+      "FEIHWOKC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "破碎榴莲",
+      "NJUPT-We_are_not_freshmen_any_more"
+    ],
+    "location": "G74",
+    "schoolName": [
+      "南京邮电大学",
+      "Nanjing University of Posts and Telecommunications"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.58",
+    "members": [
+      "陈锐(Chen Rui)",
+      "赵玉炜(Zhao Yuwei)",
+      "张佑杰(Zhang Youjie)"
+    ]
+  },
+  {
+    "externalid": "93",
+    "id": "93",
+    "team": "team0093",
+    "password": [
+      "DJGYOSPC",
+      "ZNRBODSW"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "HSW",
+      "HSW"
+    ],
+    "location": "G75",
+    "schoolName": [
+      "贵州师范学院",
+      "Guizhou Education University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.26",
+    "members": [
+      "黄江涛(Jiangtao Huang)",
+      "吴克江(Kejiang Wu)",
+      "石承坤(chengkun Shi)"
+    ]
+  },
+  {
+    "externalid": "181",
+    "id": "181",
+    "team": "team0181",
+    "password": [
+      "INZDVMHY",
+      "NDUFLSGT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "加油2019",
+      "qiannan"
+    ],
+    "location": "G76",
+    "schoolName": [
+      "黔南民族师范学院",
+      "Qiannan Normal University for Nationalities"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.49",
+    "members": [
+      "冯耀(Yao Feng)",
+      "张力(Li Zhang)",
+      "张道全(DaoQuan Zhang)"
+    ]
+  },
+  {
+    "externalid": "135",
+    "id": "135",
+    "team": "team0135",
+    "password": [
+      "SUQXTJWA",
+      "ETPJQSWM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "黑色切题者",
+      "The Black Aker"
+    ],
+    "location": "G77",
+    "schoolName": [
+      "华中科技大学",
+      "Huazhong University of Science & Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.34",
+    "members": [
+      "罗宇兵(Luo Yubing)",
+      "董小钧(Dong Xiaojun)",
+      "李毅朝(Li Yichao)"
+    ]
+  },
+  {
+    "externalid": "106",
+    "id": "106",
+    "team": "team0106",
+    "password": [
+      "EMHQPTVZ",
+      "QAHPTSIZ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "diu",
+      "diu"
+    ],
+    "location": "G78",
+    "schoolName": [
+      "杭州师范大学",
+      "Hangzhou Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.62",
+    "members": [
+      "潘律旨(Pan Lvzhi)",
+      "薛鸿涛(xue hongtao)",
+      "余赛康(Yu Saikang)"
+    ]
+  },
+  {
+    "externalid": "140",
+    "id": "140",
+    "team": "team0140",
+    "password": [
+      "QVGDZRNP",
+      "VZDNMUCG"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "红豆泥",
+      "is that true"
+    ],
+    "location": "G79",
+    "schoolName": [
+      "暨南大学",
+      "Jinan University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.53",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "37",
+    "id": "37",
+    "team": "team0037",
+    "password": [
+      "ZUARIFGS",
+      "MBWDXPOY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "仰望星空",
+      "keep your eyes on the stars"
+    ],
+    "location": "G80",
+    "schoolName": [
+      "成都工业学院",
+      "Chengdu Technological University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.54",
+    "members": [
+      "何杰(He Jie)",
+      "杨虎(Yang Hu)",
+      "杨璐宏(Yang Luhong)"
+    ]
+  },
+  {
+    "externalid": "70",
+    "id": "70",
+    "team": "team0070",
+    "password": [
+      "AURCHZSV",
+      "EFYGKWAH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "中二少年",
+      "mid two boy"
+    ],
+    "location": "G81",
+    "schoolName": [
+      "福建师范大学",
+      "Fujian Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.12",
+    "members": [
+      "Yin Huang(Huang Yin)",
+      "赵嘉诚(Zhao Jiacheng)",
+      "林炜(Lin Wei)"
+    ]
+  },
+  {
+    "externalid": "97",
+    "id": "97",
+    "team": "team0097",
+    "password": [
+      "AWGFMIRL",
+      "ZQHWFUOB"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "马上就要被楼下超过了",
+      "O0O0O0O0O0O0"
+    ],
+    "location": "G82",
+    "schoolName": [
+      "哈尔滨工程大学",
+      "Harbin Engineering University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.22",
+    "members": [
+      "方福鑫(Fang Fuxin)"
+    ]
+  },
+  {
+    "externalid": "90",
+    "id": "90",
+    "team": "team0090",
+    "password": [
+      "ECIFLVAW",
+      "DSELOXAV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Gznu1",
+      "Gznu1"
+    ],
+    "location": "G83",
+    "schoolName": [
+      "贵州师范大学",
+      "Guizhou Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.65",
+    "members": [
+      "He XiaoWei(XiaoWei He)",
+      "Zhengrong Wu(Wu Zheng Rong)",
+      "QiZhou Yang(Yang QiZhou)"
+    ]
+  },
+  {
+    "externalid": "281",
+    "id": "281",
+    "team": "team0281",
+    "password": [
+      "BYPDJINF",
+      "AYZLQEUV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "四五十天",
+      "SCPC02"
+    ],
+    "location": "G84",
+    "schoolName": [
+      "西南科技大学",
+      "Southwest University of Science and Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.96",
+    "members": [
+      "Chengzhi Zhong(Zhong Chengzhi)",
+      "siyu liu(siyu liu)",
+      "tang peng(tang peng)"
+    ]
+  },
+  {
+    "externalid": "138",
+    "id": "138",
+    "team": "team0138",
+    "password": [
+      "IQBFEZHR",
+      "EWSYIARV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "肥仔欢乐队",
+      "Happy Feizai"
+    ],
+    "location": "G85",
+    "schoolName": [
+      "华中师范大学",
+      "Central China Normal University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.66",
+    "members": [
+      "金秀树(Jin Xiushu)",
+      "赵文渊(Zhao Wenyuan)",
+      "武玥彤(Wu Yuetong)"
+    ]
+  },
+  {
+    "externalid": "108",
+    "id": "108",
+    "team": "team0108",
+    "password": [
+      "VYHCIFWK",
+      "TRLJCGYV"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "码农翻身",
+      "Still xianyu"
+    ],
+    "location": "G86",
+    "schoolName": [
+      "河海大学",
+      "Hohai University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.83",
+    "members": [
+      "Xinpeng Zhan(Zhan Xinpeng)",
+      "Wang Ke(Wang Ke)",
+      "Yujie Zhang(Zhang Yujie)"
+    ]
+  },
+  {
+    "externalid": "95",
+    "id": "95",
+    "team": "team0095",
+    "password": [
+      "VKQCYJTU",
+      "RTQYDONM"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "卖女孩的小火柴",
+      "The little match girl"
+    ],
+    "location": "G87",
+    "schoolName": [
+      "桂林电子科技大学",
+      "Guilin University of Electronic Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.33",
+    "members": [
+      "qiuyu fu(fu qiuyu)",
+      "ke tan(tan ke)",
+      "段诩(Duan Xu)"
+    ]
+  },
+  {
+    "externalid": "55",
+    "id": "55",
+    "team": "team0055",
+    "password": [
+      "QAEVBJNL",
+      "XIJEGQVN"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我们一定会回来的",
+      "NEU_We'll definitely come back!"
+    ],
+    "location": "G88",
+    "schoolName": [
+      "东北大学",
+      "Northeastern University (China)"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.71",
+    "members": [
+      "袁乾宸(Yuan Qianchen)",
+      "杨博(Yang Bo)",
+      "王惟(Wang Wei)"
+    ]
+  },
+  {
+    "externalid": "117",
+    "id": "117",
+    "team": "team0117",
+    "password": [
+      "WTXULYAP",
+      "QSHNZXRJ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "乌龙茶",
+      "Oolong"
+    ],
+    "location": "G90",
+    "schoolName": [
+      "湖南大学",
+      "Hunan University"
+    ],
+    "mark": "post-graduate",
+    "ip": "192.168.7.87",
+    "members": [
+      "WeiJin Zhu(Zhu WeiJin)",
+      "Chen Anqi(Anqi Chen)",
+      "Zhou Guohao(Guohao Zhou)"
+    ]
+  },
+  {
+    "externalid": "44",
+    "id": "44",
+    "team": "team0044",
+    "password": [
+      "RTDGWHYQ",
+      "IENVRZXC"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "依依",
+      "Thesedays"
+    ],
+    "location": "G91",
+    "schoolName": [
+      "大连理工大学",
+      "Dalian University of Technology"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.77",
+    "members": [
+      "shoukui Zhang(Zhang shoukui)",
+      "Yufan Huang(Huang Yufan)",
+      "hangyu jin(jin hangyu)"
+    ]
+  },
+  {
+    "externalid": "100",
+    "id": "100",
+    "team": "team0100",
+    "password": [
+      "PFAGLUQR",
+      "IUOSBPLY"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "苍穹",
+      "The Firmament"
+    ],
+    "location": "G92",
+    "schoolName": [
+      "哈尔滨工业大学（威海）",
+      "Harbin Institute of Technology at Weihai"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.103",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "externalid": "274",
+    "id": "274",
+    "team": "team0274",
+    "password": [
+      "LPNYUDWV",
+      "GWQZLDPH"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "我觉得要全部重构一下",
+      "Rewrite the world"
+    ],
+    "location": "G94",
+    "schoolName": [
+      "西北工业大学",
+      "Northwestern Polytechnical University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.102",
+    "members": [
+      "Xueying Du(Du Xueying)",
+      "郑依帆(Zheng Yifan)",
+      "Douxin Feng(Feng Douxin)"
+    ]
+  },
+  {
+    "externalid": "103",
+    "id": "103",
+    "team": "team0103",
+    "password": [
+      "KQEBTWLO",
+      "SZHLFRGQ"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "Za De Dou Team",
+      "Za De Dou Team"
+    ],
+    "location": "G95",
+    "schoolName": [
+      "哈尔滨学院",
+      "Harbin University"
+    ],
+    "mark": "regular",
+    "ip": "192.168.7.105",
+    "members": [
+      "yeguang li(li yeguang)",
+      "chuncheng jiao(jiao chuncheng)",
+      "Ruyi Hua(Hua Ruyi)"
+    ]
+  },
+  {
+    "externalid": "382",
+    "id": "382",
+    "team": "team0382",
+    "password": [
+      "QJPYZUIA",
+      "QIOHYXBT"
+    ],
+    "photoName": "0000.jpg",
+    "name": [
+      "死神永生",
+      "wanafly2"
+    ],
+    "location": "G96",
+    "schoolName": [
+      "wanafly",
+      "wanafly"
+    ],
+    "mark": "star",
+    "ip": "192.168.7.101",
+    "members": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

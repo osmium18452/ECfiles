@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=touch to save the world
+Comment=link to oj
+Exec=/usr/bin/firefox 192.168.0.101
+Icon=/home/XXX/.cache/icon2oj.png
+Terminal=false
+StartupNotify=true
+Type=Application
