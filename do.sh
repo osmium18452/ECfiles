@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/usr/bin/env bash 
 dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 cd $dir
 
@@ -32,41 +31,23 @@ EOF
     read chc
     clear
     case $chc in
-        1)
-            ./scr/createUser.sh
-            ;;
-        2)
-            ./scr/desktop_hostname.py
-            ;;
-        3)
-            ./scr/mkLink2oj.sh
-            ;;
-        4)
-            ./scr/sendFile2login.py
-            ;;
-        5)
-            ./scr/bindUSB.sh
-            ;;
-        6)
-            ./scr/deluser.sh
-            ;;
-        7)
-            ./scr/fixtime.sh
-            ;;
-        8)
-            ./scr/lightscreen.sh
+        1) ./scr/createUser.sh ;;
+        2) ./scr/desktop_hostname.py ;;
+        3) ./scr/mkLink2oj.sh ;;
+        4) ./scr/sendFile2login.py ;;
+        5) ./scr/bindUSB.sh ;;
+        6) ./scr/deluser.sh ;;
+        7) ./scr/fixtime.sh ;;
+        8) ./scr/lightscreen.sh ;;
+        9)
+            pscp -h iplist -t 1 './scr/autogetip.sh' '/root/xx.sh'
+            pssh -h iplist -t 1 'nohup /root/xx.sh &' > /dev/null
             ;;
         q)
             echo "quit"
             break
             ;;
-        9)
-            pscp -h iplist -t 1 './scr/autogetip.sh' '/root/xx.sh'
-            pssh -h iplist -t 1 'nohup /root/xx.sh &' > /dev/null
-            ;;
-        *)
-            echo "重新输入"
-            ;;
+        *) echo "重新输入" ;;
     esac
 done
 
