@@ -10,7 +10,7 @@ from selenium import webdriver
 
 os.system('killall phantomjs')
 os.system('mkdir -p ./res')
-with open('./auth', 'w') as f:
+with open('./dict', 'w') as f:
     for i in "qwertyuiopasdfghjklzxcvbnm":
         f.write(i + '\n')
 
