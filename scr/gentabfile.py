@@ -53,22 +53,22 @@ for xx in js:
     shortname, country = "", "CHN"
     try:
         shortname, country = info[sname][0], info[sname][1]
+
+        teamStr = ""
+        teamStr = teamStr + eraseZ(xx["externalid"]) + '\t'
+        teamStr = teamStr + addto3(xx["externalid"]) + '\t'
+        teamStr = teamStr + ID[xx["mark"]] + '\t'
+        teamStr = teamStr + xx["name"][0] + '(' + xx['name'][1] + ')\t'
+        teamStr = teamStr + sname + '\t'
+        teamStr = teamStr + shortname + '\t'
+        teamStr = teamStr + country
+        teams.write(teamStr + '\n')
+
+        accStr = "team\t\t"
+        accStr = accStr + "t" + addto3(eraseZ(xx["externalid"])) + '\t'
+        accStr = accStr + xx["password"][1]
+        accounts.write(accStr + '\n')
+
     except KeyError:
         pass
-
-    teamStr = ""
-    teamStr = teamStr + eraseZ(xx["externalid"]) + '\t'
-    teamStr = teamStr + addto3(xx["externalid"]) + '\t'
-    teamStr = teamStr + ID[xx["mark"]] + '\t'
-    teamStr = teamStr + xx["name"][0] + '(' + xx['name'][1] + ')\t'
-    teamStr = teamStr + sname + '\t'
-    teamStr = teamStr + shortname + '\t'
-    teamStr = teamStr + country
-    teams.write(teamStr + '\n')
-
-    accStr = "team\t\t"
-    accStr = accStr + "t" + addto3(eraseZ(xx["externalid"])) + '\t'
-    accStr = accStr + xx["password"][1]
-    accounts.write(accStr + '\n')
-
     print(xx['id'], "done.")

@@ -81,6 +81,7 @@ while True:
             json.dump(l, f, ensure_ascii=False, indent=4)
         d.close()
         break
+    print("waiting for robot...")
     sleep(3)
 
 os.system('rm ./auth')
