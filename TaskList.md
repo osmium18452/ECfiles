@@ -13,7 +13,7 @@
 ## For Jury Workstations
 
 - 修改 hostname (用以 Domjudge 识别)
-- 修改凭据文件 (~~位置忘了...~~)
+- 修改凭据文件 ( `/opt/domjudge/judgehost/etc/restapi.secret` )
 
 ## For Web Server
 
