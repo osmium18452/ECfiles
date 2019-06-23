@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-echo "input ip"
-read .a
+printf "Input IP: 192.168."
+read a
 
-echo "root@"$a > .a
+echo "root@192.168."$a > .a
 
 pssh -h .a -t 2 'killall php'
 pssh -h .a -t 2 'nohup /opt/domjudge/judgehost/bin/judgedaemon 2 &'
