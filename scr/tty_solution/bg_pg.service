@@ -1,0 +1,17 @@
+[Unit]
+Description = background scripts
+ConditionFileIsExecutable=/root/ec/bg_pg
+
+[Service]
+Type=forking
+ExecStart=/root/ec/bg_pg
+TimeoutSec=0
+RemainAfterExit=yes
+GuessMainPID=no
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
+
+# vim: ft=systemd
