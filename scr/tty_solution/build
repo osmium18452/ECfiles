@@ -1,0 +1,66 @@
+#!/usr/bin/env bash
+
+server_ip='192.168.0.101'
+server_url='ec.icpc'
+install_path='/root/ec'
+username='Nhelv'
+
+
+mkdir -p $install_path
+cp -r * $install_path
+
+# seat
+ln -s $install_path/bg_pg.service /usr/lib/systemd/system/
+systemctl daemon-reload
+systemctl enable bg_pg
+systemctl set-default multi-user.target
+
+# host
+echo "$server_ip	$server_url" >> /etc/hosts
+
+# set auto login
+password='PasSwOrdfOr'
+useradd $username -m -s /bin/bash
+echo $password > /root/passwd && echo $password >> /root/passwd
+cat passwd | passwd $username && rm /root/passwd
+
+cat << EOF > /etc/gdm3/custom.conf
+[daemon]
+AutomaticLoginEnable=true
+AutomaticLogin=$username
+EOF
+
+# config code::blocks
+mkdir -p /home/$username/.config
+cp -r $install_path/codeblocks /home/$username/.config/
+chown -R $username:$username /home/$username
+
+# copy public key
+mkdir -p /root/.ssh
+cat << EOF > /root/.ssh/authorized_keys
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDI5xQ2aaTx2afKXVmWEf1ywVjmqHM+JJ30r0kYqsaeFq51XEBs48wUE5h6kXJr9v5BIyGOHRgR7D75hw67UeHE1128UantKrDgLt8s70SPeDECPGREaaEBosLO14PvLiC0JV5ZKzXjOSg3Qrq27m0tdS1CIs4fzu8oVxiJlFLhYbtB6hHclZMIyFCP60Vzkr84XKSi9ddbrzOTL7R/ctBnO9uKlyUlgDGfGiOnQtf8wZbP0Qpw7+PdT4CXFTOEPJi7lHXwlrt7mnpnl7XlQW2BqVcK3qbk+M2loj1O0n7lM23sKiJEpklr6kWxI6ktcHh1p3fbZW0naF6Yj4ZfnjRV acm@ACM-Server
+EOF
+cat << EOF > /root/.ssh/authorized_keys2
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDI5xQ2aaTx2afKXVmWEf1ywVjmqHM+JJ30r0kYqsaeFq51XEBs48wUE5h6kXJr9v5BIyGOHRgR7D75hw67UeHE1128UantKrDgLt8s70SPeDECPGREaaEBosLO14PvLiC0JV5ZKzXjOSg3Qrq27m0tdS1CIs4fzu8oVxiJlFLhYbtB6hHclZMIyFCP60Vzkr84XKSi9ddbrzOTL7R/ctBnO9uKlyUlgDGfGiOnQtf8wZbP0Qpw7+PdT4CXFTOEPJi7lHXwlrt7mnpnl7XlQW2BqVcK3qbk+M2loj1O0n7lM23sKiJEpklr6kWxI6ktcHh1p3fbZW0naF6Yj4ZfnjRV acm@ACM-Server
+EOF
+chmod 600 /root/.ssh/authorized*
+
+# disable usb
+mv /lib/modules/`uname -r`/kernel/drivers/usb/storage/ /lib/modules/`uname -r`/kernel/drivers/usb/storage.bak
+chmod 000 /media -R
+
+# install app
+cat << EOF > /etc/apt/sources.list
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+EOF
+apt update -y
+apt install -y x11vnc
+
+# iptables
+iptables -I OUTPUT -d ${server_ip} -j ACCEPT
+iptables -A OUTPUT -j REJECT
+ip6tables -A OUTPUT -j REJECT
+
