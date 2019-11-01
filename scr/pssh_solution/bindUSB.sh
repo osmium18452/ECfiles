@@ -2,7 +2,7 @@
 
 dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
-cd $dir/..
+cd $dir/../..
 
 command='mkdir /etc/bak -p && mv /lib/modules/`uname -r`/kernel/drivers/usb/storage/ /etc/bak'
 

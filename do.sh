@@ -31,16 +31,16 @@ EOF
     read chc
     clear
     case $chc in
-        1) ./scr/createUser.sh ;;
-        2) ./scr/desktop_hostname.py ;;
-        3) ./scr/mkLink2oj.sh ;;
-        4) ./scr/sendFile2login.py ;;
-        5) ./scr/bindUSB.sh ;;
-        6) ./scr/deluser.sh ;;
-        7) ./scr/fixtime.sh ;;
-        8) ./scr/lightscreen.sh ;;
+        1) ./scr/pssh_solution/createUser.sh ;;
+        2) ./scr/pssh_solution/desktop_hostname.py ;;
+        3) ./scr/pssh_solution/mkLink2oj.sh ;;
+        4) ./scr/pssh_solution/sendFile2login.py ;;
+        5) ./scr/pssh_solution/bindUSB.sh ;;
+        6) ./scr/pssh_solution/deluser.sh ;;
+        7) ./scr/pssh_solution/fixtime.sh ;;
+        8) ./scr/pssh_solution/lightscreen.sh ;;
         9)
-            pscp -h iplist -t 1 './scr/autogetip.sh' '/root/xx.sh'
+            pscp -h iplist -t 1 './scr/pssh_solution/autogetip.sh' '/root/xx.sh'
             pssh -h iplist -t 1 'nohup /root/xx.sh &' > /dev/null
             ;;
         q)

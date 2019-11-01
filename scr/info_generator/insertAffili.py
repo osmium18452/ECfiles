@@ -3,7 +3,7 @@ import json
 import os
 from getpath import getpath
 
-path = getpath('../set')
+path = getpath('../../set')
 
 with open(os.path.join(path, 'info.json')) as f:
     teams = json.load(f)
