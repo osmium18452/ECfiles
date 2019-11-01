@@ -25,14 +25,7 @@ def eraseZ(xx):
 
 
 def addto3(xx):
-    l = len(xx)
-    if l == 1:
-        return "00" + xx
-    elif l == 2:
-        return "0" + xx
-    elif l == 3:
-        return xx
-    return "000"
+    return format(xx, '0>3')
 
 
 ID = {
