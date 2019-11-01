@@ -4,7 +4,7 @@ from PIL import Image
 from getpath import getpath
 import os
 
-path = getpath('../set/pic')
+path = getpath('../../set/pic')
 
 size = (1920, 1080)
 

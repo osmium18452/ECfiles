@@ -6,7 +6,7 @@ import sys
 import os
 from getpath import getpath
 
-path = getpath('../set')
+path = getpath('../../set')
 
 js = json.load(open(os.path.join(path, "info.json"), "r"))
 teams = open(os.path.join(path, "teams.tab"), "w")

@@ -2,7 +2,7 @@
 
 dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
-cd $dir/..
+cd $dir/../..
 
 ct=`date +"%H:%M:%S %Y-%m-%d"`
 

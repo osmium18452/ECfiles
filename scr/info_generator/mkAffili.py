@@ -5,7 +5,7 @@ import os
 import json
 from getpath import getpath
 
-path = getpath('../set')
+path = getpath('../../set')
 
 school = open(os.path.join(path, 'JoinedSchool'), 'r')
 

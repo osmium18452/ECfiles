@@ -4,7 +4,7 @@ import json
 import os
 from getpath import getpath
 
-path = getpath('../set')
+path = getpath('../../set')
 
 tmp = 'update team set room = "{}" where teamid={};'
 
