@@ -11,9 +11,9 @@ cp -r * $install_path
 
 # seat
 sd_path=/lib/systemd/system
-ln -s $install_path/bg_pg.service $sd_path
-ln -s $install_path/vnc_dae.service $sd_path
-ln -s $install_path/cmd_exec/cmd_exec_client.service $sd_path
+ln -sf $install_path/bg_pg.service $sd_path
+ln -sf $install_path/vnc_dae.service $sd_path
+ln -sf $install_path/cmd_exec/cmd_exec_client.service $sd_path
 
 systemctl daemon-reload
 
