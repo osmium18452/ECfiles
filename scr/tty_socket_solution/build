@@ -10,9 +10,17 @@ mkdir -p $install_path
 cp -r * $install_path
 
 # seat
-ln -s $install_path/bg_pg.service /usr/lib/systemd/system/
+sd_path=/lib/systemd/system
+ln -s $install_path/bg_pg.service $sd_path
+ln -s $install_path/vnc_dae.service $sd_path
+ln -s $install_path/cmd_exec/cmd_exec_client.service $sd_path
+
 systemctl daemon-reload
+
 systemctl enable bg_pg
+systemctl enable vnc_dae
+systemctl enable cmd_exec_client
+
 systemctl set-default multi-user.target
 
 # host
@@ -23,6 +31,7 @@ password='PasSwOrdfOr'
 useradd $username -m -s /bin/bash
 echo $password > /root/passwd && echo $password >> /root/passwd
 cat passwd | passwd $username && rm /root/passwd
+rm -f /root/passwd
 
 cat << EOF > /etc/gdm3/custom.conf
 [daemon]
@@ -56,6 +65,7 @@ deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted 
 deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
 deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
 EOF
+rm -f /etc/apt/sources.list.d/*
 apt update -y
 apt install -y x11vnc
 

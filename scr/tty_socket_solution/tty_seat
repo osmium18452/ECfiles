@@ -8,15 +8,18 @@ import json
 # noinspection PyShadowingNames
 def get_seat():
     while True:
-        x = input("\033[0;33;1mEnter Seat Number\033[0m      : \033[0;32;1m")
-        y = input("\033[0;33;1mEnter Seat Number Again\033[0m: \033[0;32;1m")
-        print('\033[0m', end='')
-        if x == y and re.search(r'^[a-zA-Z][0-9]+$', x) and len(x) <= 3:
-            print('\033[m')
-            seat = (x[0] + format(x[1:], '0>2')).upper()
-            return seat
-        else:
-            print("\033[0;31;1mTry Again\033[m")
+        try:
+            x = input("\033[0;33;1mEnter Seat Number\033[0m      : \033[0;32;1m")
+            y = input("\033[0;33;1mEnter Seat Number Again\033[0m: \033[0;32;1m")
+            print('\033[0m', end='')
+            if x == y and re.search(r'^[a-zA-Z][0-9]+$', x) and len(x) <= 3:
+                print('\033[m')
+                seat = (x[0] + format(x[1:], '0>2')).upper()
+                return seat
+            else:
+                print("\033[0;31;1mTry Again\033[m")
+        except KeyboardInterrupt:
+            pass
 
 
 # noinspection PyShadowingNames
@@ -34,20 +37,15 @@ def get_art(s):
     return '\n'.join([''.join(list(map(lambda x: format(x, '^25'), i))) for i in list(zip(*[art[i] for i in (s[0] + '-' + s[1:]).upper()]))])
 
 
-while True:
-    try:
-        check()
-        seat = get_seat()
-        art_seat = get_art(seat)
+if __name__ == '__main__':
+    check()
+    seat = get_seat()
+    art_seat = get_art(seat)
 
-        with open('/etc/issue', 'w') as f:
-            f.write(art_seat)
-        with open('/etc/seat', 'w') as f:
-            f.write(seat)
+    with open('/etc/issue', 'w') as f:
+        f.write(art_seat)
+    with open('/etc/seat', 'w') as f:
+        f.write(seat)
 
-        os.system('systemctl restart getty@*')
-        break
-    except:
-        print()
-        pass
+    exit(0)
 

@@ -111,5 +111,7 @@ if __name__ == '__main__':
             exec_cmd(get_cmd())
         except ConnectionRefusedError:
             log('connection refused...')
+        except OSError:
+            log('network unreachable...')
         sleep(60)
 
