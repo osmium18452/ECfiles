@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import re
-import os
 import json
+
+install_path = '/root/ec'
 
 
 # noinspection PyShadowingNames
@@ -33,7 +34,7 @@ def check():
 
 
 def get_art(s):
-    art = json.load(open('art.json', 'r'))
+    art = json.load(open(install_path + '/art.json', 'r'))
     return '\n'.join([''.join(list(map(lambda x: format(x, '^25'), i))) for i in list(zip(*[art[i] for i in (s[0] + '-' + s[1:]).upper()]))])
 
 
@@ -43,7 +44,7 @@ if __name__ == '__main__':
     art_seat = get_art(seat)
 
     with open('/etc/issue', 'w') as f:
-        f.write(art_seat)
+        print(art_seat, file=f)
     with open('/etc/seat', 'w') as f:
         f.write(seat)
 
