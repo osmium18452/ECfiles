@@ -4,8 +4,7 @@ set -e
 
 install_path='/root/ec'
 
-openvt -s -w $install_path/tty_seat &
+openvt -s -w $install_path/tty_seat
 
-python3 $install_path/cmd_exec/client.py &
+systemctl restart getty@*
 
-x11vnc -display :0 -nap -noxdamage -passwd nopassword -rfbport 5900 -viewonly -forever -loopbg &
