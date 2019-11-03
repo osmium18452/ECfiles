@@ -30,7 +30,7 @@ echo "$server_ip	$server_url" >> /etc/hosts
 password='PasSwOrdfOr'
 useradd $username -m -s /bin/bash
 echo $password > /root/passwd && echo $password >> /root/passwd
-cat passwd | passwd $username && rm /root/passwd
+cat /root/passwd | passwd $username && rm /root/passwd
 rm -f /root/passwd
 
 cat << EOF > /etc/gdm3/custom.conf
@@ -73,4 +73,5 @@ apt install -y x11vnc
 iptables -I OUTPUT -d ${server_ip} -j ACCEPT
 iptables -A OUTPUT -j REJECT
 ip6tables -A OUTPUT -j REJECT
-
+iptables-save
+ip6tables-save
