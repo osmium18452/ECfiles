@@ -51,8 +51,8 @@ def log(msg):
     :param msg: message to log
     """
     global lock_log, logs
-    log_time = datetime.datetime.now().strftime('[\033[0;32;1m%y-%m-%d %H:%M:%S\033[0m]')
-    log_content = log_time + ' ' + msg
+
+    log_content = f'[\033[0;32;1m{datetime.datetime.now():%y-%m-%d %H:%M:%S}\033[0m] {msg}'
 
     lock_log.acquire()
     try:
@@ -69,7 +69,7 @@ def get_cmd():
     global cmd_cnt, cmd_list, lock_cmd_list
     while True:
         try:
-            cmd_new = input('CMD[{}] > '.format(format(cmd_cnt, '0>3')))
+            cmd_new = input(f'CMD[{cmd_cnt:0>3}] > ')
 
             lock_cmd_list.acquire()
             try:
@@ -96,7 +96,7 @@ def update_seat_info(seat_nr, ip_addr):
     try:
         seat_ip[seat_nr] = {
             'ip': ip_addr,
-            'time': datetime.datetime.now().strftime('%y-%m-%d %H:%M:%S')
+            'time': f'{datetime.datetime.now():%y-%m-%d %H:%M:%S}'
         }
 
         seat_ip_file.seek(0)
@@ -113,7 +113,7 @@ def link_handler(link, client):
     :param client: (ip, port) for client
     """
     global lock_cmd_list
-    log('conn from {}:{} start'.format(client[0], client[1]))
+    log(f'conn from {client[0]}:{client[1]} start')
 
     lock_cmd_list.acquire()
     try:
@@ -124,7 +124,7 @@ def link_handler(link, client):
     while True:
         # get and update seat
         seat = link.recv(128).decode()
-        log('{} -- {}'.format(client[0], seat))
+        log(f'{client[0]} -- {seat}')
         update_seat_info(seat_nr=seat, ip_addr=client[0])
 
         # send cmd
@@ -133,7 +133,7 @@ def link_handler(link, client):
 
         # waiting for exit
         if ret == 'exit':
-            log('conn from {}:{} exit'.format(client[0], client[1]))
+            log(f'conn from {client[0]}:{client[1]} exit')
             link.close()
             return
 
