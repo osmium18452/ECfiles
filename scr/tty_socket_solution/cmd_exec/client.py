@@ -95,7 +95,7 @@ def exec_cmd(cmd_dict):
     """
     global cmd_his
     for cmd_nr in cmd_dict:
-        if cmd_his.get(cmd_nr) is None:
+        if cmd_his.get(cmd_nr) != cmd_dict[cmd_nr]:
             cmd_to_exec = cmd_dict[cmd_nr]
 
             log('exec command: {}'.format(cmd_to_exec))
