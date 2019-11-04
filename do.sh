@@ -35,7 +35,7 @@ EOF
         2) ./scr/pssh_solution/desktop_hostname.py ;;
         3) ./scr/pssh_solution/mkLink2oj.sh ;;
         4) ./scr/pssh_solution/sendFile2login.py ;;
-        5) ./scr/pssh_solution/bindUSB.sh ;;
+        5) ./scr/pssh_solution/banUSB.sh ;;
         6) ./scr/pssh_solution/deluser.sh ;;
         7) ./scr/pssh_solution/fixtime.sh ;;
         8) ./scr/pssh_solution/lightscreen.sh ;;
