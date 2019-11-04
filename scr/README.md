@@ -6,9 +6,9 @@
 
 - [使用 `pssh` 控制选手机的方案](./pssh_solution)
 
-- [评测机用脚本](./judgehost)
-
 - [使用 `python socket` 控制选手机的方案](./tty_socket_solution)
+
+- [评测机用脚本](./judgehost)
 
 - [滚动榜单](./html)
 
