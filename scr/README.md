@@ -14,3 +14,5 @@
 
 - [从 `icpc` 官网获取所有学校信息的爬虫](./AllSchoolInfo)
 
+- [比赛后颁奖用滚榜](./scoreboard_with_example)
+
