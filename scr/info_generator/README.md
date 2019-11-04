@@ -12,9 +12,9 @@
 
     生成 `team_Affiliation` 表需要的信息
 
-- `insertAffili.py`, `insertLoc.py`, `insertRoom`
+- `insertAffili.py`, `insertRoom`
 
-    由于 domjudge 队伍信息的导入不支持 `Affili`, `location`, `room` 等信息
+    由于 domjudge 队伍信息的导入不支持 `Affili`, `room`(座位号) 等信息
 
     于是使用这些脚本生成 `sql` 直接对数据库进行操作
 
