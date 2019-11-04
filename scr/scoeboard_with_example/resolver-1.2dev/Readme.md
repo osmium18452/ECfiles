@@ -30,8 +30,9 @@
     |       |       /*********************************************************/
     |       |           Format:
     |       |               Size:       600 * 600 px suggested
-    |       |               Filename:   <school_id>.png 
-    |       |                           - Afiiliation ID in domjudge database
+    |       |               Filename:   <team_id>.png 
+    |       |                           - Team ID in domjudge database
+    |       |               Content:    Schol logo for team
     |       |               *Special(for better performance, not necessary):
     |       |                           Inside logo:    white background
     |       |                           Outside logo:   transparent
@@ -79,3 +80,12 @@
 - Double check EVERYTHING then press any key to start
 
 - runresolver.bat will automatically remove temp file when finished
+
+## Example
+
+    {
+        "Team name" : "Team name here",
+        "Team ID" : 269,
+        With standard school logo ./cdp/images/logo/269.png
+        With default team photo ./cdp/images/team/269.jpg
+    }
