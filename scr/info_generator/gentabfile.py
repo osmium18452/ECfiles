@@ -51,7 +51,7 @@ for xx in js:
         teamStr = teamStr + eraseZ(xx["externalid"]) + '\t'
         teamStr = teamStr + addto3(xx["externalid"]) + '\t'
         teamStr = teamStr + ID[xx["mark"]] + '\t'
-        teamStr = teamStr + xx["name"][0] + '(' + xx['name'][1] + ')\t'
+        teamStr = teamStr + xx["name"][0].replace('(', '（').replace(')', '）') + '(' + xx['name'][1] + ')\t'
         teamStr = teamStr + sname + '\t'
         teamStr = teamStr + shortname + '\t'
         teamStr = teamStr + country
