@@ -36,6 +36,7 @@ cat > /etc/ssh/sshd_config << EOF
 Port 22
 PermitRootLogin yes
 PubkeyAuthentication yes
+PasswordAuthentication no
 AuthorizedKeysFile  .ssh/authorized_keys
 ChallengeResponseAuthentication no
 UsePAM yes
