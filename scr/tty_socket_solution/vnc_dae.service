@@ -3,7 +3,7 @@ Description = desc
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/x11vnc -display :0 -nap -noxdamage -passwd nopassword -rfbport 5900 -viewonly -forever -loopbg
+ExecStart=/usr/bin/x11vnc -display :0 -nap -noxdamage -passwd nopassword -rfbport 5900 -viewonly -forever -auth guess
 Restart=on-failure
 RestartSec=10
 
