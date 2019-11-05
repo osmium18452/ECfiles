@@ -6,13 +6,13 @@ echo Notice: Put processed Images to ./cdp/image directory
 cls
 
 set xml=out
-echo Processing team name(ext2.xml)
+echo Processing team name(Generate ext2.xml)
 python main_file.py
 
-echo Processing unjuged runs(out.xml)
+echo Processing unjuged runs(Generate out.xml)
 python process_unjudged_run.py
 
-echo Generating scoreboard info - Please make sure MEDAL NUMBER is RIGHT!
+echo Generating scoreboard info - Please make sure MEDAL NUMBER is CORRECT!
 @pause
 call awards.bat %xml%.xml --medals <gold_rank> <silver_rank> <bronze_rank> --firstPlaceCitation "<first_palce_citation>" --fts true true
 echo Ready to start...
