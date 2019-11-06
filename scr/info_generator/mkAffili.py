@@ -28,9 +28,9 @@ for xx in school:
 
     try:
         shortname, country = info[enname][0], info[enname][1]
-        cs = '(NULL, "' + shortname + '", "' + enname + '", "' + country + '", ' + 'NULL),\n'
+        cs = f'(NULL, "{shortname}", "{enname}", "{country}", NULL),\n'
     except KeyError:
-        cs = '(NULL, NULL' + ', "' + enname + '", NULL, ' + 'NULL),\n'
+        cs = f'(NULL, NULL, "{enname}", NULL, NULL"),\n'
 
     res.write(cs)
 
