@@ -1,4 +1,4 @@
-<h2 align='center'> scripts </h2>
+<h1 align='center'> scripts </h1>
 
 ## Content
 
@@ -11,8 +11,6 @@
 - [评测机用脚本](./judgehost)
 
 - [滚动榜单](./html)
-
-- [从 `icpc` 官网获取所有学校信息的爬虫](./AllSchoolInfo)
 
 - [比赛后颁奖用滚榜](./scoreboard_with_example)
 

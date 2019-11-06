@@ -1,4 +1,4 @@
-<h2 align='center'> 比赛信息设置 </h2>
+<h1 align='center'> 比赛信息设置 </h1>
 
 ## 文件说明
 
