@@ -1,6 +1,6 @@
-<h3 align='center'> scripts </h3>
+<h2 align='center'> scripts </h2>
 
-#### Content
+## Content
 
 - [获取搭建比赛需要的文件](./info_generator)
 
