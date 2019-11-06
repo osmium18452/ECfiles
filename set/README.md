@@ -1,16 +1,16 @@
-<h3 align='center'> 比赛信息设置 </h3>
+<h2 align='center'> 比赛信息设置 </h2>
 
-#### 文件说明
+## 文件说明
 
-##### accounts.tab
+### accounts.tab
 
 队伍的账号信息，用以导入 Domjudge
 
-##### teams.tab
+### teams.tab
 
 队伍信息，用以导入 Domjudge
 
-##### info.json
+### info.json
 
 队伍的详细信息，格式：
 
@@ -47,31 +47,31 @@
 
 ---
 
-##### home
+### home
 
 gnome 的某种认证文件（我也不知道这是啥，但是没有的话，桌面图标就无法使用）
 
-##### icon2oj.png
+### icon2oj.png
 
 指向 Domjudge 的桌面快捷方式的图标
 
-##### link2oj.desktop
+### link2oj.desktop
 
 指向 Domjudge 的桌面快捷方式
 
-##### username
+### username
 
 脚本创建用户时使用的用户名
 
-##### passwd
+### passwd
 
 脚本创建用户时使用的密码
 
-##### codeblocks
+### codeblocks
 
 code::blocks 配置文件（默认配置，但是关闭了****补全，以防止闪退）
  
-##### ipmac.json
+### ipmac.json
 
 选手机 ip 和 mac 的对应关系（静态 ip 需要），格式：
 ```json
@@ -82,16 +82,16 @@ code::blocks 配置文件（默认配置，但是关闭了****补全，以防止
 
 ---
 
-##### pic.tar.gz
+### pic.tar.gz
 
 参赛学校的校徽（学校中文名.jpg（png？））<br> 使用时要解压。。。
 
-##### JoinedSchool
+### JoinedSchool
 
 所有参加的学校（中文名）<br> ~~我也不知道当时为啥弄个这个~~
 
 
-##### SchoolInfo.json
+### SchoolInfo.json
 
 学校信息的 json，格式：
 
@@ -104,7 +104,7 @@ code::blocks 配置文件（默认配置，但是关闭了****补全，以防止
 }
 ```
 
-##### SchoolNameCH_EN.json
+### SchoolNameCH_EN.json
 
 学校中英文名对照表，格式：
 
@@ -114,7 +114,7 @@ code::blocks 配置文件（默认配置，但是关闭了****补全，以防止
 }
 ```
 
-##### sname2id.json
+### sname2id.json
 
 学校英文名和学校 id 的对照表，格式：
 
