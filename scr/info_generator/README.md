@@ -12,27 +12,30 @@
 
 | Field | Type | Null | Comments |
 |-|-|-|-|
-| role | str | NO | |
-| *** | str | YES | |
-| username | str | NO | |
-|password | str | YES | |    
+| role | str | NO | 账号规则（team、admin等）|
+| name | str | YES | 没什么卵用的字段，一般留空 |
+| username | str | NO | 登陆用户名，用户名中 **最后出现** 的 **一串数字** 应当是其相应的 **队伍的id** |
+|password | str | YES | 登陆密码，可以先留空，最后在domjudge的账号管理处批量生成 |
+
 
 `teams.tab` 结构：
 
 | Field | Type | Null | Comments |
 |-|-|-|-|
-| teamid | int | NO | |
-| externalid | int | YES | |
-| ***id | int | NO | |
-| team name | str | NO | |
-| School name | str | YES | |
-| abbr. school name | str | YES | |
-| country | str | YES | |
+| teamid | int | NO | 队伍的id |
+| externalid | int | YES | 队伍的扩展id，一般与teamid相等 |
+| categoryid | int | NO | 队伍类别的id，如 system，jury，star，girl等 |
+| team name | str | NO | 队伍名 |
+| affiliation name | str | YES | |
+| abbr. affiliation name | str | YES | affiliation name 的简写 |
+| country | str | YES | affiliation 的所属国家，三个字母表示 |
 
 **Requirement**
 - [info.json](../../set/README.md#infojson)
 - [SchoolInfo.json](../../set/README.md#schoolinfojson)
     
+---
+
 ### mkAffili.py
 
 生成 `team_Affiliation` 表需要的信息，表结构：
@@ -50,6 +53,8 @@
 - [JoinedSchool](../../set/README.md#joinedschool)
 - [SchoolInfo.json](../../set/README.md#schoolinfojson)
 - [SchoolNameCH_EN.json](../../set/README.md#schoolnamech_enjson)
+    
+---
 
 ### insertAffili.py, insertRoom.py
 
@@ -61,6 +66,8 @@
 - [info.json](../../set/README.md#infojson)
 - [sname2id.json](../../set/README.md#sname2idjson)
     > 学校的 id 在使用 mkAffli.py 生成的 sql 插入数据库后可从数据库读取。
+    
+---
 
 ### procPic.py
 
@@ -68,12 +75,16 @@
 
 ~~没什么卵用，不如用 PS~~
     
+---
+    
 ### getpath.py
 
 获取相对于脚本的相对路径的绝对路径
 
 ~~一个没什么卵用的 python 模块，但是不能删:)~~
+    
+---
 
 ### AllSchoolInfo 
-
+·
 [从 `icpc` 官网获取所有学校信息的爬虫](./AllSchoolInfo)
